@@ -15,6 +15,8 @@ const eslintConfig = [
     ignores: [
       "node_modules/**",
       ".next/**",
+      // NEXT_DIST_DIR builds land here; generated output is not ours to lint.
+      ".next-build/**",
       "out/**",
       "build/**",
       "next-env.d.ts",
