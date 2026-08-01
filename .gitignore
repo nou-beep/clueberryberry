@@ -67,3 +67,7 @@ desktop.ini
 !.vscode/extensions.json
 *.swp
 .next-build/
+
+# pulled from Vercel, never committed
+.env.vercel.tmp
+.vercel
