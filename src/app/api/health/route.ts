@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/db/prisma";
+import { siteUrl } from "@/lib/site";
 
 /**
  * Is this deployment actually working?
@@ -61,9 +62,10 @@ export async function GET() {
     ? { ok: true, detail: "set" }
     : { ok: false, detail: "AUTH_SECRET is not set — sign-in and sign-up cannot work." };
 
-  checks.appUrl = process.env.NEXT_PUBLIC_APP_URL
-    ? { ok: true, detail: process.env.NEXT_PUBLIC_APP_URL }
-    : { ok: false, detail: "NEXT_PUBLIC_APP_URL is not set — sign-in callbacks will misfire." };
+  // Not required on Vercel: `siteUrl` falls back to the deployment URL, and
+  // Auth.js infers its own host. Worth setting for a custom domain, but a
+  // missing value is not a fault, so this never reports one.
+  checks.appUrl = { ok: true, detail: siteUrl };
 
   let puzzles = 0;
   let subjects = 0;
