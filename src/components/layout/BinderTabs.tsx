@@ -22,7 +22,10 @@ export function BinderTabs() {
       aria-label={t("primary")}
       className="relative z-10 -mb-0.5 hidden md:block"
     >
-      <ul className="flex items-end gap-0 px-3 sm:px-6">
+      {/* Same container and padding as the page card below, so the first tab
+          lines up with its left border instead of drifting toward the window
+          edge on wide screens. */}
+      <ul className="mx-auto flex w-full max-w-6xl items-end gap-0 px-2 sm:px-4">
         {DESTINATIONS.map(({ href, key, tone }) => {
           const Icon = DESTINATION_ICONS[key];
           const active = current?.key === key;
