@@ -1,0 +1,135 @@
+{
+  "slug": "ar-atraf-al-kharita",
+  "title": "أطراف الخريطة",
+  "language": "ar",
+  "subject": "geography",
+  "topic": "arab-world-geography",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "لا عواصم مشهورة هنا، بل حواف وأقاليم يعرفها من يدقق في الخريطة.",
+  "completionMessage": "بلغت الحواف كلها.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "نواكشوط",
+      "clue": "عاصمة على حافة الصحراء الكبرى",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "القيروان",
+      "clue": "أول مدينة إسلامية بنيت في إفريقية",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "سقطرى",
+      "clue": "جزيرة أشجارها تنزف دم الأخوين",
+      "clueStyle": "trivia",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "حضرموت",
+      "clue": "وادي المدن الطينية العالية",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "مدينة شبام فيه تعرف بمانهاتن الصحراء لبيوتها الطينية المرتفعة."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "هرمز",
+      "clue": "مضيق يمر منه خام الخليج",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "طرابلس",
+      "clue": "اسم تحمله عاصمة، وتحمله مدينة لبنانية",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "الحجاز",
+      "clue": "إقليم الحرمين",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "عسير",
+      "clue": "مرتفعات في أقصى جنوب غربي السعودية",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "سرت",
+      "clue": "خليج ليبي، ومدينة على ساحله",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 7,
+      "answer": "تهامة",
+      "clue": "سهل منخفض يحاذي البحر الأحمر",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 9,
+      "answer": "الجوف",
+      "clue": "منطقة سعودية شمالية، واسمها يوحي بالعمق",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أدرج أرخبيل سقطرى في قائمة التراث العالمي لليونسكو سنة 2008، ونسبة كبيرة من نباتاته لا توجد في أي مكان آخر.",
+      "sourceTitle": "اليونسكو — مركز التراث العالمي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أسس عقبة بن نافع القيروان سنة خمسين للهجرة، الموافقة لسنة 670 ميلادية تقريبا.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة القيروان",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أضيق نقطة في مضيق هرمز تبلغ نحو ثلاثة وثلاثين كيلومترا، ويعد المضيق أهم ممر بحري لنقل النفط في العالم.",
+      "sourceTitle": "إدارة معلومات الطاقة الأميركية — نقاط الاختناق البحرية",
+      "reviewStatus": "verified"
+    }
+  ]
+}

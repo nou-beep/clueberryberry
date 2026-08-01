@@ -1,0 +1,134 @@
+{
+  "slug": "ar-sukkan-al-jabal",
+  "title": "سكان الجبل",
+  "language": "ar",
+  "subject": "greek-mythology",
+  "topic": "olympian-gods",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "اثنا عشر مقعدا في القمة، وأحد عشر مدخلا في الشبكة.",
+  "completionMessage": "هدأ المجمع الإلهي.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 7,
+      "answer": "اثينا",
+      "clue": "حكمة خرجت من رأس أبيها",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "زيوس",
+      "clue": "كبير الأولمبيين",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "افروديت",
+      "clue": "ولدت من زبد البحر",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "بوسيدون",
+      "clue": "ثلاثي الشعب يهز الماء والأرض",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "هيفستوس",
+      "clue": "حداد الآلهة الأعرج",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "ارتميس",
+      "clue": "قوس وغابة وقمر",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 2,
+      "answer": "ابولو",
+      "clue": "القيثارة والنبوءة ودلفي",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "هيرا",
+      "clue": "ربة الزواج، وأشهر الغيورات",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 1,
+      "answer": "هرمس",
+      "clue": "نعلان بجناحين، ورسول بين العالمين",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "اوليمب",
+      "clue": "عرش الاثني عشر",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 0,
+      "answer": "صاعقة",
+      "clue": "سلاح رب السماء",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "جبل أوليمبوس أعلى قمة في اليونان، ويبلغ ارتفاع ذروته نحو 2917 مترا.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة جبل أوليمبوس",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "في رواية هسيودوس خرجت أثينا من رأس زيوس مكتملة السلاح بعدما شق هيفستوس رأسه بفأس.",
+      "sourceTitle": "هسيودوس — أنساب الآلهة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "لكل إله أولمبي مقابل روماني: أفروديت تقابل فينوس، وهرمس يقابل ميركوريوس، وبوسيدون يقابل نبتون.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الميثولوجيا الرومانية",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "slug": "kitchen-chemistry",
+  "title": "Kitchen Chemistry",
+  "language": "en",
+  "subject": "chemistry",
+  "topic": "everyday-chemistry",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "The laboratory you cook in. No safety goggles required.",
+  "completionMessage": "Reaction complete. Let it rest before slicing.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "PECTIN",
+      "clue": "What makes jam set",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "A plant polysaccharide, abundant in apple peel and citrus pith, that forms a gel with sugar and acid."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "EMULSION",
+      "clue": "Mayonnaise, technically",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "Oil droplets suspended in water, held apart by lecithin from egg yolk."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "ACID",
+      "clue": "Sour note in a dish",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "MAILLARD",
+      "clue": "Browning reaction's namesake",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 5,
+      "explanation": "Louis-Camille Maillard, the French chemist who described sugar-amino acid browning in 1912."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "CARAMEL",
+      "clue": "Sugar taken to the edge of burnt",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "VINEGAR",
+      "clue": "Wine gone wrong, usefully",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4,
+      "explanation": "The French vin aigre means sour wine; bacteria turn the alcohol into acetic acid."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "GLUTEN",
+      "clue": "What kneading develops",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "Two wheat proteins, glutenin and gliadin, link into an elastic network as dough is worked."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 11,
+      "answer": "RUST",
+      "clue": "Cast iron's punishment for a wet sink",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "CAFFEINE",
+      "clue": "Bitter alkaloid before breakfast",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "YEAST",
+      "clue": "It burps carbon dioxide into dough",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 6,
+      "answer": "BRINE",
+      "clue": "Salt bath for a turkey",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The browning reaction between amino acids and reducing sugars is named for Louis-Camille Maillard, who published on it in 1912 — decades before cooks adopted his name for the crust on a steak.",
+      "sourceTitle": "Maillard, Comptes Rendus de l'Académie des Sciences (1912)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Caffeine is an alkaloid that occurs naturally in coffee beans, tea leaves, cacao and kola nuts, where it appears to deter insects.",
+      "sourceTitle": "Encyclopaedia Britannica — Caffeine",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Vinegar owes its sourness to acetic acid; table vinegars are typically sold at around five per cent acid by volume.",
+      "sourceTitle": "McGee, On Food and Cooking",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

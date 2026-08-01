@@ -1,0 +1,108 @@
+{
+  "slug": "brevets-et-bricoles",
+  "title": "Brevets et bricoles",
+  "language": "fr",
+  "subject": "general-knowledge",
+  "topic": "gk-inventions",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Huit idées qui ont mieux vieilli que leurs inventeurs.",
+  "completionMessage": "Brevet déposé, grille remplie.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "PENICILLINE",
+      "clue": "Une boîte oubliée, une moisissure, un Nobel",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 2,
+      "answer": "PARACHUTE",
+      "clue": "Vinci en dessina un, personne ne l’essaya de son vivant",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "CONSERVE",
+      "clue": "Appert l’a scellée pour les armées de Napoléon",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "DYNAMITE",
+      "clue": "Elle a financé les prix les plus pacifiques du monde",
+      "clueStyle": "misdirection",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "ASPIRINE",
+      "clue": "L’écorce de saule mise en cachet",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 11,
+      "answer": "BRAILLE",
+      "clue": "Six points suffisent à tout dire",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "IMPRIMERIE",
+      "clue": "Caractères mobiles venus de Mayence",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 1,
+      "answer": "STETHOSCOPE",
+      "clue": "Laennec l’a inventé par pudeur",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Gêné à l’idée d’appliquer l’oreille sur la poitrine d’une patiente, il roula une liasse de papier."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "René Laennec a imaginé le stéthoscope en 1816 à l’hôpital Necker, en roulant un cahier de papier pour écouter le cœur d’une patiente à distance.",
+      "sourceTitle": "René Laennec, De l’auscultation médiate (1819)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Nicolas Appert a mis au point la conservation par stérilisation en bocaux hermétiques et reçu en 1810 une récompense du gouvernement français, à charge pour lui d’en publier le procédé.",
+      "sourceTitle": "Nicolas Appert, L’Art de conserver (1810)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Alfred Nobel a breveté la dynamite en 1867 ; la fortune amassée grâce aux explosifs finance depuis 1901 les prix qui portent son nom.",
+      "sourceTitle": "Fondation Nobel, biographie d’Alfred Nobel",
+      "reviewStatus": "verified"
+    }
+  ]
+}

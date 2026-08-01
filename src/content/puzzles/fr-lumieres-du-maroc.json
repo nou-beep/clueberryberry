@@ -1,0 +1,132 @@
+{
+  "slug": "lumieres-du-maroc",
+  "title": "Lumières du Maroc",
+  "language": "fr",
+  "subject": "history",
+  "topic": "moroccan-history",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Dix mots pour traverser le pays, des remparts aux dynasties.",
+  "completionMessage": "Le chemin est fait, des montagnes à la mer.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "TANGER",
+      "clue": "Port qui regarde l’Espagne",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "Sur le détroit de Gibraltar, à une quinzaine de kilomètres de la côte européenne."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "ATLAS",
+      "clue": "Il porte le ciel, et la neige",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "Le titan de la mythologie a donné son nom à la chaîne dont les sommets restent enneigés l’hiver."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "RABAT",
+      "clue": "Capitale depuis 1912",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Le protectorat français y transfère la capitale, jusque-là Fès."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "MEDINA",
+      "clue": "Dédale ceint de murailles",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "ALMOHADE",
+      "clue": "Dynastie qui dressa la Koutoubia",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "La grande mosquée de Marrakech est édifiée au XIIe siècle sous cette dynastie venue du Haut Atlas."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "MINARET",
+      "clue": "D’où la voix appelle",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "KASBAH",
+      "clue": "Citadelle de pisé, et un tube des Clash",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "sourceNotes": "Rock the Casbah, The Clash, 1982."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 6,
+      "answer": "FES",
+      "clue": "Berceau d’al-Quaraouiyine",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "L’université y est fondée au IXe siècle, autour de la mosquée du même nom."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "BERBERE",
+      "clue": "Amazigh, dans l’usage ancien",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Le terme vient du grec barbaros par le latin ; les intéressés se nomment eux-mêmes Amazighs."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 6,
+      "answer": "SOUK",
+      "clue": "Marché, ou joyeux désordre",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Rabat est devenue capitale du Maroc en 1912, au début du protectorat français ; Fès avait longtemps tenu ce rôle.",
+      "sourceTitle": "Encyclopædia Britannica — Rabat",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La mosquée Koutoubia de Marrakech a été édifiée au XIIe siècle sous la dynastie almohade ; son minaret a inspiré la Giralda de Séville et la tour Hassan de Rabat.",
+      "sourceTitle": "UNESCO — Médina de Marrakech",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’université al-Quaraouiyine de Fès, fondée au IXe siècle, est souvent citée comme le plus ancien établissement d’enseignement supérieur encore en activité.",
+      "sourceTitle": "UNESCO — Médina de Fès",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

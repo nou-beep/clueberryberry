@@ -1,0 +1,125 @@
+{
+  "slug": "the-litmus-test",
+  "title": "The Litmus Test",
+  "language": "en",
+  "subject": "chemistry",
+  "topic": "acids-and-bases",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries either side of pH 7.",
+  "completionMessage": "Neatly neutralised.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "BUFFER",
+      "clue": "Mixture that refuses to let pH shift much",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "ALKALI",
+      "clue": "Base that dissolves happily in water",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "TITRATE",
+      "clue": "Add drop by drop until the colour turns",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 6,
+      "answer": "LITMUS",
+      "clue": "Lichen dye that changes colour with pH",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "BAKING",
+      "clue": "___ soda, the kitchen cupboard base",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "ARRHENIUS",
+      "clue": "Svante who tied acidity to hydrogen ions in 1887",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "NEUTRAL",
+      "clue": "What pure water at 25 degrees is",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 10,
+      "answer": "CITRIC",
+      "clue": "Lemon's acid, by name",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "PROTON",
+      "clue": "What a Bronsted acid hands over",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 5,
+      "answer": "AMMONIA",
+      "clue": "Sharp-smelling cleaner well above pH 7",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Svante Arrhenius proposed in 1887 that acids release hydrogen ions in water; Bronsted and Lowry later widened the definition to any proton donor.",
+      "sourceTitle": "Nobel Foundation, Nobel Prize in Chemistry 1903 biography",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "A buffer holds pH nearly steady because it contains both a weak acid and its conjugate base, so added acid or base is mopped up.",
+      "sourceTitle": "IUPAC Compendium of Chemical Terminology",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Litmus is extracted from lichens and has been used as an acidity indicator for centuries, long before pH was defined as a scale in 1909.",
+      "sourceTitle": "Encyclopaedia Britannica — litmus; earliest use is not precisely dated",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "player-select",
+  "title": "Player Select",
+  "language": "en",
+  "subject": "games",
+  "topic": "famous-game-characters",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Nine faces from the character select screen.",
+  "completionMessage": "Roster filled.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "MARIO",
+      "clue": "Plumber in red dungarees",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "KIRBY",
+      "clue": "Pink sphere that swallows other people's powers",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "PACMAN",
+      "clue": "Maze eater who arrived in 1980",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "SONIC",
+      "clue": "Blue hedgehog in a hurry",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "SAMUS",
+      "clue": "Bounty hunter inside the power armour",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 4,
+      "answer": "LARA",
+      "clue": "Croft's first name",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 4,
+      "answer": "LINK",
+      "clue": "Swordsman of Hyrule, or a piece of chain",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "LUIGI",
+      "clue": "Taller brother, in green",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "PIKACHU",
+      "clue": "Yellow electric mouse of a very large franchise",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Mario first appeared in Donkey Kong in 1981, where he was a carpenter called Jumpman; he became a plumber in Mario Bros. two years later.",
+      "sourceTitle": "Nintendo company history",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Samus Aran's identity was withheld until the closing screen of Metroid in 1986.",
+      "sourceTitle": "Metroid (Nintendo, 1986)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Namco released Pac-Man in 1980; designer Toru Iwatani has said he wanted a game that would draw players uninterested in shooting.",
+      "sourceTitle": "Interviews with Toru Iwatani; accounts of the design brief differ in detail",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

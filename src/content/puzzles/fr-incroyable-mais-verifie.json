@@ -1,0 +1,109 @@
+{
+  "slug": "incroyable-mais-verifie",
+  "title": "Incroyable, mais vérifié",
+  "language": "fr",
+  "subject": "fun-facts",
+  "topic": "true-but-unbelievable",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Rien d’inventé ici, malgré les apparences.",
+  "completionMessage": "Tout était vrai, y compris le plus douteux.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "VENUS",
+      "clue": "Sa journée dure plus longtemps que son année",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "SAHARA",
+      "clue": "Il lui arrive de neiger sur ses dunes algériennes",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "POULPE",
+      "clue": "Trois cœurs et du sang bleu",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 1,
+      "answer": "GIRAFE",
+      "clue": "Sept vertèbres cervicales, comme nous",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "FLAMANT",
+      "clue": "Sa couleur vient de son assiette",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "Les caroténoïdes des crustacés qu’il filtre se fixent dans ses plumes."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "MIEL",
+      "clue": "Aliment qui ne tourne jamais",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "BANANE",
+      "clue": "Botaniquement une baie, l’herbe qui la porte n’étant pas un arbre",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "ESCARGOT",
+      "clue": "Des milliers de dents sur une seule langue",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Sa radula est une râpe cornée couverte de rangées de denticules."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Vénus tourne sur elle-même en environ 243 jours terrestres alors qu’elle boucle son orbite en 225 : sa rotation est plus lente que sa révolution, et elle se fait à l’envers.",
+      "sourceTitle": "NASA, fiche « Venus Facts »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La girafe possède sept vertèbres cervicales, comme la quasi-totalité des mammifères ; chacune mesure simplement jusqu’à une trentaine de centimètres.",
+      "sourceTitle": "Encyclopædia Britannica, « giraffe »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La ville d’Aïn Séfra, aux portes du Sahara algérien, a connu plusieurs épisodes neigeux photographiés depuis 2016.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Épisodes largement relayés par la presse et par l’Office national de météorologie algérien ; le décompte exact des occurrences reste à confirmer."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "the-first-folio",
+  "title": "The First Folio",
+  "language": "en",
+  "subject": "literature",
+  "topic": "shakespeare",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Ten entries from the playhouse and the print shop.",
+  "completionMessage": "Exeunt.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "GLOBE",
+      "clue": "Bankside playhouse that burned in 1613",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "QUARTO",
+      "clue": "Cheaper format single plays were sold in beforehand",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 2,
+      "answer": "SONNET",
+      "clue": "Fourteen lines, and he left a hundred and fifty-four",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "IAMBIC",
+      "clue": "___ pentameter",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "PROSE",
+      "clue": "Unmetred speech generally handed to the clowns",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "CONDELL",
+      "clue": "Henry who helped assemble that 1623 volume",
+      "clueStyle": "historical",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 11,
+      "answer": "BANQUO",
+      "clue": "Uninvited guest at a Scottish feast",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "FOLIO",
+      "clue": "Large page format that gives the 1623 book its name",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "STRATFORD",
+      "clue": "Warwickshire town of his birth and his burial",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "MALVOLIO",
+      "clue": "Steward gulled by a forged letter and yellow stockings",
+      "clueStyle": "trivia",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The 1623 First Folio printed thirty-six plays, eighteen of which had never appeared in print before.",
+      "sourceTitle": "British Library, Shakespeare's First Folio",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "John Heminges and Henry Condell, both actors in Shakespeare's company, put the First Folio together seven years after his death.",
+      "sourceTitle": "Folger Shakespeare Library, First Folio",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Globe burned down in June 1613 when a cannon fired during a performance of Henry VIII set the thatched roof alight; it was rebuilt the next year.",
+      "sourceTitle": "Letter of Sir Henry Wotton, 2 July 1613",
+      "reviewStatus": "verified"
+    }
+  ]
+}

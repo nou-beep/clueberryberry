@@ -1,0 +1,116 @@
+{
+  "slug": "downstream",
+  "title": "Downstream",
+  "language": "en",
+  "subject": "geography",
+  "topic": "rivers",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Nine entries that all end up at the sea.",
+  "completionMessage": "Out through the estuary.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "MEANDER",
+      "clue": "Wide loop cut by a slow current",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 1,
+      "answer": "FLOOD",
+      "clue": "Consequence of a burst embankment",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "DANUBE",
+      "clue": "European waterway that passes four national capitals",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "AMAZON",
+      "clue": "River carrying more water than any other",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "VOLGA",
+      "clue": "Longest river in Europe, draining to the Caspian",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "SOURCE",
+      "clue": "Spring at the very top of the system",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "CONGO",
+      "clue": "African river with the deepest soundings on record",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "BANK",
+      "clue": "Side you stand on, or somewhere to keep money",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 6,
+      "answer": "MOUTH",
+      "clue": "Opening at the salt-water end",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Danube passes Vienna, Bratislava, Budapest and Belgrade, more national capitals than any other river.",
+      "sourceTitle": "International Commission for the Protection of the Danube River",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Volga runs about 3,530 kilometres and empties into the Caspian Sea, which has no outlet to the ocean.",
+      "sourceTitle": "Encyclopaedia Britannica — Volga River",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Surveys of the lower Congo have recorded depths beyond 200 metres, deeper than any other river measured.",
+      "sourceTitle": "Published depth soundings of the lower Congo; figures vary between surveys",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

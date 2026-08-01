@@ -1,0 +1,125 @@
+{
+  "slug": "the-second-world",
+  "title": "The Second World",
+  "language": "en",
+  "subject": "books",
+  "topic": "fantasy-books",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries from places with their own maps in the front.",
+  "completionMessage": "Back through the wardrobe.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "WIZARD",
+      "clue": "What Gandalf is, in Tolkien's terms",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "HOBBIT",
+      "clue": "The ___, published in 1937",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "NARNIA",
+      "clue": "Land found behind the fur coats",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "SHIRE",
+      "clue": "Green corner Bilbo Baggins leaves behind",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "MARTIN",
+      "clue": "George R. R. of Westeros",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "DISCWORLD",
+      "clue": "Flat world balanced on the back of a turtle",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "EARTHSEA",
+      "clue": "Archipelago at the centre of Le Guin's cycle",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "DRAGON",
+      "clue": "Smaug's kind",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "TROLL",
+      "clue": "Folklore bridge-keeper, now a nuisance in comment sections",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "GRIMOIRE",
+      "clue": "Spellbook, to give it its proper name",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Hobbit was published by George Allen and Unwin in September 1937; The Lord of the Rings followed in three volumes in 1954 and 1955.",
+      "sourceTitle": "George Allen and Unwin publication records",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Terry Pratchett wrote forty-one Discworld novels, from The Colour of Magic in 1983 to The Shepherd's Crown in 2015.",
+      "sourceTitle": "Colin Smythe and Transworld bibliography of Terry Pratchett",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Ursula K. Le Guin's Earthsea began with A Wizard of Earthsea in 1968 and eventually ran to six volumes, the last two published in 2001.",
+      "sourceTitle": "Parnassus Press and Houghton Mifflin editions; the count depends on whether a story collection is included",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

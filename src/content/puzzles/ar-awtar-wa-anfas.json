@@ -1,0 +1,134 @@
+{
+  "slug": "ar-awtar-wa-anfas",
+  "title": "أوتار وأنفاس",
+  "language": "ar",
+  "subject": "music",
+  "topic": "musical-instruments",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 8,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "ما يشد وما ينفخ، من التخت الشرقي إلى قاعة الحفل.",
+  "completionMessage": "انتهت الوصلة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "عود",
+      "clue": "سلطان الآلات الشرقية",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 1,
+      "answer": "قانون",
+      "clue": "آلة تعزف بالريش، واسمها كاسم التشريع",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 1,
+      "answer": "قيثارة",
+      "clue": "آلة إغريقية شدت أوتارها على إطار",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "رباب",
+      "clue": "قوس ووتر في يد الراوي البدوي",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "كمان",
+      "clue": "أربعة أوتار تحت الذقن",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "نغمة",
+      "clue": "أصغر ما تميزه الأذن في اللحن",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "ناي",
+      "clue": "قصبة تثقب فتغني",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "بيانو",
+      "clue": "ثمانية وثمانون مفتاحا",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "لحن",
+      "clue": "ما يعلق في الذاكرة قبل الكلام",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "مزمار",
+      "clue": "نفخ في أنبوب ذي لسان مهتز",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "وتر",
+      "clue": "مشدود بين طرفين، وضد الشفع",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "للبيانو القياسي ثمانية وثمانون مفتاحا: اثنان وخمسون أبيض وستة وثلاثون أسود.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة البيانو",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "زند العود خال من العتبات، وهو ما يتيح للعازف درجات وسيطة لا تسمح بها الآلات المعتبة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة العود",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "كلمة lute الإنجليزية وluth الفرنسية مشتقتان من العود العربي عبر الإسبانية.",
+      "sourceTitle": "قاموس أوكسفورد الإنجليزي — أصل كلمة lute",
+      "reviewStatus": "verified"
+    }
+  ]
+}

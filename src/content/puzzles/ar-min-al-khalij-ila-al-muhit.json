@@ -1,0 +1,134 @@
+{
+  "slug": "ar-min-al-khalij-ila-al-muhit",
+  "title": "من الخليج إلى المحيط",
+  "language": "ar",
+  "subject": "geography",
+  "topic": "arab-world-geography",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "أسماء يعرفها كل من قرأ نشرة الطقس العربية.",
+  "completionMessage": "طويت الخريطة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "دمشق",
+      "clue": "من أقدم العواصم المأهولة بلا انقطاع",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "مسقط",
+      "clue": "عاصمة تطل على بحر العرب",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "دجلة",
+      "clue": "نهر بغداد",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "الدوحة",
+      "clue": "حاضرة قطر",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "نخيل",
+      "clue": "شجر التمر",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 4,
+      "answer": "واحة",
+      "clue": "خضرة وسط الرمال",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "سيناء",
+      "clue": "شبه جزيرة بين خليجين",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 8,
+      "answer": "عمان",
+      "clue": "عاصمة أردنية على سبعة جبال",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "صحراء",
+      "clue": "الربع الخالي جزء منها",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "تونس",
+      "clue": "بلد وعاصمته يتقاسمان الاسم",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "صنعاء",
+      "clue": "حاضرة في مرتفعات اليمن",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "يلتقي نهرا دجلة والفرات عند مدينة القرنة جنوب العراق ليكونا شط العرب.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة شط العرب",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أدرجت مدينة صنعاء القديمة على لائحة التراث العالمي لليونسكو سنة 1986.",
+      "sourceTitle": "اليونسكو — مركز التراث العالمي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الربع الخالي أكبر صحراء رملية متصلة في العالم، وتمتد على أراضي السعودية وعمان والإمارات واليمن.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الربع الخالي",
+      "reviewStatus": "verified"
+    }
+  ]
+}

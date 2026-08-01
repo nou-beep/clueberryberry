@@ -1,26 +1,557 @@
 @import "tailwindcss";
 
+/* ==========================================================================
+   Clueberry — design tokens
+   See docs/design-system.md. Light is primary; "lamp" is a warm evening mode.
+   Decorative color lives in --accent (per subject); the crossword grid never
+   takes decorative color.
+   ========================================================================== */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Surfaces */
+  --desk: #ffe6ee;
+  --paper: #fff8ee;
+  --paper-bright: #fffdf8;
+  --paper-sunken: #ffefdf;
+  --tape: #ffe9b8;
+
+  /* Ink */
+  --ink: #3b2a2f;
+  --ink-soft: #6a5158;
+  --ink-faint: #8a6e76;
+  --line: #4a3339;
+  --line-soft: #e7cfc1;
+
+  /* Primary */
+  --pink: #ff7fae;
+  --pink-deep: #c62e68;
+  --peach: #ffc79e;
+  --coral: #ff8a6b;
+  --orange: #f0912f;
+  --butter: #ffe28a;
+
+  /* Accents */
+  --cherry: #dc2f3c;
+  --mint: #7fd1ae;
+  --mint-deep: #2f7d5c;
+  --lavender: #b8a2ee;
+  --sky: #7fc3ec;
+  --sage: #9dbb93;
+
+  /* Grid — high contrast, never decorated */
+  --cell: #ffffff;
+  --cell-ink: #231a1d;
+  --cell-block: #f4e7d9;
+  --cell-active: #ffdd7a;
+  --cell-word: #ffe3ee;
+  --cell-line: #cbb6ad;
+
+  /* State */
+  --correct: #2f7d5c;
+  --wrong: #c62222;
+  --revealed: #b3771a;
+  --focus: #2b5fd9;
+
+  /* Default decorative accent (overridden by [data-subject]) */
+  --accent: #c62e68;
+  --accent-soft: #ff7fae2e;
+
+  /* Elevation — hard offsets, never blur clouds */
+  --shadow-sticker: 0 2px 0 0 var(--line);
+  --shadow-card: 3px 3px 0 0 rgba(74, 51, 57, 0.18);
+  --shadow-window: 5px 5px 0 0 rgba(74, 51, 57, 0.2);
+  --shadow-lift: 5px 6px 0 0 rgba(74, 51, 57, 0.24);
+
+  --ease: cubic-bezier(0.2, 0.8, 0.3, 1);
+}
+
+[dir="rtl"] {
+  --shadow-card: -3px 3px 0 0 rgba(74, 51, 57, 0.18);
+  --shadow-window: -5px 5px 0 0 rgba(74, 51, 57, 0.2);
+  --shadow-lift: -5px 6px 0 0 rgba(74, 51, 57, 0.24);
+}
+
+[data-theme="lamp"] {
+  --desk: #2a2228;
+  --paper: #332a2e;
+  --paper-bright: #3b3135;
+  --paper-sunken: #291f24;
+  --tape: #5a4a32;
+
+  --ink: #fbf3ea;
+  --ink-soft: #d8c6c0;
+  --ink-faint: #b49e9c;
+  --line: #eadfd8;
+  --line-soft: #4b3e43;
+
+  --pink-deep: #ff9ec1;
+  --mint-deep: #8fdcb8;
+
+  /* The grid stays a light paper card even at night. */
+  --cell: #f6efe6;
+  --cell-block: #2a2228;
+  --cell-active: #f2c64f;
+  --cell-word: #ffd7e6;
+  --cell-line: #b9a49b;
+
+  --correct: #2f7d5c;
+  --wrong: #b81f1f;
+  --revealed: #8a5a10;
+  --focus: #9db9ff;
+
+  --accent: #ff9ec1;
+  --accent-soft: #ff7fae3d;
+
+  --shadow-card: 3px 3px 0 0 rgba(0, 0, 0, 0.4);
+  --shadow-window: 5px 5px 0 0 rgba(0, 0, 0, 0.45);
+  --shadow-lift: 5px 6px 0 0 rgba(0, 0, 0, 0.5);
+}
+
+[dir="rtl"][data-theme="lamp"],
+[data-theme="lamp"] [dir="rtl"] {
+  --shadow-card: -3px 3px 0 0 rgba(0, 0, 0, 0.4);
+  --shadow-window: -5px 5px 0 0 rgba(0, 0, 0, 0.45);
+  --shadow-lift: -5px 6px 0 0 rgba(0, 0, 0, 0.5);
+}
+
+/* High contrast: nothing decorative is load-bearing, so this is safe. */
+[data-contrast="high"] {
+  --desk: #ffffff;
+  --paper: #ffffff;
+  --paper-bright: #ffffff;
+  --paper-sunken: #f2f2f2;
+  --tape: #ffe28a;
+  --ink: #000000;
+  --ink-soft: #1a1a1a;
+  --ink-faint: #333333;
+  --line: #000000;
+  --line-soft: #555555;
+  --accent: #a3004f;
+  --accent-soft: #ffffff;
+  --cell: #ffffff;
+  --cell-ink: #000000;
+  --cell-block: #000000;
+  --cell-active: #ffd400;
+  --cell-word: #e6e6e6;
+  --cell-line: #000000;
+  --correct: #006644;
+  --wrong: #b00000;
+  --revealed: #7a4b00;
+  --focus: #0033cc;
+}
+
+[data-theme="lamp"][data-contrast="high"] {
+  --desk: #000000;
+  --paper: #000000;
+  --paper-bright: #0d0d0d;
+  --paper-sunken: #000000;
+  --ink: #ffffff;
+  --ink-soft: #f0f0f0;
+  --ink-faint: #d6d6d6;
+  --line: #ffffff;
+  --line-soft: #9a9a9a;
+  --accent: #ffb3d1;
+  --cell: #ffffff;
+  --cell-ink: #000000;
+  --cell-block: #000000;
+  --cell-line: #000000;
+}
+
+/* --------------------------------------------------------------------------
+   Subject decoration — only the decorative layer changes per subject.
+   --accent is used for text and icons, so every light value below clears
+   4.5:1 on --paper (#fff8ee) and --paper-bright (#fffdf8), and every lamp
+   value clears 4.5:1 on the lamp papers (#332a2e / #3b3135). Ratios are in
+   the comment beside each theme. Registry: src/lib/subject-theme.ts.
+   -------------------------------------------------------------------------- */
+
+/* learn */
+[data-subject="biology"] { --accent: #477a4d; --accent-soft: #477a4d26; }      /* 4.79 sage green */
+[data-subject="psychology"] { --accent: #bb3e73; --accent-soft: #bb3e7326; }   /* 4.92 ink pink */
+[data-subject="chemistry"] { --accent: #a05e15; --accent-soft: #a05e1526; }    /* 4.85 warm orange */
+[data-subject="geology"] { --accent: #6b5b95; --accent-soft: #6b5b9526; }      /* 5.60 amethyst */
+[data-subject="geography"] { --accent: #2f7d5e; --accent-soft: #2f7d5e26; }    /* 4.72 map green */
+[data-subject="finance"] { --accent: #77762d; --accent-soft: #77762d26; }      /* 4.51 coin gold-green */
+[data-subject="geopolitics"] { --accent: #2f5b9c; --accent-soft: #2f5b9c26; }  /* 6.43 globe ink blue */
+[data-subject="history"] { --accent: #8f5a30; --accent-soft: #8f5a3026; }      /* 5.42 vintage sepia */
+/* Archival: desaturated only — sepia and oxidised slate, never bright. */
+[data-subject="ww1"] { --accent: #6f5a44; --accent-soft: #6f5a4426; }          /* 6.18 sepia */
+[data-subject="ww2"] { --accent: #4c5f57; --accent-soft: #4c5f5726; }          /* 6.46 oxidised slate */
+
+/* know */
+[data-subject="general"] { --accent: #6a5158; --accent-soft: #6a515826; }      /* 6.79 neutral ink */
+[data-subject="funfacts"] { --accent: #cc4318; --accent-soft: #cc431826; }     /* 4.54 stamp red-orange */
+[data-subject="mythology"] { --accent: #ab4a2f; --accent-soft: #ab4a2f26; }    /* 5.31 deep terracotta */
+[data-subject="greek"] { --accent: #3d5878; --accent-soft: #3d587826; }        /* 6.95 pottery blue */
+[data-subject="egyptian"] { --accent: #8a6a0c; --accent-soft: #8a6a0c26; }     /* 4.80 gold */
+
+/* culture */
+[data-subject="music"] { --accent: #0f7a7f; --accent-soft: #0f7a7f26; }        /* 4.84 cassette teal */
+[data-subject="books"] { --accent: #8c4a68; --accent-soft: #8c4a6826; }        /* 6.04 bookmark mulberry */
+[data-subject="literature"] { --accent: #ab4761; --accent-soft: #ab476126; }  /* 5.23 rose */
+[data-subject="movies"] { --accent: #6d59b5; --accent-soft: #6d59b526; }       /* 5.32 lavender */
+[data-subject="games"] { --accent: #2c6f9f; --accent-soft: #2c6f9f26; }        /* 5.13 sky cobalt */
+
+/* fandom — inspired palettes only; never an official brand colour. */
+[data-subject="taylor"] { --accent: #9c4b9e; --accent-soft: #9c4b9e26; }      /* 5.09 pink-violet */
+[data-subject="onedirection"] { --accent: #b5314a; --accent-soft: #b5314a26; }/* 5.68 magazine red */
+
+/* second wave */
+[data-subject="technology"] { --accent: #3f6b8a; --accent-soft: #3f6b8a26; }   /* 5.28 slate blue */
+[data-subject="space"] { --accent: #4a4a8f; --accent-soft: #4a4a8f26; }        /* 6.56 indigo */
+[data-subject="language"] { --accent: #7a5a2e; --accent-soft: #7a5a2e26; }     /* 5.53 ink brown */
+[data-subject="animals"] { --accent: #5f6f28; --accent-soft: #5f6f2826; }      /* 5.19 olive */
+[data-subject="food"] { --accent: #b5522a; --accent-soft: #b5522a26; }         /* 4.92 terracotta */
+[data-subject="art"] { --accent: #8a4a8a; --accent-soft: #8a4a8a26; }          /* 5.81 plum */
+[data-subject="internet"] { --accent: #2f6f8f; --accent-soft: #2f6f8f26; }     /* 4.94 teal blue */
+[data-subject="y2k"] { --accent: #c23a86; --accent-soft: #c23a8626; }          /* 4.90 hot pink */
+[data-subject="morocco"] { --accent: #a8461f; --accent-soft: #a8461f26; }      /* 5.62 clay */
+[data-subject="arabworld"] { --accent: #1f6f5f; --accent-soft: #1f6f5f26; }    /* 5.21 teal green */
+[data-subject="frenchculture"] { --accent: #3b5bbf; --accent-soft: #3b5bbf26; }/* 5.63 french blue */
+
+[data-theme="lamp"] [data-subject="biology"] { --accent: #9fd3a3; }      /* 8.15 */
+[data-theme="lamp"] [data-subject="psychology"] { --accent: #ff9ec1; }   /* 7.22 */
+[data-theme="lamp"] [data-subject="chemistry"] { --accent: #eeb367; }    /* 7.46 */
+[data-theme="lamp"] [data-subject="geology"] { --accent: #b8a8e6; }      /* 6.47 */
+[data-theme="lamp"] [data-subject="geography"] { --accent: #7fd0ac; }    /* 7.62 */
+[data-theme="lamp"] [data-subject="finance"] { --accent: #c9c86f; }      /* 7.92 */
+[data-theme="lamp"] [data-subject="geopolitics"] { --accent: #9db9ee; }  /* 7.02 */
+[data-theme="lamp"] [data-subject="history"] { --accent: #d8a97f; }      /* 6.55 */
+[data-theme="lamp"] [data-subject="ww1"] { --accent: #c3b09a; }          /* 6.61 */
+[data-theme="lamp"] [data-subject="ww2"] { --accent: #a6bdb2; }          /* 6.98 */
+[data-theme="lamp"] [data-subject="general"] { --accent: #d8c6c0; }      /* 8.44 */
+[data-theme="lamp"] [data-subject="funfacts"] { --accent: #ff9b73; }     /* 6.74 */
+[data-theme="lamp"] [data-subject="mythology"] { --accent: #e79878; }    /* 6.06 */
+[data-theme="lamp"] [data-subject="greek"] { --accent: #9fb8d6; }        /* 6.82 */
+[data-theme="lamp"] [data-subject="egyptian"] { --accent: #e0c268; }     /* 8.00 */
+[data-theme="lamp"] [data-subject="music"] { --accent: #78cfd0; }        /* 7.70 */
+[data-theme="lamp"] [data-subject="books"] { --accent: #dd9cc0; }        /* 6.35 */
+[data-theme="lamp"] [data-subject="literature"] { --accent: #e79aac; }   /* 6.36 */
+[data-theme="lamp"] [data-subject="movies"] { --accent: #c3b4f2; }       /* 7.36 */
+[data-theme="lamp"] [data-subject="games"] { --accent: #8dc4ea; }        /* 7.42 */
+[data-theme="lamp"] [data-subject="taylor"] { --accent: #e29ade; }       /* 6.56 */
+[data-theme="lamp"] [data-subject="onedirection"] { --accent: #f0919f; } /* 6.12 */
+
+[data-theme="lamp"] [data-subject="technology"] { --accent: #9dc3de; }
+[data-theme="lamp"] [data-subject="space"] { --accent: #aeaee8; }
+[data-theme="lamp"] [data-subject="language"] { --accent: #d9bb87; }
+[data-theme="lamp"] [data-subject="animals"] { --accent: #c3d183; }
+[data-theme="lamp"] [data-subject="food"] { --accent: #f0a184; }
+[data-theme="lamp"] [data-subject="art"] { --accent: #dda3dd; }
+[data-theme="lamp"] [data-subject="internet"] { --accent: #93c8e2; }
+[data-theme="lamp"] [data-subject="y2k"] { --accent: #f597c4; }
+[data-theme="lamp"] [data-subject="morocco"] { --accent: #eda07f; }
+[data-theme="lamp"] [data-subject="arabworld"] { --accent: #86cfbe; }
+[data-theme="lamp"] [data-subject="frenchculture"] { --accent: #a8bcf2; }
+
+/* --------------------------------------------------------------------------
+   Archival tone. A *reduction* of decoration for subjects where cheerfulness
+   would be inappropriate — never a colour inversion, and never a contrast
+   loss: ink, borders, focus, and the grid are untouched. Only the decorative
+   fills are drained, so the page reads as a document rather than a scrapbook.
+   Applied via subjectThemeAttrs() in src/lib/subject-theme.ts.
+   -------------------------------------------------------------------------- */
+
+[data-tone="archival"] {
+  /* Decorative fills lose their saturation. Text tokens (--ink*, --pink-deep,
+     --accent, --focus) and the grid tokens are deliberately not listed. */
+  --pink: #ded0d3;
+  --peach: #e8dccd;
+  --coral: #cbb2a9;
+  --butter: #e9e0c6;
+  --mint: #ccd9d1;
+  --sky: #ccd7de;
+  --lavender: #d5d0dd;
+  --tape: #e6ddcb;
+  /* Kills the title-bar pinstripe and any accent wash at the source. */
+  --accent-soft: transparent;
+}
+
+[data-theme="lamp"] [data-tone="archival"] {
+  --pink: #4a3f43;
+  --peach: #4d453c;
+  --coral: #4d3f3c;
+  --butter: #4a4436;
+  --mint: #3d4844;
+  --sky: #3c4550;
+  --lavender: #454152;
+  --tape: #4b4136;
+}
+
+/* No motif field, no pinstripe, no gloss on an archival page. */
+[data-tone="archival"] .motif-field {
+  background-image: none;
+  opacity: 0;
+}
+[data-tone="archival"] .pinstripe {
+  background-image: none;
+}
+[data-tone="archival"] .gloss::before {
+  display: none;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-desk: var(--desk);
+  --color-paper: var(--paper);
+  --color-paper-bright: var(--paper-bright);
+  --color-paper-sunken: var(--paper-sunken);
+  --color-tape: var(--tape);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-faint: var(--ink-faint);
+  --color-line: var(--line);
+  --color-line-soft: var(--line-soft);
+  --color-pink: var(--pink);
+  --color-pink-deep: var(--pink-deep);
+  --color-peach: var(--peach);
+  --color-coral: var(--coral);
+  --color-orange: var(--orange);
+  --color-butter: var(--butter);
+  --color-cherry: var(--cherry);
+  --color-mint: var(--mint);
+  --color-mint-deep: var(--mint-deep);
+  --color-lavender: var(--lavender);
+  --color-sky: var(--sky);
+  --color-sage: var(--sage);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-cell: var(--cell);
+  --color-cell-ink: var(--cell-ink);
+  --color-cell-block: var(--cell-block);
+  --color-cell-active: var(--cell-active);
+  --color-cell-word: var(--cell-word);
+  --color-cell-line: var(--cell-line);
+  --color-correct: var(--correct);
+  --color-wrong: var(--wrong);
+  --color-revealed: var(--revealed);
+  --color-focus: var(--focus);
+
+  --shadow-sticker: var(--shadow-sticker);
+  --shadow-card: var(--shadow-card);
+  --shadow-window: var(--shadow-window);
+  --shadow-lift: var(--shadow-lift);
+
+  --radius-window: 20px;
+  --radius-card: 16px;
+  --radius-cell: 3px;
+
+  --font-display: var(--font-fraunces), var(--font-baloo), georgia, serif;
+  --font-sans: var(--font-nunito), var(--font-plex-arabic), system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* --------------------------------------------------------------------------
+   Base
+   -------------------------------------------------------------------------- */
+
+html {
+  background: var(--desk);
+  color: var(--ink);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  font-size: 15px;
+}
+
+[data-textsize="large"] {
+  font-size: 118%;
+}
+
+[data-dyslexia="true"] body {
+  font-family: verdana, tahoma, sans-serif;
+  letter-spacing: 0.03em;
+  word-spacing: 0.1em;
+}
+
+.font-display {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+}
+
+:lang(ar) .font-display {
+  font-family: var(--font-baloo), var(--font-fraunces), serif;
+  letter-spacing: normal;
+}
+:lang(ar) body {
+  font-family: var(--font-plex-arabic), var(--font-nunito), system-ui, sans-serif;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Tiny stationery label. */
+.label-caps {
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 11px;
+  line-height: 1.4;
+}
+:lang(ar) .label-caps {
+  font-family: var(--font-plex-arabic);
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 12px;
+}
+
+/* --------------------------------------------------------------------------
+   Paper textures
+   -------------------------------------------------------------------------- */
+
+/* Dotted notebook baseline grid. */
+.paper-dots {
+  background-image: radial-gradient(var(--line-soft) 1px, transparent 1.2px);
+  background-size: 28px 28px;
+  background-position: 6px 6px;
+}
+
+/* Ruled notebook lines. */
+.paper-ruled {
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 27px,
+    var(--line-soft) 27px,
+    var(--line-soft) 28px
+  );
+}
+
+/* Graph paper, for the constructor desk. */
+.paper-graph {
+  background-image:
+    linear-gradient(var(--line-soft) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line-soft) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+/* Faint repeating subject motif field, sits behind the page. */
+.motif-field {
+  opacity: 0.07;
+  background-repeat: repeat;
+  background-size: 132px 132px;
+}
+
+[data-contrast="high"] .paper-dots,
+[data-contrast="high"] .paper-ruled,
+[data-contrast="high"] .motif-field {
+  background-image: none;
+  opacity: 0;
+}
+
+/* --------------------------------------------------------------------------
+   Animation
+   -------------------------------------------------------------------------- */
+
+@keyframes cb-pop {
+  0% { transform: scale(1); }
+  45% { transform: scale(1.03); }
+  100% { transform: scale(1); }
+}
+
+@keyframes cb-stamp {
+  0% { opacity: 0; transform: rotate(-8deg) scale(1.25); }
+  100% { opacity: 0.92; transform: rotate(-8deg) scale(1); }
+}
+
+@keyframes cb-sticker-drop {
+  0% { opacity: 0; transform: translateY(-10px) rotate(0deg) scale(1); }
+  70% { opacity: 1; transform: translateY(0) rotate(var(--tilt, -4deg)) scale(1.04); }
+  100% { opacity: 1; transform: translateY(0) rotate(var(--tilt, -4deg)) scale(1); }
+}
+
+@keyframes cb-window-open {
+  0% { opacity: 0; transform: scale(0.97); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes cb-sparkle {
+  0% { opacity: 0; transform: translateY(2px) scale(0.6); }
+  40% { opacity: 1; transform: translateY(-2px) scale(1); }
+  100% { opacity: 0; transform: translateY(-6px) scale(0.7); }
+}
+
+@keyframes cb-page-flip {
+  0% { transform: perspective(700px) rotateY(-6deg); }
+  100% { transform: perspective(700px) rotateY(0deg); }
+}
+
+.animate-stamp { animation: cb-stamp 160ms var(--ease) both; }
+.animate-sticker-drop { animation: cb-sticker-drop 280ms var(--ease) both; }
+.animate-window-open { animation: cb-window-open 180ms var(--ease) both; }
+.animate-page-flip { animation: cb-page-flip 200ms var(--ease) both; }
+.animate-pop { animation: cb-pop 120ms var(--ease); }
+
+/* Hover sparkles on glossy buttons. */
+.sparkle-host .sparkle-dot { opacity: 0; }
+@media (hover: hover) {
+  .sparkle-host:hover .sparkle-dot {
+    animation: cb-sparkle 220ms var(--ease) both;
+  }
+  .sparkle-host:hover .sparkle-dot:nth-child(2) { animation-delay: 40ms; }
+  .sparkle-host:hover .sparkle-dot:nth-child(3) { animation-delay: 80ms; }
+}
+
+/* Reduced motion: states still appear, they just don't travel. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+[data-motion="reduced"] *,
+[data-motion="reduced"] *::before,
+[data-motion="reduced"] *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.01ms !important;
+}
+
+/* --------------------------------------------------------------------------
+   Utilities
+   -------------------------------------------------------------------------- */
+
+/* The 2004 gloss: a highlight over the top half only. */
+.gloss::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 50% 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.55),
+    rgba(255, 255, 255, 0)
+  );
+  pointer-events: none;
+}
+[data-contrast="high"] .gloss::before { display: none; }
+
+/* Pinstriped window title bar. */
+.pinstripe {
+  background-image: repeating-linear-gradient(
+    135deg,
+    var(--accent-soft) 0 6px,
+    transparent 6px 12px
+  );
+}
+
+.dotted-rule {
+  border-bottom: 2px dotted var(--line-soft);
+}
+
+/* Hide scrollbars on the horizontal tab strip while keeping it scrollable. */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
 }

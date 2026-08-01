@@ -1,0 +1,126 @@
+{
+  "slug": "press-play",
+  "title": "Press Play",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-music-videos",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries about where the cameras were pointed.",
+  "completionMessage": "Cut, and print.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "DEVITO",
+      "clue": "Danny who plays the exasperated director in Steal My Girl",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 6,
+      "answer": "PIER",
+      "clue": "Clevedon landmark used for the You & I clip",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 10,
+      "answer": "BUS",
+      "clue": "Open-top ride through London in the One Thing promo",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "MALIBU",
+      "clue": "California stretch of coast behind the first single's video",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "sourceNotes": "What Makes You Beautiful was shot on a Malibu beach in summer 2011."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "PHOTOS",
+      "clue": "Childhood ones carry the Story of My Life video",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "PLACID",
+      "clue": "Lake ___, the New York setting of Gotta Be You",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "SUMO",
+      "clue": "Wrestler parked among the desert oddities in a 2014 video",
+      "clueStyle": "trivia",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 0,
+      "answer": "NASA",
+      "clue": "Agency whose Houston centre hosted the Drag Me Down shoot",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "DATES",
+      "clue": "Five of them go quietly wrong in Night Changes",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "ARCHIVE",
+      "clue": "Kind of footage assembled for the History clip",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Drag Me Down video was filmed at NASA's Johnson Space Center in Houston in 2015, among training mock-ups, spacesuits and a rover.",
+      "sourceTitle": "NASA Johnson Space Center, August 2015",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Danny DeVito appears in the Steal My Girl video as the director trying to organise a desert set that also holds ballerinas, a marching band and a sumo wrestler.",
+      "sourceTitle": "Steal My Girl video credits, Columbia Records (2014)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "You & I was filmed on Clevedon Pier in Somerset, a Victorian iron pier that is Grade I listed.",
+      "sourceTitle": "Widely reported at the time of the 2014 shoot; pier trust records not consulted",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

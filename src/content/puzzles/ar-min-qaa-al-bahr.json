@@ -1,0 +1,134 @@
+{
+  "slug": "ar-min-qaa-al-bahr",
+  "title": "من قاع البحر",
+  "language": "ar",
+  "subject": "biology",
+  "topic": "marine-biology",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "نزول هادئ تحت السطح، حيث الضوء يقل والأسماء تكثر.",
+  "completionMessage": "عدنا إلى الشاطئ بشباك ممتلئة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "حوت",
+      "clue": "أضخم ساكني الماء",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "سلحفاة",
+      "clue": "تحمل بيتها وتعود للشاطئ لتبيض",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "طحالب",
+      "clue": "خضرة تطفو بلا جذور",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "اخطبوط",
+      "clue": "ثمانية أذرع وثلاثة قلوب",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "سمك",
+      "clue": "غنيمة الشباك",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 4,
+      "answer": "بحر",
+      "clue": "ما بين الشاطئين",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "سردين",
+      "clue": "صغير يعلب في الزيت",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "مرجان",
+      "clue": "غابة ملونة لا ترى من فوق",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "قرش",
+      "clue": "زعنفة تبعثر السباحين",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "دولفين",
+      "clue": "يقفز فوق الزبد ويصفر",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "صدفة",
+      "clue": "بيت الرخوي، ولقاء غير مرتب",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "الحوت الأزرق أضخم حيوان عرفته الأرض، ويتجاوز طول البالغ منه ثلاثين مترا.",
+      "sourceTitle": "الإدارة الوطنية الأميركية للمحيطات والغلاف الجوي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "للأخطبوط ثلاثة قلوب، ودمه أزرق لأنه ينقل الأكسجين بصبغة الهيموسيانين النحاسية لا بالحديد.",
+      "sourceTitle": "متحف التاريخ الطبيعي بلندن",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الشعاب المرجانية تغطي جزءا ضئيلا من قاع المحيطات، ومع ذلك تأوي نحو ربع الأنواع البحرية المعروفة.",
+      "sourceTitle": "الإدارة الوطنية الأميركية للمحيطات والغلاف الجوي",
+      "reviewStatus": "verified"
+    }
+  ]
+}

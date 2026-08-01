@@ -1,0 +1,115 @@
+{
+  "slug": "de-tout-un-peu",
+  "title": "De tout un peu",
+  "language": "fr",
+  "subject": "general-knowledge",
+  "topic": "gk-food",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Une grille de garde-manger : des épices, un fruit à double sens et de quoi faire lever une pâte.",
+  "completionMessage": "Grille terminée, panier plein.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 1,
+      "answer": "SAFRAN",
+      "clue": "Épice tirée des stigmates d'un crocus",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "On récolte les trois stigmates rouges de la fleur, à la main.",
+      "sourceNotes": "Encyclopædia Britannica, article « saffron »."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "AVOCAT",
+      "clue": "Fruit à gros noyau, ou robe noire au tribunal",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2,
+      "explanation": "Deux sens pour un même mot ; ici c'est le fruit qui compte."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 5,
+      "answer": "AIL",
+      "clue": "On en compte les gousses",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "LEVAIN",
+      "clue": "Pâte fermentée qui fait gonfler le pain",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Un mélange vivant de levures sauvages et de bactéries lactiques, entretenu de fournée en fournée."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 10,
+      "answer": "NOIX",
+      "clue": "« ___ de muscade », râpée sur la béchamel",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 1,
+      "answer": "CACAO",
+      "clue": "Fève venue de Mésoamérique, base du chocolat",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Mayas et Aztèques le buvaient, amer et épicé, bien avant l'arrivée du sucre.",
+      "sourceNotes": "Encyclopædia Britannica, article « cacao »."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "OEUF",
+      "clue": "Il se casse avant l'omelette",
+      "clueStyle": "everyday",
+      "difficultyRating": 1,
+      "explanation": "Graphie sans ligature : le Œ partage sa case avec O et E."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "SUCRE",
+      "clue": "Canne ou betterave, même résultat",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Deux plantes très différentes fournissent la même molécule, le saccharose."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le cacaoyer est originaire d'Amérique centrale et du Sud. Mayas et Aztèques consommaient le cacao en boisson, souvent amère et épicée, bien avant son arrivée en Europe au XVIe siècle.",
+      "sourceTitle": "Encyclopædia Britannica — cacao",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le safran est l'épice la plus chère du monde parce qu'on n'en récolte que les trois stigmates de chaque fleur de Crocus sativus, à la main : il en faut des dizaines de milliers pour un seul kilogramme sec.",
+      "sourceTitle": "Encyclopædia Britannica — saffron",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Le levain n'est pas de la levure de boulanger : c'est une culture mêlant levures sauvages et bactéries lactiques, et c'est cette cohabitation qui donne au pain son goût acidulé.",
+      "sourceTitle": "INRAE — dossier sur le levain et la panification",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

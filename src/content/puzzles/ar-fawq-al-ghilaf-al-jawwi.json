@@ -1,0 +1,134 @@
+{
+  "slug": "ar-fawq-al-ghilaf-al-jawwi",
+  "title": "فوق الغلاف الجوي",
+  "language": "ar",
+  "subject": "fun-facts",
+  "topic": "space-facts",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "أحد عشر بابا لما يجري فوق رؤوسنا بينما ننام.",
+  "completionMessage": "أغلق قبة المرصد.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 7,
+      "answer": "مذنب",
+      "clue": "ذيله يشير بعيدا عن الشمس دائما",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "نيزك",
+      "clue": "شهاب بلغ الأرض سالما",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "مجرة",
+      "clue": "درب التبانة واحدة منها",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "جاذبية",
+      "clue": "ما يمنع القمر من الرحيل",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "مدار",
+      "clue": "طريق مغلق حول جرم",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 9,
+      "answer": "زحل",
+      "clue": "صاحب الحلقات",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "تلسكوب",
+      "clue": "هابل واحد منها، لكنه فوق السحاب",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "ثقب",
+      "clue": "أسود لا يفلت منه ضوء",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "سديم",
+      "clue": "غبار وغاز فيه تولد النجوم",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 11,
+      "answer": "المريخ",
+      "clue": "الكوكب الأحمر",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 1,
+      "answer": "عطارد",
+      "clue": "أقرب الكواكب إلى النجم المركزي",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "ذيل المذنب يتجه دائما في الاتجاه المعاكس للشمس بفعل الرياح الشمسية وضغط الإشعاع، لا في اتجاه حركته.",
+      "sourceTitle": "ناسا — صفحة المذنبات",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اليوم الشمسي على عطارد يعادل نحو مئة وستة وسبعين يوما أرضيا، أي ضعف طول سنته البالغة ثمانية وثمانين يوما.",
+      "sourceTitle": "ناسا — دليل استكشاف المجموعة الشمسية، عطارد",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أطلق تلسكوب هابل الفضائي في أبريل 1990 على متن مكوك ديسكفري، وما زال يعمل في مدار حول الأرض.",
+      "sourceTitle": "ناسا — بعثة هابل",
+      "reviewStatus": "verified"
+    }
+  ]
+}

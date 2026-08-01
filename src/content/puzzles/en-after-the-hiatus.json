@@ -1,0 +1,125 @@
+{
+  "slug": "after-the-hiatus",
+  "title": "After the Hiatus",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-solo-careers",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Ten entries from five careers that carried on separately.",
+  "completionMessage": "Five directions, then.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "PILLOWTALK",
+      "clue": "Chart-topping first single from Mind of Mine",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 6,
+      "answer": "VOICE",
+      "clue": "American talent show Niall Horan coached on",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "DUNKIRK",
+      "clue": "Christopher Nolan war film that cast one of the five",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "QUAVO",
+      "clue": "Migos rapper featured on Strip That Down",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "GRAMMY",
+      "clue": "Award Harry's House took for Album of the Year",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "AOKI",
+      "clue": "Steve who shared Just Hold On in 2016",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "WALLS",
+      "clue": "What Louis Tomlinson called his 2020 debut",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "RCA",
+      "clue": "Three initials on the sleeve of Mind of Mine",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 7,
+      "answer": "FAITH",
+      "clue": "___ in the Future, from 2022",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 4,
+      "answer": "FLICKER",
+      "clue": "Unsteady light, or Niall Horan's 2017 debut",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Harry's House won Album of the Year at the 65th Grammy Awards in February 2023.",
+      "sourceTitle": "Recording Academy, 65th Annual Grammy Awards results",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Mind of Mine, released on RCA in March 2016, entered both the UK and US album charts at number one, and its lead single Pillowtalk topped both singles charts.",
+      "sourceTitle": "Official Charts Company and Billboard, 2016",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Louis Tomlinson's first release after the group was Just Hold On, a December 2016 collaboration with the producer Steve Aoki.",
+      "sourceTitle": "Syco Music single release information, December 2016",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "eclats-de-pierre",
+  "title": "Éclats de pierre",
+  "language": "fr",
+  "subject": "geology",
+  "topic": "gemstones",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Huit pierres, quelques millions d’années de patience.",
+  "completionMessage": "Écrin refermé, rien n’a été égaré.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "RUBIS",
+      "clue": "Corindon que le chrome fait rougir",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "SAPHIR",
+      "clue": "Il lisait autrefois les microsillons",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "La pointe de lecture des électrophones était taillée dans cette pierre, avant le diamant."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "OPALE",
+      "clue": "Elle a donné son nom à une côte du Pas-de-Calais",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "DIAMANT",
+      "clue": "Dix sur dix chez Mohs",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "AMBRE",
+      "clue": "Résine où dorment des insectes",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "TOPAZE",
+      "clue": "Pagnol en a fait un professeur trop honnête",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "GRENAT",
+      "clue": "Rouge sombre, comme la graine qui l’a baptisé",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Du latin granatum : la couleur des grains de grenade."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "EMERAUDE",
+      "clue": "Verte en Colombie, verte aussi en Irlande",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "La Colombie en fournit l’essentiel ; l’Irlande y a gagné son surnom d’île."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "L’échelle de dureté établie par Friedrich Mohs en 1812 va du talc, coté 1, au diamant, coté 10 ; elle classe les minéraux par leur capacité à se rayer entre eux.",
+      "sourceTitle": "Friedrich Mohs, échelle de dureté (1812)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le rubis et le saphir sont la même espèce minérale, le corindon : le chrome donne le rouge, le fer et le titane donnent le bleu.",
+      "sourceTitle": "Encyclopædia Britannica, « corundum »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Côte d’Opale doit son nom au peintre Édouard Lévêque, qui l’aurait forgé au début du XXe siècle pour décrire la lumière laiteuse du littoral.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Attribution répandue mais la date exacte varie selon les sources ; à confirmer auprès des archives du Pas-de-Calais."
+    }
+  ]
+}

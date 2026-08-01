@@ -1,0 +1,124 @@
+{
+  "slug": "ar-abtal-wa-wuhush",
+  "title": "أبطال ووحوش",
+  "language": "ar",
+  "subject": "greek-mythology",
+  "topic": "greek-monsters",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "من الغورغونات إلى ثور كريت: شبكة عن وحوش الحكاية اليونانية ومن خرج لملاقاتها.",
+  "completionMessage": "انتهى الطريق، وما بقي وحش.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "ميدوسا",
+      "clue": "غورغونة ذات شعر من أفاع",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "واحدة من ثلاث غورغونات في الحكاية، وهي الفانية بينهن."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "متاهة",
+      "clue": "بناء ممراته متشابكة، سكنه وحش كريت في الحكاية",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "تنسب الأسطورة بناءه إلى ديدالوس في بلاط الملك مينوس."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "سيربيروس",
+      "clue": "ثلاثة رؤوس تحرس بوابة العالم السفلي",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "كلب هاديس في الرواية الشائعة، وقد أخرجه هرقل في آخر أعماله.",
+      "sourceNotes": "موسوعة بريتانيكا، مادة سيربيروس."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "أحجار",
+      "clue": "ما تحولت إليه أجساد الناظرين، في الرواية",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "ليست من مقلع، بل من نظرة واحدة في الحكاية."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "مينوتور",
+      "clue": "نصفه ثور ونصفه إنسان، في الأسطورة",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "تقول الحكاية إن ثيسيوس قتله ثم خرج بخيط أريادني."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "تنين",
+      "clue": "حارس التفاح الذهبي في حكاية هرقل",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "يسمى في المصادر لادون، وهو ملتف حول شجرة بستان الهسبريدات."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "رأس",
+      "clue": "___ الغورغونة في كيس برسيوس",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "تقول الحكاية إنه ظل قادرا على التحويل بعد قطعه."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "وحشي",
+      "clue": "صفة الشرس غير المستأنس",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 9,
+      "answer": "سيف",
+      "clue": "سلاح أبيض ذو حد",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "ميدوسا واحدة من ثلاث غورغونات في الأسطورة اليونانية، وهي الوحيدة الفانية بينهن، بحسب أنساب الآلهة لهسيودوس.",
+      "sourceTitle": "هسيودوس — أنساب الآلهة (ثيوغونيا)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "عدد رؤوس سيربيروس ليس ثابتا في المصادر: يذكر هسيودوس خمسين رأسا، وذكرت مصادر أخرى مئة، بينما استقرت الصورة الشائعة على ثلاثة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة سيربيروس",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "المتاهة التي تنسبها الحكاية إلى ديدالوس في كنوسوس لم يثبت وجودها أثريا. قصر كنوسوس نفسه معروف ومحفور، أما المتاهة فتبقى في حدود الأسطورة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة المتاهة (Labyrinth)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

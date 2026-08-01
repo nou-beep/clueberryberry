@@ -1,0 +1,107 @@
+{
+  "slug": "question-d-argent",
+  "title": "Question d’argent",
+  "language": "fr",
+  "subject": "finance-facts",
+  "topic": "money-vocabulary",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Le vocabulaire du portefeuille, avant celui des marchés.",
+  "completionMessage": "Comptes soldés, grille équilibrée.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "BILLET",
+      "clue": "De banque, de train, ou d’humeur",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "INTERET",
+      "clue": "Il court même la nuit",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "LIQUIDE",
+      "clue": "Argent qui coule sans mouiller personne",
+      "clueStyle": "pun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "MONNAIE",
+      "clue": "On la rend au comptoir, on la bat à l’atelier",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "EPARGNE",
+      "clue": "Ce qui dort sur le livret A",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "DEVISE",
+      "clue": "Elle s’échange au bureau de change ou s’inscrit sur un blason",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "TIRELIRE",
+      "clue": "Cochon qu’on brise sans remords",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "DECOUVERT",
+      "clue": "En dessous de zéro, mais pas en degrés",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le livret A a été créé en 1818 pour encourager l’épargne populaire ; c’est le plus ancien produit d’épargne encore commercialisé en France.",
+      "sourceTitle": "Banque de France, fiche « Le livret A »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les premiers billets de banque français ont été émis à partir de 1716 par la Banque générale de John Law ; leur effondrement en 1720 a durablement fâché les Français avec le papier-monnaie.",
+      "sourceTitle": "Banque de France, histoire de la monnaie fiduciaire",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le mot tirelire est attesté en français dès le Moyen Âge, bien avant que la tirelire prenne systématiquement la forme d’un cochon.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "L’étymologie médiévale est donnée par le TLFi, mais l’explication de la forme du cochon varie selon les sources ; à trancher avant validation."
+    }
+  ]
+}

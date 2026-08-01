@@ -1,0 +1,117 @@
+{
+  "slug": "romans-de-chevet",
+  "title": "Romans de chevet",
+  "language": "fr",
+  "subject": "books",
+  "topic": "famous-novels",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Neuf livres qu’on prétend souvent avoir lus.",
+  "completionMessage": "Rayon rangé, marque-pages récupérés.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "GATSBY",
+      "clue": "Voisin fastueux d’une lumière verte",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "KAFKA",
+      "clue": "Il demanda qu’on brûle tout, son ami refusa",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "MACONDO",
+      "clue": "Village où l’on tient cent ans de solitude",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "ORWELL",
+      "clue": "Nom de plume d’un certain Eric Blair",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 5,
+      "answer": "REBECCA",
+      "clue": "Le titre désigne la morte ; la narratrice, elle, n’a pas de nom",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "SHELLEY",
+      "clue": "Elle avait dix-huit ans au bord du Léman, l’été sans soleil",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "L’été 1816, à la villa Diodati, sortit du concours d’histoires de fantômes le futur Frankenstein."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "LOLITA",
+      "clue": "Son auteur voulut en jeter le manuscrit au feu, sa femme l’en empêcha",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "GENJI",
+      "clue": "Prince d’un récit écrit vers l’an mil par une dame de cour",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 1,
+      "answer": "DRACULA",
+      "clue": "Roman fait de lettres, de télégrammes et de coupures de presse",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Franz Kafka avait demandé à Max Brod de brûler ses manuscrits inédits ; son exécuteur testamentaire a fait exactement l’inverse et publié Le Procès, Le Château et L’Amérique.",
+      "sourceTitle": "Max Brod, postface à la première édition du Procès (1925)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le Dit du Genji, écrit vers 1010 par Murasaki Shikibu, dame de la cour de Heian, est souvent présenté comme le premier grand roman psychologique de l’histoire littéraire.",
+      "sourceTitle": "Encyclopædia Britannica, « The Tale of Genji »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’éruption du Tambora en 1815 a provoqué en Europe « l’année sans été » de 1816 ; c’est ce mauvais temps qui a retenu à l’intérieur les hôtes de la villa Diodati, sur le lac Léman.",
+      "sourceTitle": "Encyclopædia Britannica, « Year Without a Summer »",
+      "reviewStatus": "verified"
+    }
+  ]
+}

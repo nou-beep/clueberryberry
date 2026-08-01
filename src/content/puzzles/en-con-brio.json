@@ -1,0 +1,125 @@
+{
+  "slug": "con-brio",
+  "title": "Con Brio",
+  "language": "en",
+  "subject": "music",
+  "topic": "classical-music",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries in the language printed above the notes.",
+  "completionMessage": "Da capo, if you like.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "FUGUE",
+      "clue": "Chase in counterpoint, or a bout of amnesia",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "CADENZA",
+      "clue": "Soloist's unaccompanied showing off",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "ADAGIO",
+      "clue": "Take it slowly, says the score",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "OPUS",
+      "clue": "What Op. on a title page stands for",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 10,
+      "answer": "QUARTET",
+      "clue": "Two violins, a viola and a cello",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "BAROQUE",
+      "clue": "Period conventionally closed by Bach's death",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "SONATA",
+      "clue": "Form Beethoven left thirty-two of, for piano",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "SCHERZO",
+      "clue": "Brisk movement whose name means joke",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 3,
+      "answer": "CODA",
+      "clue": "The bit tacked on after the end",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 6,
+      "answer": "CLEF",
+      "clue": "Sign that fixes a line's pitch",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Beethoven's thirty-two piano sonatas were published between 1795 and 1822 and are often treated as a single arc through his working life.",
+      "sourceTitle": "Beethoven-Haus Bonn, works catalogue",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Baroque period in music is conventionally dated from about 1600 to 1750, the year Johann Sebastian Bach died.",
+      "sourceTitle": "Grove Music Online, 'Baroque'",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Scherzo is Italian for joke; Beethoven regularly used a scherzo where earlier symphonies would have placed a minuet.",
+      "sourceTitle": "Grove Music Online, 'Scherzo'",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

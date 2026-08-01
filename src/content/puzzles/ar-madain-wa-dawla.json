@@ -1,0 +1,134 @@
+{
+  "slug": "ar-madain-wa-dawla",
+  "title": "مدائن ودول",
+  "language": "ar",
+  "subject": "history",
+  "topic": "moroccan-history",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "من وليلي إلى الصويرة، اثنا عشر قرنا في شبكة واحدة.",
+  "completionMessage": "أقفل السجل التاريخي.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 2,
+      "answer": "مرينيون",
+      "clue": "سلالة زناتية حكمت من فاس وبنت المدارس",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "القرويين",
+      "clue": "جامع صار جامعة، وأسسته فاطمة الفهرية",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "موحدون",
+      "clue": "أتباع ابن تومرت",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "ادريس",
+      "clue": "مؤسس أول دولة إسلامية في أقصى المغرب",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "طنجة",
+      "clue": "مدينة تنظر إلى الضفة الأخرى",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "وليلي",
+      "clue": "أطلال رومانية في سهل زرهون",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "مكناس",
+      "clue": "عاصمة المولى إسماعيل وأسوارها الطويلة",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 6,
+      "answer": "علويون",
+      "clue": "أهل الحكم في المغرب منذ القرن السابع عشر",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "درعة",
+      "clue": "واد ونخيل في الجنوب الشرقي",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "شفشاون",
+      "clue": "زرقاء الشمال",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 10,
+      "answer": "الصويرة",
+      "clue": "عرفت عند الأوروبيين باسم موغادور",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أسست فاطمة الفهرية جامع القرويين بفاس سنة 859 ميلادية، وتعده اليونسكو من أقدم مؤسسات التعليم العالي المستمرة في العالم.",
+      "sourceTitle": "اليونسكو — مركز التراث العالمي، مدينة فاس العتيقة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اتخذ السلطان المولى إسماعيل مكناس عاصمة له في أواخر القرن السابع عشر، والمدينة التاريخية مدرجة في التراث العالمي منذ 1996.",
+      "sourceTitle": "اليونسكو — مركز التراث العالمي، مدينة مكناس التاريخية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "خطط تصميم الصويرة الحالي في النصف الثاني من القرن الثامن عشر في عهد السلطان محمد بن عبد الله، على يد مهندس أوروبي.",
+      "sourceTitle": "اليونسكو — مركز التراث العالمي، مدينة الصويرة",
+      "reviewStatus": "verified"
+    }
+  ]
+}

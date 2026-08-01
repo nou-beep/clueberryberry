@@ -1,0 +1,482 @@
+// Clueberry data model.
+//
+// The same models run on PostgreSQL (production, Vercel) and on SQLite (a
+// zero-setup local file database). That works because nothing here is
+// provider-specific: enums are stored as validated strings, checked by Zod at
+// every boundary (see src/lib/db/enums.ts), and JSON payloads are stored as
+// serialized strings rather than a native JSON column.
+//
+// Switch providers with `npm run db:postgres` or `npm run db:sqlite` rather
+// than editing the line below by hand — the script exists so the wrong provider
+// does not get committed by accident.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                String          @id @default(cuid())
+  name              String?
+  email             String?         @unique
+  emailVerified     DateTime?
+  image             String?
+  preferredLanguage String          @default("en") // puzzle language: en | fr | ar
+  interfaceLanguage String          @default("en")
+  createdAt         DateTime        @default(now())
+  updatedAt         DateTime        @updatedAt
+  attempts          PuzzleAttempt[]
+  achievements      UserAchievement[]
+  accounts          Account[]
+  sessions          Session[]
+  profile           Profile?
+  settings          UserSettings?
+  credential        Credential?
+  resetTokens       PasswordResetToken[]
+  verifyTokens      EmailVerificationToken[]
+  savedPuzzles      SavedPuzzle[]
+  stickers          UserSticker[]
+  playgroundPuzzles PlaygroundPuzzle[]
+  hostedRooms       MultiplayerRoom[]  @relation("RoomHost")
+  roomSeats         RoomParticipant[]
+}
+
+/// Public identity. Separate from User so auth data and profile data can be
+/// reasoned about (and permissioned) independently.
+model Profile {
+  id                String   @id @default(cuid())
+  userId            String   @unique
+  user              User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  displayName       String
+  /// Stored lowercased; SQLite has no citext, so uniqueness is enforced on the
+  /// folded value and the original casing is kept in `usernameDisplay`.
+  username          String   @unique
+  usernameDisplay   String
+  /// A drawn avatar rather than an upload: kind picks the shape, seed the colours.
+  avatarKind        String   @default("bunny")
+  avatarSeed        Int      @default(0)
+  bio               String?
+  joinedAt          DateTime @default(now())
+  /// JSON string[] of subject slugs.
+  favoriteSubjects  String   @default("[]")
+  /// JSON string[] of collection slugs.
+  favoriteCollections String @default("[]")
+  currentStreak     Int      @default(0)
+  longestStreak     Int      @default(0)
+  lastPlayedOn      String?
+  multiplayerName   String?
+  showPresence      Boolean  @default(true)
+  updatedAt         DateTime @updatedAt
+}
+
+/// Device-independent preferences, mirrored into localStorage for guests.
+model UserSettings {
+  id                 String  @id @default(cuid())
+  userId             String  @unique
+  user               User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  interfaceLanguage  String  @default("en")
+  puzzleLanguage     String  @default("en")
+  theme              String  @default("system")
+  reducedMotion      Boolean @default(false)
+  sound              Boolean @default(true)
+  autoCheck          Boolean @default(false)
+  showTimer          Boolean @default(true)
+  highContrast       Boolean @default(false)
+  textSize           String  @default("normal")
+  dyslexiaFont       Boolean @default(false)
+  arabicFoldAlef     Boolean @default(true)
+  arabicFoldYa       Boolean @default(true)
+  arabicFoldHamzaWaw Boolean @default(false)
+  arabicFoldHamzaYa  Boolean @default(false)
+  updatedAt          DateTime @updatedAt
+}
+
+/// Email + password. Hash only; the plaintext never leaves the request.
+model Credential {
+  id           String   @id @default(cuid())
+  userId       String   @unique
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  passwordHash String
+  algorithm    String   @default("bcrypt")
+  updatedAt    DateTime @updatedAt
+}
+
+model PasswordResetToken {
+  id        String    @id @default(cuid())
+  userId    String
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  /// Only the hash is stored, so a database leak cannot be replayed.
+  tokenHash String    @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([userId])
+}
+
+model EmailVerificationToken {
+  id        String    @id @default(cuid())
+  userId    String
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  tokenHash String    @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([userId])
+}
+
+model SavedPuzzle {
+  id       String   @id @default(cuid())
+  userId   String
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  puzzleId String
+  puzzle   Puzzle   @relation(fields: [puzzleId], references: [id], onDelete: Cascade)
+  savedAt  DateTime @default(now())
+
+  @@unique([userId, puzzleId])
+}
+
+/// Server-side sticker truth for signed-in players.
+model UserSticker {
+  id            String   @id @default(cuid())
+  userId        String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  stickerSlug   String
+  count         Int      @default(1)
+  firstEarnedAt DateTime @default(now())
+
+  @@unique([userId, stickerSlug])
+}
+
+/// A Playground puzzle a player chose to keep.
+model PlaygroundPuzzle {
+  id         String   @id @default(cuid())
+  ownerId    String
+  owner      User     @relation(fields: [ownerId], references: [id], onDelete: Cascade)
+  title      String
+  language   String
+  subject    String
+  topic      String
+  difficulty String
+  size       String
+  seed       Int
+  /// The full authored definition (grid + entries + clues) as JSON.
+  definition String
+  visibility String   @default("private") // private | link | public
+  shareSlug  String?  @unique
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([ownerId, updatedAt])
+}
+
+// Auth.js adapter models
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String?
+  access_token      String?
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String?
+  session_state     String?
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model Subject {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  // Localized JSON: {"en": "...", "fr": "...", "ar": "..."}
+  names       String
+  descriptions String  @default("{}")
+  // Where the subject appears in the library browser: learn | know | culture | fandom
+  section     String   @default("learn")
+  // Decorative theme key. Resolved against the visual registry at render time;
+  // an unknown key falls back to a neutral treatment, so new subjects can be
+  // added as data without touching component code.
+  theme       String
+  // playful (default) or archival — archival subjects (the world wars) drop
+  // decoration and use a calmer presentation.
+  tone        String   @default("playful")
+  icon        String?
+  status      String   @default("active") // active | hidden
+  order       Int      @default(0)
+  topics      Topic[]
+  puzzles     Puzzle[]
+
+  @@index([section, order])
+}
+
+/// A collection: a curated set of puzzles inside a subject.
+model Topic {
+  id           String  @id @default(cuid())
+  subjectId    String
+  subject      Subject @relation(fields: [subjectId], references: [id], onDelete: Cascade)
+  slug         String  @unique
+  names        String  // localized JSON
+  descriptions String  @default("{}")
+  /// Optional override of the subject's tone for a sensitive collection.
+  tone         String?
+  status       String  @default("active")
+  order        Int     @default(0)
+  puzzles      Puzzle[]
+
+  @@unique([subjectId, slug])
+}
+
+model Puzzle {
+  id                String    @id @default(cuid())
+  slug              String    @unique
+  title             String
+  language          String // en | fr | ar
+  subjectId         String
+  subject           Subject   @relation(fields: [subjectId], references: [id])
+  topicId           String
+  topic             Topic     @relation(fields: [topicId], references: [id])
+  difficulty        String // easy | medium | hard
+  status            String    @default("draft") // draft | needs_review | in_review | revisions_requested | approved | scheduled | published | archived
+  /// official (human-reviewed) | user (player-made) | playground (generated)
+  origin            String    @default("official")
+  /// Highlighted in the library and on the front page.
+  featured          Boolean   @default(false)
+  /// Season tag for seasonal rotations, e.g. "winter" or "back-to-school".
+  season            String?
+  publicationDate   DateTime?
+  gridWidth         Int
+  gridHeight        Int
+  // JSON: (string | null)[][] — solution letters, null = block
+  gridData          String
+  author            String
+  editor            String?
+  revisionNotes     String?
+  lastReviewedAt    DateTime?
+  estimatedSolveTime Int? // seconds
+  introduction      String?
+  completionMessage String?
+  // Arabic normalization config JSON (NormalizationRules), null = language default
+  normalization     String?
+  symmetry          Boolean   @default(false)
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+  entries           Entry[]
+  attempts          PuzzleAttempt[]
+  factCards         FactCard[]
+  dailySlots        DailyPuzzle[]
+  savedBy           SavedPuzzle[]
+  rooms             MultiplayerRoom[]
+
+  @@index([language, status])
+  @@index([subjectId, topicId])
+  @@index([origin, featured])
+}
+
+model Entry {
+  id                   String  @id @default(cuid())
+  puzzleId             String
+  puzzle               Puzzle  @relation(fields: [puzzleId], references: [id], onDelete: Cascade)
+  number               Int
+  direction            String // across | down
+  row                  Int
+  column               Int
+  length               Int
+  answer               String
+  normalizedAnswer     String
+  // JSON string[] of normalized accepted alternatives
+  acceptedAlternatives String  @default("[]")
+  clue                 String
+  clueStyle            String // definition | wordplay | misdirection | fill_in_blank | cultural | historical | scientific | abbreviation | phrase | pun | trivia | everyday | cross_language | quotation | proper_noun
+  explanation          String?
+  sourceNotes          String?
+  difficultyRating     Int?    // 1-5, editorial
+  isThemeEntry         Boolean @default(false)
+
+  @@unique([puzzleId, number, direction])
+  @@index([puzzleId])
+}
+
+model PuzzleAttempt {
+  id                   String    @id @default(cuid())
+  userId               String
+  user                 User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  puzzleId             String
+  puzzle               Puzzle    @relation(fields: [puzzleId], references: [id], onDelete: Cascade)
+  // JSON: user grid letters + cell flags (AttemptGridState)
+  currentGridState     String
+  startedAt            DateTime  @default(now())
+  completedAt          DateTime?
+  elapsedSeconds       Int       @default(0)
+  mistakes             Int       @default(0)
+  hintsUsed            Int       @default(0)
+  checksUsed           Int       @default(0)
+  completionPercentage Int       @default(0)
+  status               String    @default("in_progress") // in_progress | completed | abandoned
+  /// Where the cursor was, so reopening resumes exactly where you left off.
+  selectedRow          Int?
+  selectedColumn       Int?
+  direction            String    @default("across")
+  timerVisible         Boolean   @default(true)
+  notes                String?
+  /// Monotonic per attempt. A write carrying a stale base revision is rejected
+  /// rather than silently overwriting newer progress from another device.
+  revision             Int       @default(0)
+  updatedAt            DateTime  @updatedAt
+
+  @@unique([userId, puzzleId])
+  @@index([userId, status])
+}
+
+model DailyPuzzle {
+  id       String   @id @default(cuid())
+  date     String // YYYY-MM-DD
+  language String
+  puzzleId String
+  puzzle   Puzzle   @relation(fields: [puzzleId], references: [id])
+
+  @@unique([date, language])
+}
+
+model Achievement {
+  id           String            @id @default(cuid())
+  slug         String            @unique
+  titles       String // localized JSON
+  descriptions String // localized JSON
+  criteria     String // JSON criteria descriptor
+  users        UserAchievement[]
+}
+
+model UserAchievement {
+  id            String      @id @default(cuid())
+  userId        String
+  user          User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  achievementId String
+  achievement   Achievement @relation(fields: [achievementId], references: [id], onDelete: Cascade)
+  unlockedAt    DateTime    @default(now())
+
+  @@unique([userId, achievementId])
+}
+
+model FactCard {
+  id           String @id @default(cuid())
+  puzzleId     String
+  puzzle       Puzzle @relation(fields: [puzzleId], references: [id], onDelete: Cascade)
+  text         String // localized JSON or plain text in puzzle language
+  sourceTitle  String?
+  sourceUrl    String?
+  reviewStatus String @default("needs_review") // needs_review | verified
+  order        Int    @default(0)
+}
+
+
+/* ————————————————————————————————————————————————————————————————
+   Cooperative multiplayer. Room state lives in the database so a refresh,
+   a reconnect, or a realtime-server restart restores the room instead of
+   losing it. No audio is ever stored — voice is peer-to-peer only.
+   ———————————————————————————————————————————————————————————————— */
+
+model MultiplayerRoom {
+  id               String            @id @default(cuid())
+  code             String            @unique
+  hostId           String?
+  host             User?             @relation("RoomHost", fields: [hostId], references: [id], onDelete: SetNull)
+  puzzleId         String
+  puzzle           Puzzle            @relation(fields: [puzzleId], references: [id], onDelete: Cascade)
+  visibility       String            @default("private") // public | private | invite
+  participantLimit Int               @default(8)
+  chatEnabled      Boolean           @default(true)
+  voiceEnabled     Boolean           @default(false)
+  allowGuests      Boolean           @default(true)
+  hintsNeedApproval Boolean          @default(false)
+  locked           Boolean           @default(false)
+  endedAt          DateTime?
+  expiresAt        DateTime
+  createdAt        DateTime          @default(now())
+  participants     RoomParticipant[]
+  messages         RoomMessage[]
+  invites          RoomInvite[]
+  state            RoomPuzzleState?
+
+  @@index([visibility, endedAt])
+}
+
+model RoomParticipant {
+  id          String   @id @default(cuid())
+  roomId      String
+  room        MultiplayerRoom @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  userId      String?
+  user        User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  /// Set for guests; signed-in players fall back to their profile name.
+  guestName   String?
+  displayName String
+  colorIndex  Int      @default(0)
+  isHost      Boolean  @default(false)
+  muted       Boolean  @default(false)
+  blocked     Boolean  @default(false)
+  joinedAt    DateTime @default(now())
+  lastSeenAt  DateTime @default(now())
+  leftAt      DateTime?
+  messages    RoomMessage[]
+
+  @@index([roomId, leftAt])
+}
+
+model RoomPuzzleState {
+  id        String   @id @default(cuid())
+  roomId    String   @unique
+  room      MultiplayerRoom @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  /// AttemptGridState JSON, shared by everyone in the room.
+  gridState String
+  revision  Int      @default(0)
+  completedAt DateTime?
+  updatedAt DateTime @updatedAt
+}
+
+model RoomMessage {
+  id            String   @id @default(cuid())
+  roomId        String
+  room          MultiplayerRoom @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  participantId String?
+  participant   RoomParticipant? @relation(fields: [participantId], references: [id], onDelete: SetNull)
+  body          String
+  kind          String   @default("chat") // chat | system
+  createdAt     DateTime @default(now())
+
+  @@index([roomId, createdAt])
+}
+
+model RoomInvite {
+  id            String   @id @default(cuid())
+  roomId        String
+  room          MultiplayerRoom @relation(fields: [roomId], references: [id], onDelete: Cascade)
+  code          String   @unique
+  createdBy     String?
+  expiresAt     DateTime
+  usesRemaining Int      @default(20)
+  createdAt     DateTime @default(now())
+}

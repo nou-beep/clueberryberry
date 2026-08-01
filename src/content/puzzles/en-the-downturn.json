@@ -1,0 +1,125 @@
+{
+  "slug": "the-downturn",
+  "title": "The Downturn",
+  "language": "en",
+  "subject": "finance-facts",
+  "topic": "economic-crises",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries from four centuries of things going badly wrong.",
+  "completionMessage": "Recovery, eventually.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "WEIMAR",
+      "clue": "German republic whose currency collapsed in 1923",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "WALL",
+      "clue": "___ Street, where 1929 began",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "DEFAULT",
+      "clue": "Missed repayment, in the formal term",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "TULIP",
+      "clue": "Bulb behind a Dutch mania of the 1630s",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "LEHMAN",
+      "clue": "Investment bank that filed for bankruptcy in September 2008",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 4,
+      "answer": "BUBBLE",
+      "clue": "Price rise with nothing inside it",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "SUBPRIME",
+      "clue": "Grade of mortgage lending blamed for 2007",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "PANIC",
+      "clue": "What nineteenth-century America called a financial crisis",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "BAILOUT",
+      "clue": "Public money thrown at a private failure",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 0,
+      "answer": "RECESSION",
+      "clue": "Slump identified by a rough two-quarter rule",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Lehman Brothers filed for Chapter 11 bankruptcy on 15 September 2008, the largest such filing in United States history.",
+      "sourceTitle": "US Bankruptcy Court, Southern District of New York, case 08-13555",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "German hyperinflation peaked in late 1923; the Papiermark was replaced by the Rentenmark that November to stop the spiral.",
+      "sourceTitle": "Deutsche Bundesbank historical statistics",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Prices for rare tulip bulbs in the Dutch Republic rose sharply through 1636 and collapsed in February 1637, though historians disagree about how much wider economic damage followed.",
+      "sourceTitle": "Anne Goldgar, Tulipmania (2007), which challenges the traditional account",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "slug": "ar-qafiya-wa-riwaya",
+  "title": "قافية ورواية",
+  "language": "ar",
+  "subject": "literature",
+  "topic": "arabic-literature",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 780,
+  "introduction": "من الجاهلية إلى القرن العشرين، أحد عشر بابا في مكتبة عربية واحدة.",
+  "completionMessage": "أطفئ المصباح فوق الديوان.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "الخنساء",
+      "clue": "بكت صخرا فصار بكاؤها مدرسة",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "المتنبي",
+      "clue": "قال إن الخيل والليل والبيداء تعرفه",
+      "clueStyle": "quotation",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 5,
+      "answer": "محفوظ",
+      "clue": "أول عربي يحمل نوبل الآداب",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "درويش",
+      "clue": "شاعر سجل أنا عربي",
+      "clueStyle": "quotation",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 8,
+      "answer": "شوقي",
+      "clue": "أمير الشعراء",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "السياب",
+      "clue": "من جيكور جاءت أنشودة المطر",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "جبران",
+      "clue": "مهجري كتب النبي بالإنجليزية",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "قافية",
+      "clue": "آخر ما يتكرر في البيت",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "معلقة",
+      "clue": "قصيدة قيل إنها رفعت على الكعبة",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "نازك",
+      "clue": "اسم رائدة الشعر الحر، ولقبها من السماء",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "نازك الملائكة، صاحبة قصيدة الكوليرا."
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 4,
+      "answer": "سجع",
+      "clue": "نثر يتفق في أواخره",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "نال نجيب محفوظ جائزة نوبل في الآداب سنة 1988، وهو الكاتب الوحيد باللغة العربية الحائز عليها حتى اليوم.",
+      "sourceTitle": "مؤسسة نوبل — سجل جوائز الآداب",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "نشرت نازك الملائكة قصيدة الكوليرا سنة 1947، وتعد من النصوص المؤسسة لحركة الشعر الحر العربي.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "الأسبقية بينها وبين قصيدة هل كان حبا لبدر شاكر السياب محل خلاف قديم بين النقاد، ولذلك تجنبت وصفها بالأولى."
+    },
+    {
+      "text": "المعلقات قصائد جاهلية طوال، أما رواية تعليقها على الكعبة فمتأخرة ويشكك فيها كثير من الدارسين.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "الروايات التراثية حول التعليق متضاربة ولا يسندها مصدر معاصر للجاهلية."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "de-la-manche-au-midi",
+  "title": "De la Manche au Midi",
+  "language": "fr",
+  "subject": "geography",
+  "topic": "european-geography",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Un pays qu’on croit connaître parce qu’on y habite.",
+  "completionMessage": "Le tour est bouclé, sans quitter l’Hexagone.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "CANTAL",
+      "clue": "Volcan éteint devenu fromage",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "VOSGES",
+      "clue": "Massif dont les sommets s’appellent des ballons",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "MISTRAL",
+      "clue": "Vent de la vallée du Rhône, et nom d’un Nobel provençal",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "GARONNE",
+      "clue": "Née en Espagne, morte dans un estuaire",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Elle prend sa source dans le val d’Aran et rejoint la Dordogne pour former la Gironde."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "CAMARGUE",
+      "clue": "Chevaux blancs, taureaux noirs, riz et sel",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "CORSE",
+      "clue": "Île de Beauté",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "BRETAGNE",
+      "clue": "Cinq départements historiques, quatre dans la région",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "La Loire-Atlantique reste hors du périmètre administratif depuis 1955."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "PYRENEES",
+      "clue": "Frontière naturelle avec un micro-État au milieu",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Andorre occupe une vallée au cœur de la chaîne."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le poète provençal Frédéric Mistral a reçu le prix Nobel de littérature en 1904, partagé avec l’Espagnol José Echegaray.",
+      "sourceTitle": "Fondation Nobel, palmarès de littérature 1904",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Loire-Atlantique appartenait à la province historique de Bretagne mais a été rattachée à la région des Pays de la Loire lors du découpage administratif des années 1950.",
+      "sourceTitle": "Décret du 30 juin 1955 sur les régions de programme",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Le principe est bien établi ; la référence exacte du texte fondateur mérite vérification au Journal officiel."
+    },
+    {
+      "text": "Le stratovolcan du Cantal, éteint depuis environ deux millions d’années, compte parmi les plus vastes édifices volcaniques d’Europe.",
+      "sourceTitle": "BRGM, notice géologique du Massif central",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Le superlatif « plus vaste d’Europe » circule largement mais dépend de la méthode de mesure ; formulation prudente conservée."
+    }
+  ]
+}

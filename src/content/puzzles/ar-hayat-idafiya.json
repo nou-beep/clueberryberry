@@ -1,0 +1,134 @@
+{
+  "slug": "ar-hayat-idafiya",
+  "title": "حياة إضافية",
+  "language": "ar",
+  "subject": "games",
+  "topic": "gaming-vocabulary",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "معجم صغير لمن يمسك الذراع منذ التسعينيات.",
+  "completionMessage": "حفظت النتيجة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "خريطة",
+      "clue": "رقعة العالم في ركن الشاشة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "مستوى",
+      "clue": "ما يرتفع مع تراكم الخبرة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "مرحلة",
+      "clue": "قسم له بداية ونهاية وحفظ بينهما",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "ذخيرة",
+      "clue": "تنفد في أسوأ لحظة ممكنة",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 7,
+      "answer": "لاعب",
+      "clue": "من يمسك يد التحكم",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "مهمة",
+      "clue": "قد تكون رئيسية وقد تكون جانبية",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "درع",
+      "clue": "يمتص الضربة قبل أن تصل الصحة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "زعيم",
+      "clue": "خصم ضخم ينتظر في آخر الطريق",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "جائزة",
+      "clue": "ما يمنح عند بلوغ الهدف",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "محاكاة",
+      "clue": "نوع يقلد الواقع، كقيادة طائرة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "منصة",
+      "clue": "بلاي ستيشن مثلا",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أطلقت سوني جهاز بلاي ستيشن الأول في اليابان في ديسمبر 1994.",
+      "sourceTitle": "سوني إنتراكتيف إنترتينمنت — الجدول الزمني للشركة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "بدأت سلسلة محاكاة الطيران من مايكروسوفت سنة 1982، وهي من أطول سلاسل ألعاب الحاسوب الشخصي عمرا.",
+      "sourceTitle": "مايكروسوفت — تاريخ Flight Simulator",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "استقر تصميم المرحلة المنتهية بخصم ضخم كقاعدة في ألعاب الأروقة خلال السبعينيات والثمانينيات.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "أول لعبة استعملت هذا التصميم محل خلاف بين مؤرخي الألعاب، ولذلك اكتفيت بالإطار الزمني العام."
+    }
+  ]
+}

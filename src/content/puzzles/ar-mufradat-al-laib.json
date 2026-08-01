@@ -1,0 +1,116 @@
+{
+  "slug": "ar-mufradat-al-laib",
+  "title": "بلغة اللاعبين",
+  "language": "ar",
+  "subject": "games",
+  "topic": "gaming-vocabulary",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "تسع كلمات من قاموس المرح الرقمي، من أول ضغطة زر إلى آخر مرحلة.",
+  "completionMessage": "انتهت الجولة، وأنت في الصدارة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "لعبة",
+      "clue": "تسلية لها قواعد وفائز",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "لغز",
+      "clue": "يحل بالفكر لا باليد",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "بطولة",
+      "clue": "منافسة تنتهي بكأس",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "وحش",
+      "clue": "خصم ضخم في نهاية المرحلة",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "يسمي اللاعبون الخصم الأقوى في ختام المرحلة وحشا، ترجمة للمصطلح الإنجليزي boss."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "شاشة",
+      "clue": "نافذة اللعب المضيئة",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "شخصية",
+      "clue": "من تتحرك بأمر اللاعب",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "صوت",
+      "clue": "يخفض ليلا كي ينام البيت",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 6,
+      "answer": "تحكم",
+      "clue": "___ عن بعد",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 8,
+      "answer": "كنز",
+      "clue": "صندوق يكافئ الفضول",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "تعد لعبة تنس لاثنين، التي عرضت سنة 1958 على شاشة راسم ذبذبات في مختبر بروكهيفن، من أوائل ألعاب الفيديو.",
+      "sourceTitle": "مختبر بروكهيفن الوطني — Tennis for Two",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ماينكرافت أكثر ألعاب الفيديو مبيعا في التاريخ، وقد تجاوزت مبيعاتها ثلاث مئة مليون نسخة.",
+      "sourceTitle": "موسوعة غينيس للأرقام القياسية — أكثر الألعاب مبيعا",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "تسمية وحش المرحلة انتقلت إلى العربية من عرف اللاعبين الإنجليزي، وتطلق على الخصم الأقوى الذي يفتح عبوره الطريق إلى مرحلة تالية.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

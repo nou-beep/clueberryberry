@@ -1,0 +1,118 @@
+{
+  "slug": "la-plume-et-l-encrier",
+  "title": "La plume et l’encrier",
+  "language": "fr",
+  "subject": "literature",
+  "topic": "french-literature",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Quatre siècles de lettres françaises, sans table des matières.",
+  "completionMessage": "Le manuscrit est bouclé, l’éditeur peut suivre.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "GERMINAL",
+      "clue": "Mois de printemps révolutionnaire descendu à la mine",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "SPLEEN",
+      "clue": "Mal baudelairien importé d’outre-Manche",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "RIMBAUD",
+      "clue": "Tout écrit avant vingt et un ans, puis des armes à vendre en Abyssinie",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 2,
+      "answer": "COLETTE",
+      "clue": "Ses premiers romans ont paru sous la signature de son mari",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "La série des Claudine parut d’abord sous le nom de Willy."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "YOURCENAR",
+      "clue": "Première femme reçue sous la Coupole",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "PLEIADE",
+      "clue": "Sept poètes du XVIe siècle, puis une collection sur papier bible",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "ALEXANDRIN",
+      "clue": "Douze pieds avec une pause au milieu",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "CANDIDE",
+      "clue": "Il finit par cultiver son jardin",
+      "clueStyle": "quotation",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 1,
+      "answer": "FLAUBERT",
+      "clue": "Cinq ans de travail pour un adultère normand",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Marguerite Yourcenar a été élue à l’Académie française en mars 1980 et reçue en janvier 1981 : première femme à y siéger depuis sa fondation en 1635.",
+      "sourceTitle": "Académie française, notice « Marguerite Yourcenar »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les quatre romans de la série des Claudine ont paru entre 1900 et 1903 sous le seul nom de Willy, pseudonyme d’Henry Gauthier-Villars, époux de Colette.",
+      "sourceTitle": "Bibliothèque nationale de France, dossier Colette",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Bibliothèque de la Pléiade, lancée en 1931 par Jacques Schiffrin et reprise par Gallimard en 1933, doit son papier très fin, dit papier bible, à la nécessité de tenir une œuvre complète en un volume.",
+      "sourceTitle": "Éditions Gallimard, histoire de la Bibliothèque de la Pléiade",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Dates de fondation et de rachat à revérifier dans l’historique officiel de Gallimard."
+    }
+  ]
+}

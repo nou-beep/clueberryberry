@@ -1,0 +1,134 @@
+{
+  "slug": "ar-hisab-al-jayb",
+  "title": "حساب الجيب",
+  "language": "ar",
+  "subject": "finance-facts",
+  "topic": "money-vocabulary",
+  "difficulty": "medium",
+  "width": 7,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "مفردات الصفحة الاقتصادية، مرتبة عموديا وأفقيا.",
+  "completionMessage": "أقفل الدفتر، والحساب متوازن.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "تضخم",
+      "clue": "ارتفاع يقضم قيمة النقد",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 3,
+      "answer": "ادخار",
+      "clue": "ما يبقى بعد الإنفاق",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "ميزانية",
+      "clue": "أرقام السنة قبل أن تعاش",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "سهم",
+      "clue": "حصة صغيرة في شركة كبيرة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "سند",
+      "clue": "ورقة دين تصدرها دولة أو شركة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 2,
+      "answer": "ضريبة",
+      "clue": "نصيب الخزينة من الدخل",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 1,
+      "answer": "رهن",
+      "clue": "بيت يضمن القرض",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "سيولة",
+      "clue": "سرعة تحول الأصل إلى نقد",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 1,
+      "answer": "رصيد",
+      "clue": "رقم يخشى المرء رؤيته آخر الشهر",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "فائدة",
+      "clue": "ثمن الزمن في القرض",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "مصرف",
+      "clue": "بيت المال في صيغته الحديثة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "بلغ التضخم في زيمبابوي سنة 2008 مستويات دفعت المصرف المركزي إلى إصدار ورقة نقدية فئتها مئة تريليون دولار زيمبابوي.",
+      "sourceTitle": "بنك زيمبابوي الاحتياطي — إصدارات 2009",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أقدم مصرف ما زال يعمل في العالم هو بانكا مونتي دي باسكي دي سيينا الإيطالي، وقد تأسس سنة 1472.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Monte dei Paschi di Siena",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تحسب الفائدة المركبة على أصل الدين وعلى ما تراكم من فوائد سابقة معا، بخلاف الفائدة البسيطة التي تحسب على الأصل وحده.",
+      "sourceTitle": "معجم إنفستوبيديا المالي — مادة الفائدة المركبة",
+      "reviewStatus": "verified"
+    }
+  ]
+}

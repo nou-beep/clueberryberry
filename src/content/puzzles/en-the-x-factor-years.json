@@ -1,0 +1,119 @@
+{
+  "slug": "the-x-factor-years",
+  "title": "The X Factor Years",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-x-factor",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Nine entries from one autumn of Saturday-night television in 2010.",
+  "completionMessage": "Third place, and everything after.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "TOMLINSON",
+      "clue": "Doncaster-born member of the five",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "THIRD",
+      "clue": "Where they placed in the 2010 final",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "sourceNotes": "Matt Cardle won the 2010 series; Rebecca Ferguson was runner-up."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "IRELAND",
+      "clue": "___, where Niall Horan grew up",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1,
+      "explanation": "Horan is from Mullingar, County Westmeath."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "NOTE",
+      "clue": "Mark on a stave",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "TEEN",
+      "clue": "What every one of them still was that autumn",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "All five were between sixteen and eighteen during the 2010 series."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "DELTA",
+      "clue": "Fourth Greek letter",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "JUDGES",
+      "clue": "Panel that hands down the verdicts",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "SHOW",
+      "clue": "It can go on, or be stolen",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "GROUP",
+      "clue": "Category Simon Cowell took on in 2010",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "One Direction were put together during the 2010 series of The X Factor UK, after all five had already been eliminated as solo singers in the Boys category.",
+      "sourceTitle": "Encyclopaedia Britannica — One Direction",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The group finished third in the 2010 final, behind winner Matt Cardle and runner-up Rebecca Ferguson.",
+      "sourceTitle": "The X Factor (UK) series 7 final results, ITV",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Simon Cowell signed the group to his Syco label after the series ended; their first single arrived the following year.",
+      "sourceTitle": "Syco Music / Columbia Records release information, 2011",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

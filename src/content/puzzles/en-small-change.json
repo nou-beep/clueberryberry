@@ -1,0 +1,109 @@
+{
+  "slug": "small-change",
+  "title": "Small Change",
+  "language": "en",
+  "subject": "finance-facts",
+  "topic": "money-vocabulary",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Eight everyday words from the language of money.",
+  "completionMessage": "Books balanced, grid closed.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "COINS",
+      "clue": "Pocketful of jingle",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "CREDIT",
+      "clue": "Right-hand entry in double-entry books",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Bookkeepers record debits on the left and this on the right, so the two columns match."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "SUM",
+      "clue": "Total, or a schoolroom exercise",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "FEES",
+      "clue": "They hide in the small print",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "FINANCE",
+      "clue": "Ministry of ___, in many countries",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "INGOT",
+      "clue": "Cast bar of metal",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Refined gold and silver are poured into moulds and stored in this shape."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "TILL",
+      "clue": "Cash drawer, or \"until\" in verse",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 6,
+      "answer": "LOAN",
+      "clue": "It comes with a repayment date",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Double-entry bookkeeping records every amount twice, once as a debit and once as a credit, so the two sides of the ledger always agree. The method was first described in print by Luca Pacioli in 1494.",
+      "sourceTitle": "Luca Pacioli, Summa de arithmetica (1494)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Precious metals are weighed in troy ounces of about 31.1 grams, noticeably heavier than the ordinary ounce of about 28.35 grams.",
+      "sourceTitle": "The Royal Mint — Troy weight explained",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Coins in everyday circulation are generally struck from base-metal alloys such as cupronickel or plated steel, so the metal in them is worth less than the figure stamped on the face.",
+      "sourceTitle": "The Royal Mint — Coin specifications",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

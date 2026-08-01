@@ -1,0 +1,107 @@
+{
+  "slug": "sur-la-paillasse",
+  "title": "Sur la paillasse",
+  "language": "fr",
+  "subject": "chemistry",
+  "topic": "laboratory-equipment",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Du verre, un peu de flamme, et l’obligation de tout étiqueter.",
+  "completionMessage": "Paillasse rangée, blouse au crochet.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "SPATULE",
+      "clue": "Outil du chimiste, du pâtissier, et échassier au bec plat",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "PIPETTE",
+      "clue": "Elle prélève à la goutte près",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 3,
+      "answer": "ENTONNOIR",
+      "clue": "Il évite les dégâts au moment de verser",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "MORTIER",
+      "clue": "On y pile, à moins de le tirer",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 11,
+      "answer": "BECHER",
+      "clue": "Gobelet gradué du chimiste, large et sans pied",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "BALANCE",
+      "clue": "Précise au centigramme, et bavarde en argot",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "ERLENMEYER",
+      "clue": "Fiole conique qu’un revers de manche ne renverse pas",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 2,
+      "answer": "BUNSEN",
+      "clue": "Chimiste de Heidelberg passé à la postérité par son bec",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le brûleur associé au nom de Robert Bunsen a été mis au point vers 1855 dans son laboratoire de Heidelberg, avec l’aide du mécanicien Peter Desaga.",
+      "sourceTitle": "Encyclopædia Britannica, « Bunsen burner »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La fiole conique porte le nom du chimiste allemand Emil Erlenmeyer, qui l’a présentée en 1860.",
+      "sourceTitle": "Encyclopædia Britannica, « Erlenmeyer flask »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le mortier et son pilon comptent parmi les plus anciens instruments encore en usage au laboratoire : la pharmacie les emploie sans interruption depuis l’Antiquité.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Affirmation de continuité historique difficile à sourcer précisément ; à confirmer auprès d’une histoire de la pharmacie avant de passer en « verified »."
+    }
+  ]
+}

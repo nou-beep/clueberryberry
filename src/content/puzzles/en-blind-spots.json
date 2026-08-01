@@ -1,0 +1,125 @@
+{
+  "slug": "blind-spots",
+  "title": "Blind Spots",
+  "language": "en",
+  "subject": "psychology",
+  "topic": "cognitive-biases",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Ten entries on the reliable ways a mind goes wrong.",
+  "completionMessage": "You saw that coming, of course.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "TVERSKY",
+      "clue": "Amos who wrote with Kahneman on judgement under uncertainty",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "SUNK",
+      "clue": "___ cost, gone but still steering the decision",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "HALO",
+      "clue": "One good trait lending its glow to the rest",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "HINDSIGHT",
+      "clue": "___ bias, the knew-it-all-along effect",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "FRAMING",
+      "clue": "Same figures, different wrapping",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 6,
+      "answer": "ANCHORING",
+      "clue": "Pull exerted by whatever number came first",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "PRIMACY",
+      "clue": "Head start enjoyed by the first item on a list",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "RECENCY",
+      "clue": "Why the last thing said lingers longest",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "GAMBLER",
+      "clue": "___'s fallacy, the belief that a coin owes you a tail",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 4,
+      "answer": "DUNNING",
+      "clue": "David whose name is hyphenated to Kruger's",
+      "clueStyle": "trivia",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Amos Tversky and Daniel Kahneman described anchoring, availability and representativeness in a 1974 paper in Science.",
+      "sourceTitle": "Tversky and Kahneman, 'Judgment under Uncertainty: Heuristics and Biases', Science (1974)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Justin Kruger and David Dunning reported in 1999 that people who performed worst on a task tended to overestimate their performance most.",
+      "sourceTitle": "Kruger and Dunning, Journal of Personality and Social Psychology (1999)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Primacy and recency together give the serial position curve: items at the beginning and end of a list are recalled better than those in the middle.",
+      "sourceTitle": "Murdock, Journal of Experimental Psychology (1962)",
+      "reviewStatus": "verified"
+    }
+  ]
+}

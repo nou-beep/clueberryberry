@@ -1,0 +1,118 @@
+{
+  "slug": "ar-fi-al-dhakira",
+  "title": "في الذاكرة",
+  "language": "ar",
+  "subject": "psychology",
+  "topic": "memory",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "شبكة هادئة عن كيف نحفظ، وكيف ننسى، ولماذا تعود بعض الأشياء وحدها.",
+  "completionMessage": "ما ثبت هنا لن يضيع بسهولة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "اسم",
+      "clue": "أول ما يضيع في التعارف",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "انتباه",
+      "clue": "شرط أول للحفظ",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "ما لا يمر عبر تركيز واع لا يثبت في الذاكرة."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "تكرار",
+      "clue": "يعلم الحمار، كما يقول المثل",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "رائحة",
+      "clue": "تستدعي الماضي في لحظة",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "مسار الشم يتصل بمناطق الذاكرة والانفعال في الدماغ، فتعود الذكريات القديمة فجأة."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "ادراك",
+      "clue": "ترجمة الحواس إلى معنى",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "رمز",
+      "clue": "إشارة تنوب عن شيء",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 1,
+      "answer": "عادة",
+      "clue": "ما يفعله المرء دون تفكير",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 1,
+      "answer": "عقل",
+      "clue": "___ سليم في جسم سليم",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "حلم",
+      "clue": "شريط يعرض أثناء النوم",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أظهر هرمان إبنغهاوس في تجاربه على الحفظ أن أكبر قدر مما نتعلمه يضيع في الساعات الأولى بعد التعلم، وهو ما عرف بمنحنى النسيان.",
+      "sourceTitle": "هرمان إبنغهاوس، الذاكرة: بحث في علم النفس التجريبي (1885)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اقترح جورج ميلر سنة 1956 أن الذاكرة القصيرة تحتفظ بنحو سبعة عناصر في المتوسط، وقد عدلت أبحاث لاحقة هذا التقدير إلى نحو أربعة.",
+      "sourceTitle": "جورج ميلر، الرقم السبعة السحري، Psychological Review (1956)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تنفرد حاسة الشم بأن مسارها العصبي يصل إلى مناطق الذاكرة والانفعال قبل مروره بمراكز المعالجة العليا، ولهذا تبدو الذكريات التي تستدعيها الروائح قديمة ومباشرة.",
+      "sourceTitle": "هارفارد هيلث بابليشينغ — الشم والذاكرة",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

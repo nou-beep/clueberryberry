@@ -1,0 +1,119 @@
+{
+  "slug": "pixels-d-antan",
+  "title": "Pixels d’antan",
+  "language": "fr",
+  "subject": "games",
+  "topic": "retro-games",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Une visite à la salle de jeux d’avant, quand les écrans étaient bombés.",
+  "completionMessage": "Partie terminée, et sans remettre de pièce.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "ATARI",
+      "clue": "Pionnier de Pong",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "La firme californienne lance Pong en 1972 et installe le jeu vidéo dans les bars."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "NIVEAU",
+      "clue": "Passer au ___ suivant",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "TETRIS",
+      "clue": "Quatre carrés qui tombent bien",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Ses pièces, les tétrominos, sont toutes faites de quatre carrés."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "PIXEL",
+      "clue": "Le plus petit des carrés",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "BORNE",
+      "clue": "Meuble debout, écran incliné",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "FANTOME",
+      "clue": "Il poursuit le glouton jaune",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Blinky, Pinky, Inky et Clyde harcèlent Pac-Man dans son labyrinthe."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "ARCADE",
+      "clue": "Voûte, ou temple du jeu vidéo",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "CONSOLE",
+      "clue": "Elle se branche, ou elle réconforte",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "MANETTE",
+      "clue": "On la triture à deux pouces",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Tetris a été conçu en 1984 par Alexeï Pajitnov, alors chercheur à l’Académie des sciences de Moscou.",
+      "sourceTitle": "Encyclopædia Britannica — Tetris",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les quatre fantômes de Pac-Man portent, dans la version occidentale, les noms de Blinky, Pinky, Inky et Clyde.",
+      "sourceTitle": "Namco — Pac-Man (1980)",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Sorti par Atari en 1972, Pong a lancé la vogue des bornes installées dans les bars et les salles de jeux.",
+      "sourceTitle": "Computer History Museum — Pong",
+      "reviewStatus": "verified"
+    }
+  ]
+}

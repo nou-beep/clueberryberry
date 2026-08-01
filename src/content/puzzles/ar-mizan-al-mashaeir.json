@@ -1,0 +1,134 @@
+{
+  "slug": "ar-mizan-al-mashaeir",
+  "title": "ميزان المشاعر",
+  "language": "ar",
+  "subject": "psychology",
+  "topic": "emotions",
+  "difficulty": "easy",
+  "width": 8,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "أحد عشر اسما لما يمر بالنفس في يوم واحد.",
+  "completionMessage": "كل شعور وجد خانته.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "فرح",
+      "clue": "خفة تعلو الوجه",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "خوف",
+      "clue": "حارس قديم يسبق العقل",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 5,
+      "answer": "حزن",
+      "clue": "ثقل يعقب الفقد",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "حنين",
+      "clue": "ما يشده الماضي",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "فخر",
+      "clue": "شعور بعد إنجاز، وباب في الشعر العربي",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "تعاطف",
+      "clue": "أن تضع قدمك في نعل غيرك",
+      "clueStyle": "phrase",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "توتر",
+      "clue": "شد ما قبل الامتحان",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "مزاج",
+      "clue": "حال النفس في يومها",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "ندم",
+      "clue": "لا يصل إلا متأخرا",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "غيرة",
+      "clue": "قرينة المحبة حين تخاف",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "غضب",
+      "clue": "دم يصعد إلى الوجنتين",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "صاغ الطبيب السويسري يوهانس هوفر سنة 1688 كلمة نوستالجيا لوصف حنين الجنود إلى بلادهم، وعدها آنذاك مرضا.",
+      "sourceTitle": "يوهانس هوفر — أطروحة في النوستالجيا، بازل 1688",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اقترح بول إيكمان ستة انفعالات أساسية تظهر تعابيرها الوجهية في ثقافات متباعدة: الغضب والاشمئزاز والخوف والفرح والحزن والدهشة.",
+      "sourceTitle": "بول إيكمان — الانفعال في الوجه البشري",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اللوزة الدماغية بنية صغيرة في الفص الصدغي يرتبط نشاطها ارتباطا وثيقا بمعالجة الخوف وتقدير التهديد.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة اللوزة الدماغية",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "the-body-at-a-glance",
+  "title": "The Body at a Glance",
+  "language": "en",
+  "subject": "biology",
+  "topic": "human-anatomy",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "A gentle tour from head to toe.",
+  "completionMessage": "All parts accounted for.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "HEART",
+      "clue": "Organ that keeps the beat",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1,
+      "explanation": "A four-chambered pump — and a pun on rhythm."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "ELBOW",
+      "clue": "Joint you might use to nudge",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "TENDON",
+      "clue": "Achilles ___",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "Connective tissue joining muscle to bone; the Achilles version is the best known."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "RIB",
+      "clue": "Cage component",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2,
+      "explanation": "The rib cage, not the birdcage."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "JAW",
+      "clue": "It may drop in amazement",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "LOBE",
+      "clue": "Earring's spot",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "ARTERY",
+      "clue": "Aorta, for one",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Arteries carry blood away from the heart; the aorta is the largest."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "TOE",
+      "clue": "Little piggy, in a nursery rhyme",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "IRIS",
+      "clue": "Eye's colored ring",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "A resting adult heart typically beats between 60 and 100 times per minute.",
+      "sourceTitle": "American Heart Association — All About Heart Rate",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Achilles tendon is the thickest and strongest tendon in the human body.",
+      "sourceTitle": "Gray's Anatomy (reference text)",
+      "reviewStatus": "needs_review"
+    }
+  ],
+  "featured": true
+}

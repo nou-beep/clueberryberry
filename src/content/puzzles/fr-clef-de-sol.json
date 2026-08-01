@@ -1,0 +1,109 @@
+{
+  "slug": "clef-de-sol",
+  "title": "Clef de sol",
+  "language": "fr",
+  "subject": "music",
+  "topic": "musical-instruments",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Des cordes, des anches, un peu de crin : de quoi remplir une fosse.",
+  "completionMessage": "L’orchestre est au complet, on peut accorder.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "CLAVECIN",
+      "clue": "Il pince là où le piano frappe",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "Ses cordes sont pincées par des becs de plume ou de plastique, d’où l’absence de nuances."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "TIMBALE",
+      "clue": "On la frappe, ou on la décroche",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "HARPE",
+      "clue": "Emblème sonore de l’Irlande",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "ANCHE",
+      "clue": "Lamelle de roseau qui fait parler la clarinette",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "CORNEMUSE",
+      "clue": "Un sac, un bourdon, et beaucoup de voisins fâchés",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 4,
+      "answer": "ARCHET",
+      "clue": "Du crin de cheval tendu sur du bois",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "ACCORDEON",
+      "clue": "Piano à bretelles",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "HAUTBOIS",
+      "clue": "C’est lui qui donne le la à tout l’orchestre",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Dans un orchestre symphonique, l’accord se fait sur le la donné par le hautbois, dont la justesse varie peu avec la température.",
+      "sourceTitle": "Encyclopædia Britannica, « oboe »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La harpe celtique figure sur les armoiries de l’Irlande et sur ses pièces en euro : c’est le seul pays au monde dont l’emblème national soit un instrument de musique.",
+      "sourceTitle": "Département du Taoiseach, symboles nationaux de l’Irlande",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’accordéon a été breveté à Vienne en 1829 par Cyrill Demian, facteur d’orgues d’origine arménienne.",
+      "sourceTitle": "Encyclopædia Britannica, « accordion »",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Le brevet de 1829 est bien documenté ; l’origine arménienne de Demian est rapportée par plusieurs sources secondaires seulement."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "ar-fi-raff-al-riwayat",
+  "title": "في رف الروايات",
+  "language": "ar",
+  "subject": "books",
+  "topic": "famous-novels",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "عناوين مترجمة ومصطلحات صناعة الكتاب، في شبكة واحدة.",
+  "completionMessage": "أعيد الكتاب إلى مكانه في الرف.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "البؤساء",
+      "clue": "جان فالجان بطلها",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "الغريب",
+      "clue": "رواية كامو التي تفتتح بخبر وفاة الأم",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "دراكولا",
+      "clue": "كونت من ترانسلفانيا في رواية ستوكر",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "المسخ",
+      "clue": "استيقظ غريغور سامسا حشرة",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "حبكة",
+      "clue": "الخيط الذي يشد الأحداث",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 7,
+      "answer": "غلاف",
+      "clue": "أول ما يرى من الكتاب",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "راوي",
+      "clue": "صوت يحكي ولا يظهر بالضرورة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "مقدمة",
+      "clue": "ما يكتب قبل النص ليمهد له",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "طبعة",
+      "clue": "الأولى منها يطاردها الجامعون",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 10,
+      "answer": "فصل",
+      "clue": "قسم في الكتاب، وربع في السنة",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "سرد",
+      "clue": "فن سياق الحكاية",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "صدرت رواية البؤساء لفيكتور هوغو سنة 1862، ونشرت أجزاؤها في بروكسل وباريس في العام نفسه.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة البؤساء",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "صدرت رواية الغريب لألبير كامو سنة 1942، وتفتتح بخبر وفاة أم الراوي.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة ألبير كامو",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "بنى برام ستوكر رواية دراكولا الصادرة سنة 1897 على شكل رسائل ويوميات وقصاصات صحف بلا راو واحد.",
+      "sourceTitle": "المكتبة البريطانية — مادة دراكولا",
+      "reviewStatus": "verified"
+    }
+  ]
+}

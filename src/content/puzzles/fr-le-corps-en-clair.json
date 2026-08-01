@@ -1,0 +1,112 @@
+{
+  "slug": "le-corps-en-clair",
+  "title": "Le corps en clair",
+  "language": "fr",
+  "subject": "biology",
+  "topic": "human-anatomy",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Deux cent six os, quelques organes, et pas une pièce en trop.",
+  "completionMessage": "Squelette complet, rien qui dépasse.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "FOIE",
+      "clue": "Organe qui repousse après avoir été amputé",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 6,
+      "answer": "POUMON",
+      "clue": "Trois lobes à droite, deux à gauche",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "Le côté gauche cède de la place au cœur."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "CLAVICULE",
+      "clue": "Os en travers, de l’épaule au sternum",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "VERTEBRE",
+      "clue": "L’atlas est la première de la série",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "La première cervicale, qui porte la tête, est nommée d’après le titan condamné à porter le ciel."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "CRANE",
+      "clue": "Vingt-deux os pour un seul locataire",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "Le squelette de la tête compte vingt-deux os, mandibule comprise."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "RATE",
+      "clue": "Elle recycle les globules rouges fatigués",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "TIBIA",
+      "clue": "Ce que protège le protège-tibia... et rien d’autre",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "ROTULE",
+      "clue": "Le plus gros des os sésamoïdes",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "Un os sésamoïde est enchâssé dans un tendon ; celui du genou est de loin le plus volumineux."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le foie est le seul organe interne humain capable de retrouver sa masse initiale après l’ablation d’une grande partie de son volume, ce qui rend possible le don de foie entre vivants.",
+      "sourceTitle": "Agence de la biomédecine, dossier « Le don du foie »",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Formulation à confirmer sur la page en vigueur de l’Agence de la biomédecine ; le principe de la régénération hépatique est établi."
+    },
+    {
+      "text": "La clavicule est le premier os du corps humain à commencer son ossification, dès la cinquième semaine de vie embryonnaire.",
+      "sourceTitle": "Gray’s Anatomy, chapitre sur la ceinture scapulaire",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La première vertèbre cervicale s’appelle l’atlas parce qu’elle porte la tête comme le titan portait la voûte céleste ; la deuxième, l’axis, lui sert de pivot.",
+      "sourceTitle": "Terminologia Anatomica",
+      "reviewStatus": "verified"
+    }
+  ]
+}

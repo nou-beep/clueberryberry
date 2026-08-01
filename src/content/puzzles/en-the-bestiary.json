@@ -1,0 +1,125 @@
+{
+  "slug": "the-bestiary",
+  "title": "The Bestiary",
+  "language": "en",
+  "subject": "greek-mythology",
+  "topic": "greek-monsters",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries that a Greek hero would rather not meet.",
+  "completionMessage": "All of them safely back in the margins.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "CHIMERA",
+      "clue": "Lion, goat and serpent assembled into one beast",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "CENTAUR",
+      "clue": "Horse below, man above",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 6,
+      "answer": "HYDRA",
+      "clue": "Many-headed nuisance of the Lernaean marsh",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "CERBERUS",
+      "clue": "Doorkeeper of the underworld, usually drawn with three heads",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "CYCLOPS",
+      "clue": "One-eyed giant who kept sheep in a cave",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 11,
+      "answer": "SCYLLA",
+      "clue": "One hazard of a narrow strait; Charybdis is the other",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "HARPY",
+      "clue": "Winged snatcher, later borrowed as an insult",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 8,
+      "answer": "SIREN",
+      "clue": "Singer who wrecked ships, now bolted to an ambulance",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "MINOTAUR",
+      "clue": "Occupant of the labyrinth at Knossos",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 0,
+      "answer": "MEDUSA",
+      "clue": "Gorgon whose gaze turned onlookers to stone",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Lernaean Hydra grew replacement heads as fast as they were cut off, until Heracles' nephew Iolaus began cauterising the stumps.",
+      "sourceTitle": "Apollodorus, Bibliotheca 2.5.2",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Homer sets Scylla and Charybdis on opposite sides of a narrow channel, so that a ship steering away from one is driven towards the other.",
+      "sourceTitle": "Homer, Odyssey, Book 12",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Three heads became the standard picture of Cerberus, but ancient sources disagree: Hesiod gives him fifty.",
+      "sourceTitle": "Hesiod, Theogony, lines 310-312",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

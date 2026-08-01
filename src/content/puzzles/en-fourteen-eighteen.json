@@ -1,0 +1,137 @@
+{
+  "slug": "fourteen-eighteen",
+  "title": "Fourteen Eighteen",
+  "language": "en",
+  "subject": "world-war-i",
+  "topic": "ww1-trenches",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Eleven entries on the equipment, conditions and vocabulary of the trench lines, 1914 to 1918.",
+  "completionMessage": "Complete. These were the ordinary words of four years on the line.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "PARAPET",
+      "clue": "Forward earth bank of a fire trench",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "The parapet faced the enemy; the corresponding bank at the rear was the parados."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "PIGEON",
+      "clue": "Bird used to carry written messages back from forward positions",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "RATS",
+      "clue": "Vermin that infested the trench systems",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "TELEPHONE",
+      "clue": "Field ___, wired back to headquarters",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3,
+      "explanation": "Signal cable was buried deep where possible, since shellfire cut surface lines."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 3,
+      "answer": "SMOKE",
+      "clue": "Screen laid to conceal an advance",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "SNOW",
+      "clue": "Winter cover on the Western Front",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "SPADE",
+      "clue": "Tool for digging in, issued to infantry",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "ATTACK",
+      "clue": "Assault launched from the forward line",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 4,
+      "answer": "CART",
+      "clue": "Horse-drawn transport that brought supplies up the line",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 6,
+      "answer": "BELT",
+      "clue": "Fabric strip that fed rounds into a machine gun",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "sourceNotes": "The Vickers gun was fed from a canvas belt holding 250 rounds."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "EMBER",
+      "clue": "Last glow in a brazier",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "A fire trench was normally built with a parapet in front and a parados behind, so that a soldier standing at the fire step was not outlined against the sky when seen from the rear.",
+      "sourceTitle": "Imperial War Museums — Life in the trenches",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The British Army kept homing pigeons throughout the war to carry written messages from forward positions when telephone cable had been cut by shellfire.",
+      "sourceTitle": "Imperial War Museums — Animals and the First World War",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Standing for long periods in cold water caused trench foot, which removed large numbers of men from the line during the first winters of the war before drainage, duckboards and dry socks were made routine.",
+      "sourceTitle": "Historical accounts in the Journal of the Royal Army Medical Corps",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "a-bit-of-everything",
+  "title": "A Bit of Everything",
+  "language": "en",
+  "subject": "general-knowledge",
+  "topic": "gk-inventions",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "A pub-quiz round in grid form: who made what, and one or two things they stumbled on by mistake.",
+  "completionMessage": "Round over. No half points needed.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "VELCRO",
+      "clue": "Fastener inspired by burdock burrs",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Swiss engineer George de Mestral copied the hooks of the burrs that stuck to his clothes and his dog.",
+      "sourceNotes": "Encyclopaedia Britannica, entry on Velcro and George de Mestral."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "EDISON",
+      "clue": "Menlo Park's prolific patent holder",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "His New Jersey laboratory produced well over a thousand US patents."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "COMPASS",
+      "clue": "Song-dynasty aid to finding north",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "Magnetic direction-finding for navigation is first clearly described in Song China, around the eleventh century.",
+      "sourceNotes": "Encyclopaedia Britannica, entry on the compass."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "MORSE",
+      "clue": "Code named for its telegraph pioneer",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "ABACUS",
+      "clue": "Beads that did the sums",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "SONAR",
+      "clue": "Echo-based way to sound the depths",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "It times the return of a pulse to measure distance underwater."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "RADIO",
+      "clue": "Wireless medium Marconi took transatlantic",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "Marconi reported receiving a signal sent from Cornwall to Newfoundland in December 1901.",
+      "sourceNotes": "Encyclopaedia Britannica, entry on Guglielmo Marconi."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 9,
+      "answer": "CAR",
+      "clue": "Benz's three-wheeler, loosely",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "The 1886 Patent-Motorwagen had three wheels, which makes the modern word a generous fit."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "RADAR",
+      "clue": "Wartime detector that reads the same backwards",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2,
+      "explanation": "A palindrome, and originally an acronym."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "TEFLON",
+      "clue": "Non-stick coating found by accident",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "A chemist looking at refrigerant gases found a slippery white residue in a cylinder instead.",
+      "sourceNotes": "Science History Institute, biography of Roy J. Plunkett."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Velcro began as a walk in the Alps. George de Mestral looked at the burdock burrs clinging to his trousers under a microscope, saw tiny hooks, and spent years turning the idea into a hook-and-loop fastener patented in the 1950s.",
+      "sourceTitle": "Encyclopaedia Britannica — Velcro",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Teflon was a mistake. In 1938 DuPont chemist Roy Plunkett opened a cylinder of a refrigerant gas and found a waxy white solid instead of gas: polytetrafluoroethylene.",
+      "sourceTitle": "Science History Institute — Roy J. Plunkett",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "RADAR started life as an acronym, from radio detection and ranging, adopted by the US Navy around 1940. It has since become an ordinary noun, and a palindrome by coincidence.",
+      "sourceTitle": "Oxford English Dictionary — radar",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

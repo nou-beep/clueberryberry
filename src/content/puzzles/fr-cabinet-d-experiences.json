@@ -1,0 +1,110 @@
+{
+  "slug": "cabinet-d-experiences",
+  "title": "Cabinet d’expériences",
+  "language": "fr",
+  "subject": "psychology",
+  "topic": "famous-experiments",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Des protocoles célèbres, dont quelques-uns ne repasseraient pas devant un comité d’éthique.",
+  "completionMessage": "Résultats consignés, sujets débriefés.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "HARLOW",
+      "clue": "Ses macaques préféraient la mère en tissu à celle qui nourrissait",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 10,
+      "answer": "PAVLOV",
+      "clue": "Son nom sonne comme une cloche",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "MILGRAM",
+      "clue": "Il a mesuré jusqu’où l’on va quand on nous le demande",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "STANFORD",
+      "clue": "Prison de 1971 qui n’a tenu que six jours",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "SALIVE",
+      "clue": "Elle a coulé au son d’un métronome",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "GUIMAUVE",
+      "clue": "Épreuve de patience pour enfant de quatre ans",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Le test de Walter Mischel : une friandise tout de suite, ou deux si l’on sait attendre."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 8,
+      "answer": "ASCH",
+      "clue": "Ses trois lignes ont prouvé qu’on préfère se tromper ensemble",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "Les sujets comparaient des segments et se rangeaient à l’avis unanime, mais faux, des complices."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "OBEISSANCE",
+      "clue": "Deux sujets sur trois sont allés jusqu’au dernier interrupteur",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "65 % des participants ont administré le choc maximal annoncé, croyant le faire réellement."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Dans la première série de Stanley Milgram, 65 % des participants ont poussé jusqu’au choc annoncé comme maximal, alors qu’aucune décharge n’était réellement délivrée.",
+      "sourceTitle": "Stanley Milgram, « Behavioral Study of Obedience », Journal of Abnormal and Social Psychology (1963)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’expérience de la prison de Stanford, dirigée par Philip Zimbardo en août 1971, devait durer deux semaines : elle a été interrompue au bout de six jours.",
+      "sourceTitle": "Philip Zimbardo, The Lucifer Effect (2007)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le test de la guimauve, mené par Walter Mischel à Stanford à partir de 1972, a été réévalué depuis : les corrélations avec la réussite ultérieure s’affaiblissent nettement quand on tient compte du milieu social.",
+      "sourceTitle": "Watts, Duncan & Quan, Psychological Science (2018)",
+      "reviewStatus": "verified"
+    }
+  ]
+}

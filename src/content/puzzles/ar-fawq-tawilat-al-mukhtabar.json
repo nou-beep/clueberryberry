@@ -1,0 +1,134 @@
+{
+  "slug": "ar-fawq-tawilat-al-mukhtabar",
+  "title": "فوق طاولة المختبر",
+  "language": "ar",
+  "subject": "chemistry",
+  "topic": "laboratory-equipment",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "جرد سريع لما تجده على الرف قبل بداية الحصة.",
+  "completionMessage": "أعيد كل شيء إلى مكانه، وأطفئ اللهب.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "انبوب",
+      "clue": "زجاج ضيق يستقبل العينة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "دورق",
+      "clue": "قارورة بعنق طويل",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "قمع",
+      "clue": "مخروط يهدي السائل",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "ماصة",
+      "clue": "تسحب حجما بالقطرة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "ميزان",
+      "clue": "لا يقبل غير العدل",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "موقد",
+      "clue": "بنزن أعطاه اسمه",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "ملقط",
+      "clue": "يمسك ما لا تمسه اليد",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "شعلة",
+      "clue": "لسان أزرق فوق الفتحة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "قفاز",
+      "clue": "حاجز بين الجلد والحمض",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 0,
+      "answer": "مقياس",
+      "clue": "أداة تعطي رقما",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "مجهر",
+      "clue": "يكبر ما لا يرى",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "سمي موقد بنزن على اسم الكيميائي الألماني روبرت بنزن، وقد طور تصميمه المعروف مع صانع الأدوات بيتر ديساغا سنة 1855.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة موقد بنزن",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يصير لهب الموقد أزرق شبه عديم اللمعان حين يفتح مدخل الهواء، وأصفر مضطربا حين يغلق.",
+      "sourceTitle": "الجمعية الملكية للكيمياء — إرشادات المختبر المدرسي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "لا يوجد قفاز مخبري واحد يقاوم كل المواد، فبعض المذيبات العضوية تنفذ عبر المطاط الطبيعي خلال دقائق.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "مدة النفاذ تختلف باختلاف المذيب وسمك القفاز والشركة المصنعة، ولم أعتمد جدول نفاذية بعينه."
+    }
+  ]
+}

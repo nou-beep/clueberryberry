@@ -1,0 +1,117 @@
+{
+  "slug": "press-start",
+  "title": "Press Start",
+  "language": "en",
+  "subject": "games",
+  "topic": "gaming-vocabulary",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "The vocabulary every player picks up in the first hour.",
+  "completionMessage": "Cleared, with lives to spare.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "QUEST",
+      "clue": "Errand with a reward at the end",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "SCORE",
+      "clue": "Four ___ and seven years ago",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "Lincoln's twenty, and the number in the corner of the screen."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "BOSS",
+      "clue": "Hulking foe guarding the exit",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "AVATAR",
+      "clue": "Your stand-in on screen",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "COMBO",
+      "clue": "Chain of hits in a fighting game",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "PAUSE",
+      "clue": "Button for a snack run",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "LEVEL",
+      "clue": "Carpenter's tool, or a stage to clear",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "RESPAWN",
+      "clue": "Return from the dead, on screen",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "LIVES",
+      "clue": "Often three, at an arcade cabinet",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The word avatar comes from Sanskrit avatara, the descent of a deity into the world. Games borrowed it in the 1980s for the figure a player controls.",
+      "sourceTitle": "Oxford English Dictionary — avatar",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Much of the vocabulary of quests, levels and experience reached video games from tabletop role-playing, beginning with Dungeons & Dragons in 1974.",
+      "sourceTitle": "Encyclopaedia Britannica — Dungeons & Dragons",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Coin-operated cabinets typically handed a player a small fixed stock of lives; when it ran out the machine wanted another coin, which shaped how difficult those games were made.",
+      "sourceTitle": "Kent, The Ultimate History of Video Games",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

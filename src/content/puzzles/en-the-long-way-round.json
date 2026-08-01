@@ -1,0 +1,125 @@
+{
+  "slug": "the-long-way-round",
+  "title": "The Long Way Round",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-band-history",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Ten entries from the paperwork, the credits and the calendar.",
+  "completionMessage": "Filed under 2010 to 2015.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "SYCO",
+      "clue": "Label that signed the group once the 2010 series ended",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "SPURLOCK",
+      "clue": "Morgan behind the 2013 concert documentary",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "UNDERTONES",
+      "clue": "Band whose Teenage Kicks fed that charity mash-up",
+      "clueStyle": "cultural",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "BILLBOARD",
+      "clue": "Chart their first four albums each entered at the top",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "BUNETTA",
+      "clue": "Julian who co-wrote and produced across the last three albums",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "RELIEF",
+      "clue": "Comic ___, cause behind their 2013 charity single",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 6,
+      "answer": "MODEST",
+      "clue": "___! Management, the firm that ran their working life",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 1,
+      "answer": "HIATUS",
+      "clue": "Word chosen in 2015 in preference to split",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "STREAM",
+      "clue": "1D Day, in 2013, was a seven-hour one",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 1,
+      "answer": "SEPTEMBER",
+      "clue": "Month of 2011 that brought the first single",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Four, released in November 2014, made the group the first band whose first four albums all entered the Billboard 200 at number one.",
+      "sourceTitle": "Billboard 200 chart archive, November 2014",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Their 2013 Comic Relief single set Blondie's One Way or Another against the Undertones' Teenage Kicks and reached number one in the United Kingdom.",
+      "sourceTitle": "Official Charts Company, February 2013",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The group's last performance before the break came on the X Factor UK final in December 2015; the announcement earlier that year had described the pause as a hiatus rather than an end.",
+      "sourceTitle": "ITV broadcast of 13 December 2015 and contemporary press statements",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "capital-letters",
+  "title": "Capital Letters",
+  "language": "en",
+  "subject": "geography",
+  "topic": "capital-cities",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Eleven stops, most of them seats of government.",
+  "completionMessage": "Every seat filled, every border crossed.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "KABUL",
+      "clue": "City below the Hindu Kush",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "KAMPALA",
+      "clue": "Ugandan capital near Lake Victoria",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "BAY",
+      "clue": "Bengal ___",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "LHASA",
+      "clue": "Tibetan home of the Potala Palace",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "The palace complex overlooking the city was the winter residence of the Dalai Lamas."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "AMMAN",
+      "clue": "Once Philadelphia, now Jordan's largest city",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Under Hellenistic and Roman rule the city bore the name Philadelphia.",
+      "sourceNotes": "Encyclopaedia Britannica, entry on Amman."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "NAIROBI",
+      "clue": "Kenyan city with a national park at its edge",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "ACCRA",
+      "clue": "Ghana's seat of government",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "It stands on the Gulf of Guinea coast."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 1,
+      "answer": "ALPS",
+      "clue": "Range Hannibal crossed",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 6,
+      "answer": "OSLO",
+      "clue": "Norwegian city renamed in 1925",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "It was Christiania, then Kristiania, before taking its older name back."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "OSAKA",
+      "clue": "Japan's kitchen, as the nickname goes",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Long a merchant and food city, it is called tenka no daidokoro, the nation's kitchen."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "HANOI",
+      "clue": "Red River city",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Norway's capital was called Christiania, later spelled Kristiania, from 1624 until it resumed the name Oslo in 1925.",
+      "sourceTitle": "Encyclopaedia Britannica — Oslo",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Nairobi National Park, opened in 1946, sits on the southern edge of Kenya's capital and was the country's first national park.",
+      "sourceTitle": "Kenya Wildlife Service — Nairobi National Park",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Potala Palace in Lhasa stands at roughly 3,700 metres above sea level and has been a UNESCO World Heritage site since 1994.",
+      "sourceTitle": "UNESCO World Heritage List — Historic Ensemble of the Potala Palace",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "monstres-de-legende",
+  "title": "Monstres de légende",
+  "language": "fr",
+  "subject": "greek-mythology",
+  "topic": "greek-monsters",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Bestiaire grec, à manipuler avec un miroir et beaucoup de corde.",
+  "completionMessage": "Tous rangés au fond du labyrinthe.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "MEDUSE",
+      "clue": "Regard pétrifiant devenu animal marin",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 5,
+      "answer": "CERBERE",
+      "clue": "Portier à trois têtes, endormi par une lyre",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 5,
+      "answer": "CYCLOPE",
+      "clue": "Personne ne lui a crevé l’œil",
+      "clueStyle": "quotation",
+      "difficultyRating": 5,
+      "explanation": "Ulysse s’était présenté sous le nom d’Outis, « Personne » : les voisins de Polyphème n’y virent qu’une plainte absurde."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "SCYLLA",
+      "clue": "D’un côté du détroit ; Charybde de l’autre",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "CHIMERE",
+      "clue": "Lion devant, chèvre au milieu, serpent derrière",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "HARPIE",
+      "clue": "Voleuse ailée devenue insulte conjugale",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "TYPHON",
+      "clue": "Père des monstres, homonyme d’un vent d’Asie",
+      "clueStyle": "misdirection",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "HYDRE",
+      "clue": "Chaque coup d’épée aggravait le problème",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "MINOTAURE",
+      "clue": "Athènes lui livrait sept garçons et sept filles",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Au chant IX de l’Odyssée, Ulysse se fait appeler Outis, « Personne » : quand Polyphème aveuglé appelle à l’aide, les autres cyclopes comprennent que personne ne l’attaque et repartent se coucher.",
+      "sourceTitle": "Homère, Odyssée, chant IX",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le détroit de Messine, entre la Sicile et la Calabre, est traditionnellement identifié au passage gardé par Scylla et Charybde.",
+      "sourceTitle": "Encyclopædia Britannica, « Scylla and Charybdis »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’origine du mot « typhon » est débattue : les dictionnaires évoquent une convergence entre le grec Typhôn, l’arabe ṭūfān et le chinois tái fēng.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Étymologie contestée ; à ne pas présenter comme tranchée sans arbitrage d’un dictionnaire étymologique de référence."
+    }
+  ]
+}

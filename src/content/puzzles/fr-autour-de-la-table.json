@@ -1,0 +1,117 @@
+{
+  "slug": "autour-de-la-table",
+  "title": "Autour de la table",
+  "language": "fr",
+  "subject": "geopolitics",
+  "topic": "international-organizations",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Des sigles, des sièges, et beaucoup de virgules négociées.",
+  "completionMessage": "Communiqué final adopté à l’unanimité.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "UNESCO",
+      "clue": "Elle inscrit, elle ne bâtit pas",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 10,
+      "answer": "OPEP",
+      "clue": "Née à Bagdad en 1960, autour du baril",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "MERCOSUR",
+      "clue": "Marché commun du cône Sud",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "SCHENGEN",
+      "clue": "Village luxembourgeois devenu synonyme de frontière ouverte",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "CEDEAO",
+      "clue": "Organisation ouest-africaine dont le siège est à Abuja",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 4,
+      "answer": "ASEAN",
+      "clue": "Fondée à Bangkok en 1967, elle regroupe l’Asie du Sud-Est",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 7,
+      "answer": "OTAN",
+      "clue": "Son article 5 ne s’est appliqué qu’une fois",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 3,
+      "explanation": "Invoqué au lendemain des attentats du 11 septembre 2001."
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 11,
+      "answer": "VETO",
+      "clue": "Cinq sièges permanents le détiennent",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 2,
+      "answer": "MAASTRICHT",
+      "clue": "Traité de 1992 qui a inventé le citoyen européen",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "L’article 5 du traité de l’Atlantique Nord, qui prévoit qu’une attaque contre un membre est une attaque contre tous, n’a été invoqué qu’une seule fois : le 12 septembre 2001.",
+      "sourceTitle": "OTAN, dossier « Collective defence — Article 5 »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’accord de Schengen a été signé le 14 juin 1985 à bord d’un bateau amarré face au village luxembourgeois de Schengen, au point de rencontre de trois frontières.",
+      "sourceTitle": "Conseil de l’Union européenne, historique de l’espace Schengen",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’OPEP a été fondée à Bagdad en septembre 1960 par cinq pays : l’Arabie saoudite, l’Irak, l’Iran, le Koweït et le Venezuela.",
+      "sourceTitle": "OPEC, « Brief History »",
+      "reviewStatus": "verified"
+    }
+  ]
+}

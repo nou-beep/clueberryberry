@@ -1,0 +1,143 @@
+{
+  "slug": "inside-the-cell",
+  "title": "Inside the Cell",
+  "language": "en",
+  "subject": "biology",
+  "topic": "the-cell",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "A short walk around the smallest working room in biology.",
+  "completionMessage": "Every compartment in its place.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "ENZYME",
+      "clue": "Catalyst whose name usually ends in -ase",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "Lactase, amylase, protease — the suffix is a naming convention agreed in the 1890s.",
+      "sourceNotes": "IUBMB enzyme nomenclature."
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "NUCLEUS",
+      "clue": "Chromosome vault",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "In eukaryotes the chromosomes sit inside a double-membraned compartment."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "LYSOSOME",
+      "clue": "Recycling bin of the cell",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "An acidic sac full of digestive enzymes that breaks down worn-out parts."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "RIBOSOME",
+      "clue": "Protein assembly line",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "MEMBRANE",
+      "clue": "Eardrum, for one",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "The eardrum is the tympanic version; cells are wrapped in a lipid one."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "MITOSIS",
+      "clue": "One becomes two",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 4,
+      "answer": "GOLGI",
+      "clue": "Camillo who lent his name to an apparatus",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "Camillo Golgi described the stacked structure in 1898.",
+      "sourceNotes": "Nobel Prize in Physiology or Medicine 1906."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "VACUOLE",
+      "clue": "Water tank in a plant cell",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 8,
+      "answer": "ATP",
+      "clue": "Cellular currency, in brief",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 2,
+      "explanation": "Adenosine triphosphate, textbook shorthand for stored chemical energy."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 7,
+      "answer": "GENE",
+      "clue": "Kelly or Hackman",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "CILIA",
+      "clue": "Tiny oars on a cell surface",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Hair-like projections that beat in coordinated waves to move fluid or the cell itself."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Camillo Golgi shared the 1906 Nobel Prize in Physiology or Medicine with Santiago Ramón y Cajal for their work on the structure of the nervous system.",
+      "sourceTitle": "The Nobel Prize in Physiology or Medicine 1906",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Ribosomes appear in every known living cell, including bacteria, which have no nucleus at all.",
+      "sourceTitle": "Alberts et al., Molecular Biology of the Cell",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The central vacuole can take up most of the volume of a mature plant cell, and the water pressure inside it helps keep leaves and stems rigid.",
+      "sourceTitle": "Taiz & Zeiger, Plant Physiology",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

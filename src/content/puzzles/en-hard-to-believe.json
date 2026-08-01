@@ -1,0 +1,121 @@
+{
+  "slug": "hard-to-believe",
+  "title": "Hard to Believe",
+  "language": "en",
+  "subject": "fun-facts",
+  "topic": "true-but-unbelievable",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Eight answers that sound made up. All eight check out.",
+  "completionMessage": "Every square filled, every fact still standing.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "WOMBAT",
+      "clue": "Marsupial with cube-shaped droppings",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Its droppings really are cubic; the corners form inside the intestine, not at the exit.",
+      "sourceNotes": "Reported by P. Yang and colleagues in Soft Matter (2021), which traced the shape to uneven stiffness in the intestinal wall."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "OCTOPUS",
+      "clue": "Three-hearted swimmer with blue blood",
+      "clueStyle": "scientific",
+      "difficultyRating": 1,
+      "explanation": "Two branchial hearts serve the gills, one systemic heart serves the body; the copper-based pigment haemocyanin makes the blood blue.",
+      "sourceNotes": "Standard cephalopod physiology; see Encyclopaedia Britannica, entry on octopus."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "BAT",
+      "clue": "Only mammal with powered flight",
+      "clueStyle": "definition",
+      "difficultyRating": 1,
+      "explanation": "Flying squirrels glide; these are the only mammals that flap."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "TITTLE",
+      "clue": "Name for the dot over an i",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "The word survives mainly in the phrase \"to a jot and a ___\".",
+      "sourceNotes": "Oxford English Dictionary gives the sense \"the dot over the letter i\"."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "HIPPO",
+      "clue": "River heavyweight whose sweat runs red",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1,
+      "explanation": "The reddish secretion is not blood but hipposudoric acid, which screens sunlight and discourages bacteria.",
+      "sourceNotes": "Described by Saikawa and colleagues in Nature (2004), \"Pigment chemistry: the red sweat of the hippopotamus\"."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "HONEY",
+      "clue": "Land of milk and ___",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1,
+      "explanation": "Sealed and dry, it keeps almost indefinitely — see the fact cards."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "SHARK",
+      "clue": "Finned predator older than trees",
+      "clueStyle": "trivia",
+      "difficultyRating": 1,
+      "explanation": "Shark-like fish appear in the fossil record tens of millions of years before the first forests.",
+      "sourceNotes": "Natural History Museum (London), shark evolution pages."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "YETI",
+      "clue": "Himalayan legend unmasked by bear DNA",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Museum and monastery samples collected as evidence turned out to be bear — mostly Himalayan brown and Asian black bear.",
+      "sourceNotes": "Lindqvist and colleagues, Proceedings of the Royal Society B (2017), on the genetic identity of purported yeti samples."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Honey does not spoil. Its very low water content and natural acidity leave microbes nothing to grow on, so a sealed jar keeps for years without refrigeration.",
+      "sourceTitle": "National Honey Board — Honey Storage and Shelf Life",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Wombats are the only known animals to produce cube-shaped faeces. Researchers found the corners are moulded by stretchier and stiffer patches in the intestinal wall, not by a square exit.",
+      "sourceTitle": "Soft Matter (2021) — study on the formation of cube-shaped wombat faeces",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Sharks are older than trees. Shark-like fish appear in the fossil record around 420 million years ago, while the earliest forests date to roughly 385 million years ago.",
+      "sourceTitle": "Natural History Museum (London) — shark evolution",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

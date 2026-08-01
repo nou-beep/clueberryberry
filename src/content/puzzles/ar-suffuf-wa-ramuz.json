@@ -1,0 +1,135 @@
+{
+  "slug": "ar-suffuf-wa-ramuz",
+  "title": "صفوف ورموز",
+  "language": "ar",
+  "subject": "chemistry",
+  "topic": "periodic-table",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "جدول واحد رتب المادة كلها، وترك فيه صاحبه مقاعد شاغرة عن عمد.",
+  "completionMessage": "امتلأت المقاعد الشاغرة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "هيدروجين",
+      "clue": "الأول عددا والأخف وزنا",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "مندليف",
+      "clue": "رتب العناصر وترك مقاعد لمن لم يولد بعد",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "بوتاسيوم",
+      "clue": "رمزه من كاليوم، وأصلها القلي العربي",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "نيتروجين",
+      "clue": "أربعة أخماس ما نتنفس",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "يورانيوم",
+      "clue": "عنصر أخذ اسمه من كوكب",
+      "clueStyle": "trivia",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "نحاس",
+      "clue": "معدن نسب في اللاتينية إلى قبرص",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "زئبق",
+      "clue": "وحده يبقى سائلا في حرارة الغرفة",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "كبريت",
+      "clue": "منه رائحة البيض الفاسد",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 0,
+      "answer": "صوديوم",
+      "clue": "نصف ملح المائدة",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 8,
+      "answer": "نظير",
+      "clue": "توأم يفترق في عدد النيوترونات",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "فلور",
+      "clue": "أشرس اللافلزات نهما للإلكترون",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "الفلور أعلى العناصر كهرسلبية على مقياس بولنغ."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "نشر ديمتري مندليف جدوله الدوري سنة 1869، وترك فيه فراغات لعناصر لم تكتشف بعد فتنبأ بخصائصها قبل العثور عليها.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة ديمتري مندليف",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "رمز البوتاسيوم K مشتق من كاليوم اللاتينية الحديثة، وهي بدورها من كلمة القلي العربية.",
+      "sourceTitle": "قاموس أوكسفورد الإنجليزي — أصل كلمة kalium",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الفلور أعلى العناصر كهرسلبية على مقياس بولنغ، بقيمة تبلغ نحو 3.98.",
+      "sourceTitle": "الاتحاد الدولي للكيمياء البحتة والتطبيقية",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "ar-rawaih-al-matbakh",
+  "title": "روائح المطبخ",
+  "language": "ar",
+  "subject": "general-knowledge",
+  "topic": "gk-food",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 270,
+  "introduction": "ما يوضع على المائدة، وما يوضع في الكأس بجانبها.",
+  "completionMessage": "الطبق جاهز.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "كسكس",
+      "clue": "طبق مغاربي من السميد المفتول",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 3,
+      "answer": "عسل",
+      "clue": "ما تصنعه النحلة",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "عجين",
+      "clue": "يترك ليختمر قبل الفرن",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 1,
+      "answer": "حساء",
+      "clue": "أول ما يقدم في ليالي الشتاء",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "لبن",
+      "clue": "حليب مخيض",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "تين",
+      "clue": "ثمرة لا تحصى بذورها",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "زيتون",
+      "clue": "ثمرة الشجرة المباركة، أخضر وأسود",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "زعفران",
+      "clue": "أغلى التوابل وزنا",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "تمر",
+      "clue": "فطور الصائم",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 7,
+      "answer": "نعناع",
+      "clue": "شريك الشاي المغربي",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "خبز",
+      "clue": "لا مائدة بدونه",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أدرجت اليونسكو الكسكس سنة 2020 على قائمة التراث الثقافي غير المادي بترشيح مشترك من الجزائر وموريتانيا والمغرب وتونس.",
+      "sourceTitle": "اليونسكو — قائمة التراث الثقافي غير المادي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الزعفران أغلى التوابل وزنا لأن كل زهرة لا تعطي إلا ثلاث مياسم تقطف يدويا.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الزعفران",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يقال إن العسل لا يفسد عمليا بسبب انخفاض رطوبته وحموضته، وقد نسب إلى بعثات آثار العثور على عسل قديم في مقابر مصرية.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "خاصية الحفظ الكيميائية موثقة، أما رواية العسل الفرعوني الصالح للأكل فمتداولة إعلاميا دون تحليل مخبري منشور اطلعت عليه."
+    }
+  ]
+}

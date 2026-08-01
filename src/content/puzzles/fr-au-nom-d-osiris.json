@@ -1,0 +1,117 @@
+{
+  "slug": "au-nom-d-osiris",
+  "title": "Au nom d’Osiris",
+  "language": "fr",
+  "subject": "egyptian-mythology",
+  "topic": "egyptian-gods",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Un panthéon où l’on change de tête selon l’heure du jour.",
+  "completionMessage": "La balance est en équilibre.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "SEKHMET",
+      "clue": "Lionne qu’il fallut calmer avec de la bière teintée en rouge",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "HATHOR",
+      "clue": "Cornes de vache et patronage de la joie",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "HORUS",
+      "clue": "Son œil veille encore sur les amulettes",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 8,
+      "answer": "NOUT",
+      "clue": "Voûte étoilée penchée au-dessus de Geb",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "KHEPRI",
+      "clue": "Le soleil du matin roule comme lui",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Figuré en bousier, il pousse le disque solaire à l’aube."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "NEPHTYS",
+      "clue": "Sœur discrète d’Isis, mariée au meurtrier",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "MAAT",
+      "clue": "Sa plume pèse contre le cœur du défunt",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "AMON",
+      "clue": "Le Caché, devenu roi des dieux à Thèbes",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "OSIRIS",
+      "clue": "Découpé, recomposé, puis couronné chez les morts",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Au chapitre 125 du Livre des Morts, le cœur du défunt est pesé contre la plume de Maât : trop lourd, il est dévoré par la Grande Dévoreuse.",
+      "sourceTitle": "Livre des Morts, chapitre 125",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Dans le mythe de la Destruction de l’humanité, Rê arrête le carnage de Sekhmet en inondant le sol de bière teintée en rouge, que la déesse boit en la prenant pour du sang.",
+      "sourceTitle": "Le Livre de la Vache céleste, tombes du Nouvel Empire",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le nom d’Amon est généralement traduit par « le caché » ou « l’invisible », ce qui convient à un dieu du souffle et de l’air.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Traduction courante en égyptologie, mais les nuances de la racine imn font débat ; à confirmer auprès d’un dictionnaire de l’égyptien ancien."
+    }
+  ]
+}

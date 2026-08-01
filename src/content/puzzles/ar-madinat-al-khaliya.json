@@ -1,0 +1,135 @@
+{
+  "slug": "ar-madinat-al-khaliya",
+  "title": "مدينة صغيرة اسمها الخلية",
+  "language": "ar",
+  "subject": "biology",
+  "topic": "the-cell",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "أحياء ومصانع وأسوار، كلها في حيز لا تراه العين المجردة.",
+  "completionMessage": "انتهت الجولة، والمدينة ما زالت تعمل.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 8,
+      "answer": "نواة",
+      "clue": "حيث يقيم الحمض النووي",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "خلية",
+      "clue": "أصغر ما يقال له حي",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "بروتين",
+      "clue": "ما يخرج من مصنع الرايبوسوم",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 10,
+      "answer": "انقسام",
+      "clue": "منه الميتوزا ومنه الميوزا",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 8,
+      "answer": "غشاء",
+      "clue": "بواب ينتقي من يعبر",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "الغشاء البلازمي شبه نفوذ، يسمح بمرور مواد ويمنع أخرى."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "اليخضور",
+      "clue": "الكلوروفيل بلسان عربي",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "جدار",
+      "clue": "للنبات وليس للحيوان",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "عضية",
+      "clue": "وحدة عاملة داخل السيتوبلازم",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "فجوة",
+      "clue": "خزان الماء في الورقة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "سكر",
+      "clue": "الغلوكوز أبسط صوره",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 8,
+      "answer": "صبغي",
+      "clue": "حامل الجينات، عربيا",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "للميتوكوندريا حمض نووي خاص بها، وهو من أقوى الأدلة على فرضية التعايش الداخلي في نشأة الخلايا حقيقية النواة.",
+      "sourceTitle": "لين مارغوليس — أصل الخلايا حقيقية النواة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "جدار الخلية النباتية مكون أساسا من السليولوز، ولا وجود لمثله في الخلية الحيوانية.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة جدار الخلية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تحتوي الخلية الجسدية عند الإنسان على ستة وأربعين صبغيا موزعة على ثلاثة وعشرين زوجا.",
+      "sourceTitle": "المعهد الوطني الأميركي لأبحاث الجينوم البشري",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "slug": "periodic-habits",
+  "title": "Periodic Habits",
+  "language": "en",
+  "subject": "chemistry",
+  "topic": "periodic-table",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Nine elements you have already met today.",
+  "completionMessage": "Table set.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "ZINC",
+      "clue": "Metal sold in cold-season lozenges",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "IRON",
+      "clue": "It flattens shirts",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "CARBON",
+      "clue": "___ footprint",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "HELIUM",
+      "clue": "Balloon filler",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "OXYGEN",
+      "clue": "Roughly a fifth of the air",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Dry air is about 21 per cent by volume."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "NEON",
+      "clue": "Las Vegas glow",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 4,
+      "answer": "GOLD",
+      "clue": "First place, in medals",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "SODIUM",
+      "clue": "Half of table salt",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "Table salt is sodium chloride, one atom of each."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "LEAD",
+      "clue": "Heavy metal once used for pipes",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Helium was spotted in the spectrum of sunlight in 1868, years before anyone found it on Earth — which is why it is named after Helios.",
+      "sourceTitle": "Royal Society of Chemistry — Periodic Table: Helium",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Table salt is sodium chloride: a lattice with one sodium ion for every chloride ion.",
+      "sourceTitle": "Royal Society of Chemistry — Periodic Table: Sodium",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "A tube of pure neon glows orange-red. The blues, greens and whites of a sign come from other gases or from phosphor coatings inside the glass.",
+      "sourceTitle": "Royal Society of Chemistry — Periodic Table: Neon",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

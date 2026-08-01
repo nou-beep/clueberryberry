@@ -1,0 +1,116 @@
+{
+  "slug": "le-feu-sous-la-terre",
+  "title": "Le feu sous la terre",
+  "language": "fr",
+  "subject": "geology",
+  "topic": "volcanoes",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Ce qui monte finit toujours par sortir.",
+  "completionMessage": "L’éruption est passée, la grille a tenu.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "VESUVE",
+      "clue": "Il a conservé Pompéi en la tuant",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "STROMBOLI",
+      "clue": "On l’appelle le phare de la Méditerranée",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "BASALTE",
+      "clue": "Roche des orgues d’Auvergne et de la Chaussée des Géants",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "FUMEROLLE",
+      "clue": "Souffle de gaz sur un flanc assoupi",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "SOUFRE",
+      "clue": "Jaune vif, et odeur de damnation",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 11,
+      "answer": "PELEE",
+      "clue": "En 1902, elle a effacé Saint-Pierre en quelques minutes",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "CALDEIRA",
+      "clue": "Chaudron né d’un effondrement",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "OBSIDIENNE",
+      "clue": "Verre noir taillé bien avant le métal",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "CRATERE",
+      "clue": "Bouche béante, ou vase grec où l’on coupait le vin",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le 8 mai 1902, une nuée ardente de la montagne Pelée a détruit Saint-Pierre, en Martinique, faisant environ 28 000 morts en quelques minutes.",
+      "sourceTitle": "Observatoire volcanologique et sismologique de Martinique, IPGP",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’obsidienne, verre volcanique à cassure conchoïdale, servait à fabriquer des lames tranchantes bien avant la métallurgie ; les échanges d’obsidienne permettent de retracer des réseaux néolithiques.",
+      "sourceTitle": "Encyclopædia Britannica, « obsidian »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le Stromboli est en activité quasi continue depuis l’Antiquité, ce qui lui vaut d’être surnommé le phare de la Méditerranée.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "L’activité persistante est bien documentée par l’INGV ; la durée exacte (« depuis l’Antiquité ») repose sur des mentions littéraires à vérifier."
+    }
+  ]
+}

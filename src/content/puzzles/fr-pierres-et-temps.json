@@ -1,0 +1,132 @@
+{
+  "slug": "pierres-et-temps",
+  "title": "Pierres et temps",
+  "language": "fr",
+  "subject": "geology",
+  "topic": "fossils",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Dix mots pour lire le temps dans la pierre.",
+  "completionMessage": "Le passé est remonté à la surface.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "CORPS",
+      "clue": "Il fut retrouvé entier dans le pergélisol",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Des mammouths conservés par le gel sibérien ont été dégagés presque intacts, chair comprise."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "CALCAIRE",
+      "clue": "Roche sédimentaire où dorment les ammonites",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Formée surtout de carbonate de calcium d'origine biologique, elle piège très bien les coquilles."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "ROC",
+      "clue": "Solide comme un ___",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "SITE",
+      "clue": "Emplacement d'une fouille",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "TRIAS",
+      "clue": "Première période du Mésozoïque",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "Il précède le Jurassique et le Crétacé.",
+      "sourceNotes": "Charte chronostratigraphique internationale (Commission internationale de stratigraphie)."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "SILICE",
+      "clue": "Constituant principal du quartz",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "Dioxyde de silicium ; elle remplace parfois le bois dans les troncs pétrifiés."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "AILE",
+      "clue": "Membre d'insecte figé dans l'ambre",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "TALC",
+      "clue": "Le plus tendre de l'échelle de Mohs",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Il occupe le degré 1, tout en bas de l'échelle de dureté."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "TERRE",
+      "clue": "Notre planète, ou la matière du jardin",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "MARNE",
+      "clue": "Affluent de la Seine, ou roche mêlée de chaux",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4,
+      "explanation": "La roche mélange argile et carbonate de calcium ; la rivière rejoint la Seine près de Charenton."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le talc occupe le degré 1 de l'échelle de Mohs : on le raye à l'ongle.",
+      "sourceTitle": "Friedrich Mohs, échelle de dureté (1812)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le Mésozoïque se divise en trois périodes : le Trias, le Jurassique et le Crétacé.",
+      "sourceTitle": "Commission internationale de stratigraphie — Charte chronostratigraphique",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L'ambre de la Baltique, résine fossilisée, renferme des insectes vieux de plusieurs dizaines de millions d'années.",
+      "sourceTitle": "Grimaldi & Engel, Evolution of the Insects",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

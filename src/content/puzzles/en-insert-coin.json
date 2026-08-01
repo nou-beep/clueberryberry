@@ -1,0 +1,140 @@
+{
+  "slug": "insert-coin",
+  "title": "Insert Coin",
+  "language": "en",
+  "subject": "games",
+  "topic": "retro-games",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Eleven answers from the age of sticky buttons and pocket change.",
+  "completionMessage": "New record. The initials are yours to enter.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "TETRIS",
+      "clue": "Soviet puzzle export of 1984",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "sourceNotes": "Written by Alexey Pajitnov in Moscow in 1984."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "EMULATOR",
+      "clue": "Software that plays a dead console's part",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "KONAMI",
+      "clue": "House of a famously long cheat code",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "Up, up, down, down, left, right, left, right, B, A."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "JOYSTICK",
+      "clue": "Grip beside the fire button",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 7,
+      "answer": "PONG",
+      "clue": "Two paddles and a square, 1972",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "sourceNotes": "Released by Atari in 1972."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "GALAGA",
+      "clue": "1981 cabinet with swarming, diving aliens",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 5,
+      "explanation": "Namco's follow-up to Galaxian; its insect-like enemies peel out of formation to dive at the player."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "ARCADE",
+      "clue": "Where the coins went",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 10,
+      "answer": "ATARI",
+      "clue": "Name lifted from the board game Go",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "In Go the term warns that a group of stones is one move from capture."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "SPRITE",
+      "clue": "Movable image — or a lemon-lime soda",
+      "clueStyle": "misdirection",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "CARTRIDGE",
+      "clue": "Plastic slab a generation blew into",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "Blowing on the contacts was folk practice, not repair advice."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "PIXEL",
+      "clue": "Least of the picture's parts",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Tetris was written in 1984 by Alexey Pajitnov, a researcher at the Computing Centre of the Soviet Academy of Sciences in Moscow.",
+      "sourceTitle": "Encyclopaedia Britannica — Tetris",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Atari takes its name from a term in Go, used when a group of stones is one move away from being captured.",
+      "sourceTitle": "Encyclopaedia Britannica — Atari, Inc.",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "The Konami Code — up, up, down, down, left, right, left, right, B, A — is credited to programmer Kazuhisa Hashimoto, who added it while porting Gradius to the Nintendo Entertainment System.",
+      "sourceTitle": "Konami — Gradius (NES, 1986)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

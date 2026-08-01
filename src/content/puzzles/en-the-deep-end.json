@@ -1,0 +1,116 @@
+{
+  "slug": "the-deep-end",
+  "title": "The Deep End",
+  "language": "en",
+  "subject": "biology",
+  "topic": "marine-biology",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Nine entries from salt water, shallow to very deep.",
+  "completionMessage": "Back up to the surface.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "SALT",
+      "clue": "What makes seawater undrinkable",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "CORAL",
+      "clue": "Reef builder that is an animal, not a plant",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "PLANKTON",
+      "clue": "Drifters at the bottom of the food web",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "TIDE",
+      "clue": "Twice-daily rise and fall",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "GILLS",
+      "clue": "How a fish takes its oxygen",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "SPONGE",
+      "clue": "Filter feeder with no organs at all",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "WHALE",
+      "clue": "Biggest animal ever to have lived, in its blue form",
+      "clueStyle": "trivia",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "ABYSS",
+      "clue": "Zone that sunlight never reaches",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 6,
+      "answer": "KELP",
+      "clue": "Brown seaweed that grows into underwater forests",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The blue whale is the largest animal known to have lived, reaching roughly 30 metres in length.",
+      "sourceTitle": "NOAA Fisheries, blue whale species profile",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Reef-building corals host photosynthetic algae in their tissues, and that partnership supplies most of the coral's energy.",
+      "sourceTitle": "NOAA Coral Reef Conservation Program",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Marine phytoplankton produce a large share of the world's oxygen; published estimates commonly range from about half to rather less.",
+      "sourceTitle": "NOAA National Ocean Service; the share varies considerably between estimates",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

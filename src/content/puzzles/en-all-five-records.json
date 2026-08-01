@@ -1,0 +1,109 @@
+{
+  "slug": "all-five-records",
+  "title": "All Five Records",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-albums",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Eight entries drawn from five albums released in five consecutive years.",
+  "completionMessage": "Shelf complete.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "PERFECT",
+      "clue": "Second single lifted from Made in the A.M.",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "sourceNotes": "Released October 2015, following Drag Me Down."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "COLUMBIA",
+      "clue": "American label that put the records out",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "STORY",
+      "clue": "___ of My Life, a single from late 2013",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "DELUXE",
+      "clue": "Edition carrying the extra tracks",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "MIDNIGHT",
+      "clue": "___ Memories, the 2013 album",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "HOME",
+      "clue": "Take Me ___, from 2012",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 8,
+      "answer": "FOUR",
+      "clue": "Blunt one-word title of the 2014 record",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "The fourth studio album carried nothing but the numeral as a title."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "DEBUT",
+      "clue": "What Up All Night was, back in 2011",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Five studio albums appeared in five consecutive years: Up All Night in 2011, Take Me Home in 2012, Midnight Memories in 2013, Four in 2014 and Made in the A.M. in 2015.",
+      "sourceTitle": "Encyclopaedia Britannica — One Direction",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Up All Night entered the Billboard 200 at number one in March 2012, the first debut album by a British group to do so.",
+      "sourceTitle": "Billboard 200 chart archive, week of 31 March 2012",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Made in the A.M. arrived in November 2015 and was the first album released after the group had become a four-piece.",
+      "sourceTitle": "Columbia Records release information, November 2015",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

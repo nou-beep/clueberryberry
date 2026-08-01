@@ -1,0 +1,125 @@
+{
+  "slug": "signals-and-silence",
+  "title": "Signals and Silence",
+  "language": "en",
+  "subject": "world-war-ii",
+  "topic": "ww2-espionage",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Ten entries from the intelligence side of the war of 1939 to 1945.",
+  "completionMessage": "The file closes here.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "COLOSSUS",
+      "clue": "Valve machine built to attack the Lorenz cipher",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "CIPHER",
+      "clue": "System that swaps letters for other letters",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "SOE",
+      "clue": "British sabotage and subversion body, in initials",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "ULTRA",
+      "clue": "Codename for intelligence drawn from decrypted signals",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "BLETCHLEY",
+      "clue": "Buckinghamshire estate that housed the British codebreakers",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "ABWEHR",
+      "clue": "German military intelligence service",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "ENIGMA",
+      "clue": "Rotor machine used to encode German military traffic",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 9,
+      "answer": "DECOY",
+      "clue": "Dummy tank or landing craft left for reconnaissance to find",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "TURING",
+      "clue": "Alan whose bombe design narrowed the search",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "GARBO",
+      "clue": "Codename given to the double agent Juan Pujol Garcia",
+      "clueStyle": "historical",
+      "difficultyRating": 5
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Intelligence produced from decrypted Axis signals was distributed under the codename Ultra, with access restricted to a small list of recipients to protect the source.",
+      "sourceTitle": "The National Archives (UK), HW series records",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Colossus, designed by Tommy Flowers and working from 1944, was built against the Lorenz teleprinter cipher rather than Enigma.",
+      "sourceTitle": "The National Museum of Computing, Bletchley Park",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Juan Pujol Garcia, run by British intelligence under the codename Garbo, supplied the Abwehr with false reports supporting the Fortitude deception before the Normandy landings.",
+      "sourceTitle": "The National Archives (UK), KV 2 files on Juan Pujol Garcia",
+      "reviewStatus": "verified"
+    }
+  ]
+}

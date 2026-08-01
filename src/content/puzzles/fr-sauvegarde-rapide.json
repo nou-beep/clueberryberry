@@ -1,0 +1,118 @@
+{
+  "slug": "sauvegarde-rapide",
+  "title": "Sauvegarde rapide",
+  "language": "fr",
+  "subject": "games",
+  "topic": "gaming-vocabulary",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Le jargon de la manette, entre anglicismes assumés et vieux mots recyclés.",
+  "completionMessage": "Partie terminée sans perdre de progression.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "GACHETTE",
+      "clue": "Elle se presse, sur une arme comme sur une manette",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "LOOT",
+      "clue": "Butin ramassé sur le cadavre, mot venu du hindi",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "PATCH",
+      "clue": "Rustine numérique livrée le jour de la sortie",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 11,
+      "answer": "TUTORIEL",
+      "clue": "Niveau que les pressés cherchent à sauter",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "CHECKPOINT",
+      "clue": "Point de reprise après la chute",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "CAMPER",
+      "clue": "Attendre planqué dans un coin, au grand agacement des autres",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "SPEEDRUN",
+      "clue": "Terminer un jeu au chronomètre, segment après segment",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 3,
+      "answer": "ROGUELIKE",
+      "clue": "Genre né d’un donjon en caractères ASCII",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "SAUVEGARDE",
+      "clue": "Ce qu’on oublie juste avant la coupure de courant",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le genre roguelike doit son nom à Rogue, donjon généré aléatoirement et affiché en caractères ASCII, diffusé sur systèmes Unix au début des années 1980.",
+      "sourceTitle": "Encyclopædia Britannica, « roguelike »",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "La date de 1980 et la paternité de Toy et Wichman sont largement rapportées ; référence bibliographique précise à ajouter."
+    },
+    {
+      "text": "Le mot anglais loot vient du hindi lūṭ, « pillage », et est entré dans l’anglais colonial au XVIIIe siècle avant de finir dans le vocabulaire du jeu vidéo.",
+      "sourceTitle": "Oxford English Dictionary, entrée « loot »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les marathons caritatifs de speedrun Games Done Quick ont collecté plusieurs dizaines de millions de dollars au profit d’organisations comme Médecins sans frontières et la Prevent Cancer Foundation.",
+      "sourceTitle": "Games Done Quick, page des totaux collectés",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Total cumulé en évolution constante ; formulation volontairement non chiffrée en attendant une vérification datée."
+    }
+  ]
+}

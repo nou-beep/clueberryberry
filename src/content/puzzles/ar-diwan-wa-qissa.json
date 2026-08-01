@@ -1,0 +1,129 @@
+{
+  "slug": "ar-diwan-wa-qissa",
+  "title": "ديوان وقصة",
+  "language": "ar",
+  "subject": "literature",
+  "topic": "arabic-literature",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "عشر إجابات تتنقل بين بيت من الشعر القديم وصفحة من الرواية الحديثة.",
+  "completionMessage": "اكتملت الشبكة، والرف ما زال مفتوحا.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "المعري",
+      "clue": "شاعر رهين المحبسين، صاحب رسالة الغفران",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "أبو العلاء المعري لقب نفسه رهين المحبسين إشارة إلى العمى والعزلة."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "الأيام",
+      "clue": "سيرة طه حسين الذاتية في ثلاثة أجزاء",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "موسم",
+      "clue": "قد يكون للأمطار، وقد يكون للهجرة إلى الشمال",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "إشارة إلى رواية الطيب صالح موسم الهجرة إلى الشمال."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "يوميات",
+      "clue": "كتاب توفيق الحكيم: ___ نائب في الأرياف",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3,
+      "sourceNotes": "توفيق الحكيم، يوميات نائب في الأرياف، صدرت طبعته الأولى سنة 1937."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "مرثية",
+      "clue": "قصيدة في رحيل عزيز",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "مطلع",
+      "clue": "البيت الأول من القصيدة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "تشبيه",
+      "clue": "من صور البيان، أداته الكاف",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "بغداد",
+      "clue": "حاضرة العباسيين على دجلة",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 5,
+      "answer": "خلدون",
+      "clue": "صاحب المقدمة، مؤرخ ولد في تونس",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "ابن خلدون، ولد بتونس سنة 1332 وتوفي بالقاهرة سنة 1406."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 6,
+      "answer": "فدوى",
+      "clue": "طوقان، شاعرة من نابلس",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "رسالة الغفران لأبي العلاء المعري رحلة متخيلة في الآخرة يلتقي فيها الراوي شعراء الجاهلية والإسلام ويحاورهم في اللغة والشعر.",
+      "sourceTitle": "رسالة الغفران، تحقيق عائشة عبد الرحمن، دار المعارف",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "بنى الخليفة العباسي أبو جعفر المنصور بغداد سنة 762 ميلادية على نهر دجلة، وصارت بعد ذلك مركزا كبيرا للترجمة والتأليف.",
+      "sourceTitle": "دائرة المعارف البريطانية — مادة بغداد",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "صدرت الأيام لطه حسين في ثلاثة أجزاء، وترجمت إلى عدد من اللغات وصارت من أشهر نصوص السيرة الذاتية العربية.",
+      "sourceTitle": "دار المعارف — طه حسين، الأيام",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

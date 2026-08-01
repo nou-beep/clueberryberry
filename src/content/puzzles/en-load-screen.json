@@ -1,0 +1,137 @@
+{
+  "slug": "load-screen",
+  "title": "Load Screen",
+  "language": "en",
+  "subject": "games",
+  "topic": "consoles",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Fifty years of boxes under the television, from 1972 to the current shelf.",
+  "completionMessage": "Grid cleared without a single loading bar.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "REDMOND",
+      "clue": "Washington city where Xbox is run from",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Microsoft's headquarters, and so the home of the Xbox division."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "RETRO",
+      "clue": "Deliberately old-school, in gaming taste",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "MAGNAVOX",
+      "clue": "Maker of the 1972 Odyssey, the first home console",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "sourceNotes": "The Magnavox Odyssey went on sale in the United States in 1972."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "DEMO",
+      "clue": "Playable taster, often free",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "ROMS",
+      "clue": "Cartridge dumps that emulators read",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "SHOP",
+      "clue": "Where a console owner buys downloads",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "OUYA",
+      "clue": "Android microconsole crowdfunded in 2012",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "sourceNotes": "Kickstarter campaign July 2012; hardware shipped 2013."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 6,
+      "answer": "HALO",
+      "clue": "Bungie shooter that arrived with the first Xbox",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "PIXELS",
+      "clue": "On an early screen, they were big enough to count",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "STAR",
+      "clue": "___ Fox, a 1993 Super Nintendo shooter",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "ATARI",
+      "clue": "It gave the world the 2600",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Magnavox Odyssey, sold from 1972, was the first home video game console. Its plug-in cards held no memory at all — they simply rewired the circuits inside the machine.",
+      "sourceTitle": "The Strong National Museum of Play — Magnavox Odyssey",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Halo: Combat Evolved, made by Bungie, was a launch title for the original Xbox in November 2001 and became the console's defining game.",
+      "sourceTitle": "Encyclopaedia Britannica — Halo (video game series)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "OUYA raised its money on Kickstarter in 2012 and shipped in 2013, but sold poorly; the company's software assets went to Razer in 2015.",
+      "sourceTitle": "Razer press release, July 2015",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

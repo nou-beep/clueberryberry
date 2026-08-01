@@ -1,0 +1,136 @@
+{
+  "slug": "ar-mukhtabar-al-nafs",
+  "title": "في مختبر النفس",
+  "language": "ar",
+  "subject": "psychology",
+  "topic": "famous-experiments",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "أشهر التجارب التي غيرت ما نظنه عن أنفسنا، وبعضها ما كان ليجاز اليوم.",
+  "completionMessage": "أقفل دفتر الملاحظات.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "بافلوف",
+      "clue": "صاحب أشهر كلب في تاريخ العلم",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 3,
+      "answer": "ميلغرام",
+      "clue": "قاس في ييل حدود الانصياع للسلطة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "acceptedAlternatives": ["ميلجرام"]
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "سكينر",
+      "clue": "صندوقه علم الفأر أن يضغط الرافعة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 5,
+      "answer": "اشتراط",
+      "clue": "اقتران محفز محايد باستجابة",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 4,
+      "answer": "هارلو",
+      "clue": "قرود صغيرة بين أم من سلك وأم من قماش",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "طاعة",
+      "clue": "الاستجابة لأمر من فوق",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 5,
+      "answer": "لعاب",
+      "clue": "ما سال قبل وصول الطعام",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 1,
+      "answer": "جرس",
+      "clue": "رنين صار رمزا للمنعكس الشرطي",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "سلوك",
+      "clue": "ما يقاس بالملاحظة لا بالتأمل الباطني",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "سجن",
+      "clue": "قبو ستانفورد لعب دوره",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 5,
+      "answer": "امتثال",
+      "clue": "ما كشفته خطوط آش المتفاوتة",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "في تجربة سولومون آش يوافق المشارك جماعة تختار خطا أطول بوضوح من الخط الصحيح."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "بدأ ستانلي ميلغرام تجاربه عن الطاعة في جامعة ييل سنة 1961، ونشر نتائجها الأولى سنة 1963.",
+      "sourceTitle": "ستانلي ميلغرام — دراسة سلوكية في الطاعة، 1963",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أوقفت تجربة سجن ستانفورد التي قادها فيليب زيمباردو سنة 1971 بعد ستة أيام بدل الأسبوعين المقررين.",
+      "sourceTitle": "جامعة ستانفورد — أرشيف تجربة السجن",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "نال إيفان بافلوف جائزة نوبل في الطب سنة 1904 عن أبحاثه في فسيولوجيا الهضم، لا عن المنعكس الشرطي الذي اشتهر به لاحقا.",
+      "sourceTitle": "مؤسسة نوبل — سجل جوائز الطب",
+      "reviewStatus": "verified"
+    }
+  ]
+}

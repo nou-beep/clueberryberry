@@ -1,0 +1,116 @@
+{
+  "slug": "the-fandom-glossary",
+  "title": "The Fandom Glossary",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-fandom-vocabulary",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Nine words that a fan would not have to look up.",
+  "completionMessage": "Fluent enough.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "MERCH",
+      "clue": "Tour stall stock, informally",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "POSTER",
+      "clue": "Bedroom wall staple",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "WATTPAD",
+      "clue": "Platform where fan fiction about the group piled up",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "UPDATE",
+      "clue": "___ account, a fan-run news feed",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "SHIP",
+      "clue": "Pair two people off, in fan talk",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "TUMBLR",
+      "clue": "Blogging site where much of the community gathered",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 5,
+      "answer": "STAN",
+      "clue": "Devoted follower, in online shorthand",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "DIRECTIONER",
+      "clue": "Name a fan of the band answers to",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "FANDOM",
+      "clue": "Collective noun for the whole lot of them",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Anna Todd's novel After started life as One Direction fan fiction serialised on Wattpad, and was published in print by Gallery Books in 2014.",
+      "sourceTitle": "Gallery Books / Simon & Schuster, After (2014)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Directioner became the standard self-description for fans from around 2011, spreading through Twitter and Tumblr rather than from any official announcement.",
+      "sourceTitle": "Fan-community usage; no single dated source establishes the coinage",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "To ship, short for relationship, is general fandom vocabulary for wanting two figures to be a couple; it predates this fandom by well over a decade.",
+      "sourceTitle": "Oxford English Dictionary entry for ship (verb)",
+      "reviewStatus": "verified"
+    }
+  ]
+}

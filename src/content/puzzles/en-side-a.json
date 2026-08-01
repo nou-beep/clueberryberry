@@ -1,0 +1,109 @@
+{
+  "slug": "side-a",
+  "title": "Side A",
+  "language": "en",
+  "subject": "music",
+  "topic": "musical-instruments",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Eight entries from the instrument cupboard, plus a dance or two.",
+  "completionMessage": "Nicely played. Turn it over for side B.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "MINUET",
+      "clue": "Stately dance in triple time",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "MAMBO",
+      "clue": "___ No. 5, a 1999 Lou Bega hit",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "sourceNotes": "Lou Bega's single \"Mambo No. 5 (A Little Bit of...)\" was released in 1999."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "UKULELE",
+      "clue": "Hawaiian four-stringer",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "TUBA",
+      "clue": "Oompah source in a marching band",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "OBOE",
+      "clue": "Its A sets the pitch for the orchestra",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Orchestras traditionally tune to a sustained A played by the principal oboist."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "PEDALS",
+      "clue": "Pressed on a bike, or under a grand",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "LUTE",
+      "clue": "Pear-shaped plucked instrument of the Renaissance",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "SITAR",
+      "clue": "Ravi Shankar's instrument",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Symphony orchestras tune to a long A played by the principal oboe, whose reed holds pitch more steadily than a string.",
+      "sourceTitle": "Encyclopaedia Britannica — Oboe",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The ukulele developed in Hawaii after Portuguese immigrants from Madeira arrived in the late 1870s with small four-stringed instruments.",
+      "sourceTitle": "Encyclopaedia Britannica — Ukulele",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "The bass tuba was patented in Berlin in 1835, making it one of the youngest members of the orchestral brass family.",
+      "sourceTitle": "Encyclopaedia Britannica — Tuba",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

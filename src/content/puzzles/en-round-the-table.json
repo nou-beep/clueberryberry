@@ -1,0 +1,140 @@
+{
+  "slug": "round-the-table",
+  "title": "Round the Table",
+  "language": "en",
+  "subject": "geopolitics",
+  "topic": "united-nations",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Eleven words from the machinery of multilateral diplomacy.",
+  "completionMessage": "Motion carried, grid adjourned.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "STATE",
+      "clue": "___ party to a treaty",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "United Nations membership is open to States, and treaty texts speak of States parties rather than countries."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "SESSION",
+      "clue": "The Assembly opens a new one each September",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "The General Assembly meets in regular annual sittings, numbered consecutively since 1946.",
+      "sourceNotes": "Rules of Procedure of the General Assembly, rule 1: regular sessions open on the Tuesday of the third week of September."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "AID",
+      "clue": "Relief sent after a disaster",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "ENVOY",
+      "clue": "Diplomat sent on one errand",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Secretaries-General appoint special ones with a mandate limited to a single file or region."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "VISAS",
+      "clue": "Papers delegates need to travel",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "SEAT",
+      "clue": "Place at the table, and what a member holds",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 10,
+      "answer": "STAFF",
+      "clue": "Secretariat employees, collectively",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "UNITY",
+      "clue": "Common front, in a word",
+      "clueStyle": "phrase",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "UNION",
+      "clue": "Postal ___, founded in 1874",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3,
+      "explanation": "The Universal Postal Union, set up in Bern in 1874, became a specialized agency of the wider organisation in 1948.",
+      "sourceNotes": "Universal Postal Union, official history: Treaty of Bern 1874; agreement with the UN in force 1 July 1948."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "ION",
+      "clue": "Charged particle",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "NORMS",
+      "clue": "Standards of accepted conduct",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Charter of the United Nations was signed in San Francisco on 26 June 1945 and entered into force on 24 October 1945, now marked as United Nations Day.",
+      "sourceTitle": "United Nations — Charter of the United Nations",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Universal Postal Union was created by the Treaty of Bern in 1874 and became a specialized agency of the United Nations in 1948, which makes it one of the oldest international organisations still in operation.",
+      "sourceTitle": "Universal Postal Union — About the UPU",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "As of 2026 the United Nations counts 193 Member States; the most recent admission was South Sudan in July 2011. Membership figures should be re-checked against the official list, which changes only by admission.",
+      "sourceTitle": "United Nations — Member States",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

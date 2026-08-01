@@ -1,0 +1,134 @@
+{
+  "slug": "ar-asr-al-tarjama",
+  "title": "عصر الترجمة والرصد",
+  "language": "ar",
+  "subject": "history",
+  "topic": "islamic-golden-age",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 780,
+  "introduction": "أسماء وآلات ومدن بين بغداد وقرطبة، حين كانت الحواشي تكتب بالعربية.",
+  "completionMessage": "أغلق المجلد وأعيد إلى الرف.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "الخوارزمي",
+      "clue": "عالم من خوارزم أعطى اسمه لمصطلح حسابي",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "بيمارستان",
+      "clue": "مستشفى العصور الوسطى، والكلمة فارسية",
+      "clueStyle": "cross_language",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "اسطرلاب",
+      "clue": "آلة ترصد النجم وتضبط القبلة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "البيروني",
+      "clue": "قاس نصف قطر الأرض ووصف بلاد الهند",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "الجاحظ",
+      "clue": "صاحب البخلاء والحيوان",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "الادريسي",
+      "clue": "رسم لملك صقلية خريطة للعالم",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "الهيثم",
+      "clue": "ابنه أبو البصريات وصاحب المناظر",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "جابر",
+      "clue": "كيميائي نسبت إليه رسائل أكثر مما كتب",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "الرازي",
+      "clue": "طبيب الري وصاحب الحاوي",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "فلك",
+      "clue": "علم النجوم قديما",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "سمرقند",
+      "clue": "مدينة الورق على طريق الحرير",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "من عنوان كتاب الخوارزمي في الجبر والمقابلة دخلت كلمة الجبر إلى اللغات الأوروبية، ومن اسمه هو اشتقت كلمة الخوارزمية.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الخوارزمي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أنجز الشريف الإدريسي لروجر الثاني ملك صقلية كتاب نزهة المشتاق في اختراق الآفاق سنة 1154، وضمنه خريطة للعالم المعروف.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الإدريسي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أرسى كتاب المناظر لابن الهيثم أن الإبصار يحدث بدخول الضوء إلى العين، لا بخروج شعاع منها كما كان يقال قبله.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة ابن الهيثم",
+      "reviewStatus": "verified"
+    }
+  ]
+}

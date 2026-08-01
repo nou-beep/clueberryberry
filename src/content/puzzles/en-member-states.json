@@ -1,0 +1,125 @@
+{
+  "slug": "member-states",
+  "title": "Member States",
+  "language": "en",
+  "subject": "geopolitics",
+  "topic": "international-organizations",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "Ten entries from the world's committee rooms.",
+  "completionMessage": "Motion carried.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "CHARTER",
+      "clue": "Founding document signed in San Francisco in 1945",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "QUORUM",
+      "clue": "Bare numbers needed before a vote counts",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "BRUSSELS",
+      "clue": "Belgian capital hosting two large institutions",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "OBSERVER",
+      "clue": "Status that allows a seat but not a vote",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 2,
+      "answer": "SUMMIT",
+      "clue": "Peak, or a gathering of heads of government",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "GENEVA",
+      "clue": "Swiss city thick with agency headquarters",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "NATO",
+      "clue": "Alliance set up by a treaty signed in Washington in 1949",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 3,
+      "answer": "OPEC",
+      "clue": "Cartel of oil exporters, in initials",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 5,
+      "answer": "VETO",
+      "clue": "Blocking power that five countries hold in New York",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "TREATY",
+      "clue": "Binding agreement between countries",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Charter of the United Nations was signed in San Francisco on 26 June 1945 by fifty countries and entered into force that October.",
+      "sourceTitle": "United Nations, Charter of the United Nations",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "NATO was created by the North Atlantic Treaty, signed in Washington on 4 April 1949 by twelve founding states.",
+      "sourceTitle": "NATO, The North Atlantic Treaty (1949)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "OPEC was founded at a conference in Baghdad in September 1960 by Iran, Iraq, Kuwait, Saudi Arabia and Venezuela.",
+      "sourceTitle": "OPEC, Brief History",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "sur-l-olympe",
+  "title": "Sur l’Olympe",
+  "language": "fr",
+  "subject": "greek-mythology",
+  "topic": "olympian-gods",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Une famille compliquée, installée en altitude.",
+  "completionMessage": "Le banquet peut reprendre.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "DIONYSOS",
+      "clue": "Deux fois né, et rarement sobre",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2,
+      "explanation": "Arraché au ventre de Sémélé, il achève sa gestation dans la cuisse de Zeus."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 6,
+      "answer": "HESTIA",
+      "clue": "Gardienne du foyer, elle ne quitte jamais la montagne",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 3,
+      "answer": "DEMETER",
+      "clue": "Sa fille passe l’hiver aux Enfers",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Perséphone partage l’année entre Hadès et sa mère : d’où les saisons."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "APHRODITE",
+      "clue": "Née de l’écume",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "ARTEMIS",
+      "clue": "Jumelle d’Apollon, et programme lunaire de la NASA",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "HERMES",
+      "clue": "Messager ailé devenu maison de foulards",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 8,
+      "answer": "ARES",
+      "clue": "Les Romains l’ont mieux traité que les Grecs",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Détesté en Grèce, il devient à Rome, sous le nom de Mars, un père fondateur respecté."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "AMBROISIE",
+      "clue": "Au menu des immortels, avec le nectar",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "La NASA a baptisé Artemis son programme de retour sur la Lune parce que la déesse est la sœur jumelle d’Apollon, nom du programme des années 1960.",
+      "sourceTitle": "NASA, présentation du programme Artemis",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Chez Homère, ambroisie et nectar sont la nourriture et la boisson des dieux : elles entretiennent leur immortalité et leur parfum.",
+      "sourceTitle": "Homère, Iliade",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Certaines traditions tardives font céder à Hestia son siège olympien au profit de Dionysos, ce qui maintient le collège des Douze.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Épisode absent des sources grecques classiques ; il s’agit d’une tradition de compilation postérieure, à ne pas présenter comme canonique."
+    }
+  ]
+}

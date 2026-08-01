@@ -1,0 +1,134 @@
+{
+  "slug": "neurones-en-jeu",
+  "title": "Neurones en jeu",
+  "language": "fr",
+  "subject": "biology",
+  "topic": "neuroscience",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Dix entrées le long d’un message nerveux. Le vocabulaire est exigeant, les croisements restent loyaux.",
+  "completionMessage": "Le circuit est complet.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "THALAMUS",
+      "clue": "Gare de triage des sensations",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Presque toutes les voies sensorielles y font relais avant le cortex — l’odorat excepté."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "SYNAPSE",
+      "clue": "Le message y change de langue",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4,
+      "explanation": "L’influx électrique s’y traduit en signal chimique, puis redevient électrique."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 1,
+      "answer": "AXONE",
+      "clue": "La myéline l’habille",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "La gaine de myéline entoure le prolongement conducteur et accélère la conduction."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 10,
+      "answer": "DOPAMINE",
+      "clue": "Elle manque à Parkinson",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "sourceNotes": "La maladie de Parkinson est associée à la dégénérescence des neurones dopaminergiques de la substance noire (INSERM)."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "NEURONE",
+      "clue": "Golgi l’a coloré, Cajal l’a dessiné",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "La coloration argentique de Golgi a permis les planches de Ramón y Cajal ; Nobel partagé en 1906."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "CORTEX",
+      "clue": "Six couches sous le crâne",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "Le néocortex humain est organisé en six couches cellulaires superposées."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 7,
+      "answer": "SOMA",
+      "clue": "Là où siège le noyau",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Du grec sôma, « corps » : le corps cellulaire, par opposition aux prolongements."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "DENDRITE",
+      "clue": "Arbre qui écoute",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4,
+      "explanation": "Du grec dendron, « arbre » : ramification qui reçoit les signaux entrants."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "NERF",
+      "clue": "___ optique",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "REFLEXE",
+      "clue": "Il court plus vite que la pensée",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "L’arc médullaire déclenche la réponse avant toute décision consciente."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Camillo Golgi et Santiago Ramón y Cajal ont partagé le prix Nobel de médecine 1906, tout en défendant des conceptions opposées du système nerveux.",
+      "sourceTitle": "The Nobel Prize — Physiology or Medicine 1906",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le néocortex humain compte six couches de cellules superposées, épaisses de deux à quatre millimètres en tout.",
+      "sourceTitle": "Kandel, Principles of Neural Science",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "La maladie de Parkinson est liée à la perte progressive des neurones à dopamine de la substance noire.",
+      "sourceTitle": "INSERM — Dossier maladie de Parkinson",
+      "reviewStatus": "verified"
+    }
+  ]
+}

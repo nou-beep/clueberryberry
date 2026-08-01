@@ -1,0 +1,151 @@
+{
+  "slug": "ar-jism-al-insan",
+  "title": "خريطة الجسد",
+  "language": "ar",
+  "subject": "biology",
+  "topic": "human-anatomy",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "جولة هادئة في تشريح الإنسان، من مضخة الصدر إلى أطراف الأصابع.",
+  "completionMessage": "كل عضو عاد إلى موضعه.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "شريان",
+      "clue": "الأبهر أشهره",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "الأبهر أكبر الأوعية التي تخرج الدم من البطين الأيسر."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "شعر",
+      "clue": "ما يحصده المشط",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "نخاع",
+      "clue": "___ شوكي",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "الحبل العصبي الممتد داخل قناة العمود الفقري."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "رحم",
+      "clue": "أول مسكن للإنسان",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "مثانة",
+      "clue": "مستودع مرن أسفل الحوض",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "امعاء",
+      "clue": "أمتار مطوية في البطن",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "الجزء الدقيق منها وحده يقارب ستة أمتار عند القياس التشريحي.",
+      "sourceNotes": "طول الأمعاء الدقيقة عند البالغ نحو 6 أمتار في القياس بعد الوفاة."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "اصبع",
+      "clue": "عشرة منه تكفي للعد",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 5,
+      "answer": "قلب",
+      "clue": "يخفق دون أن ينطق",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 7,
+      "answer": "عظم",
+      "clue": "الفخذ أطوله",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "عظم الفخذ أطول عظام الهيكل البشري."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "مرارة",
+      "clue": "جارة الكبد وخزانة الصفراء",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "كيس صغير ملتصق بالسطح السفلي للكبد يخزن العصارة الصفراوية."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "رئة",
+      "clue": "منفاخ لا يعرف الراحة",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 7,
+      "answer": "لسان",
+      "clue": "لغة قوم، وذائق طعام",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الكلمة تعني العضو وتعني اللغة معا، كما في تعبير اللسان العربي."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "ينبض قلب الشخص البالغ في حالة الراحة بين ستين ومئة نبضة في الدقيقة.",
+      "sourceTitle": "جمعية القلب الأميركية — معدل ضربات القلب",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "عظم الفخذ هو أطول عظام الجسم البشري وأقواها.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة عظم الفخذ",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تقارب الأمعاء الدقيقة عند البالغ ستة أمتار في القياس التشريحي، وتكون أقصر من ذلك في الجسم الحي بسبب توتر عضلاتها.",
+      "sourceTitle": "تشريح غراي (مرجع تشريحي)",
+      "reviewStatus": "needs_review"
+    }
+  ],
+  "featured": true
+}

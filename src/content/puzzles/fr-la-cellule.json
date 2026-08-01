@@ -1,0 +1,124 @@
+{
+  "slug": "la-cellule",
+  "title": "La cellule, pièce par pièce",
+  "language": "fr",
+  "subject": "biology",
+  "topic": "the-cell",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Neuf mots pour faire le tour de la plus petite pièce du vivant.",
+  "completionMessage": "Grille bouclée : plus rien d’invisible ici.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "VIRUS",
+      "clue": "Sans hôte, il ne fait rien",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Un virus ne se réplique qu’à l’intérieur d’une cellule qu’il détourne."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 4,
+      "answer": "TISSU",
+      "clue": "___ conjonctif",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "MEMBRANE",
+      "clue": "Frontière qui trie ce qui entre",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Elle est semi-perméable : elle laisse passer certaines molécules et pas d’autres."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 1,
+      "answer": "CELLULE",
+      "clue": "Brique du vivant, ou pièce de prison",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "ENZYME",
+      "clue": "Elle accélère sans s’user",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "Catalyseur biologique : elle ressort intacte de la réaction qu’elle facilite.",
+      "sourceNotes": "Propriété générale des catalyseurs enzymatiques (Lehninger, Principles of Biochemistry)."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "MITOSE",
+      "clue": "Une devient deux",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Division cellulaire donnant deux cellules filles au patrimoine identique."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "NOYAU",
+      "clue": "Il garde les plans du vivant",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2,
+      "explanation": "Il abrite l’ADN — et se cache aussi dans l’abricot."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "ADN",
+      "clue": "Double hélice, en trois lettres",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 1,
+      "explanation": "Acide désoxyribonucléique, décrit par Watson, Crick et Franklin en 1953."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 6,
+      "answer": "GENE",
+      "clue": "Le ___ égoïste, de Dawkins",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "sourceNotes": "Titre français de The Selfish Gene (Richard Dawkins, 1976)."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le mot « cellule » vient des logettes que Robert Hooke observa dans une lame de liège, décrites dans sa Micrographia de 1665.",
+      "sourceTitle": "Robert Hooke, Micrographia (1665)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Une enzyme catalyse une réaction sans être consommée : la même molécule peut travailler des milliers de fois.",
+      "sourceTitle": "Lehninger, Principles of Biochemistry",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Les cellules humaines contiennent 46 chromosomes, répartis en 23 paires.",
+      "sourceTitle": "National Human Genome Research Institute — Chromosomes",
+      "reviewStatus": "verified"
+    }
+  ]
+}

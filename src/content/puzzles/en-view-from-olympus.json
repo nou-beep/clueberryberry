@@ -1,0 +1,125 @@
+{
+  "slug": "view-from-olympus",
+  "title": "View from Olympus",
+  "language": "en",
+  "subject": "greek-mythology",
+  "topic": "olympian-gods",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "The household on the mountain, as the poets tell it: portfolios, attributes and one very long-running grudge.",
+  "completionMessage": "The council is seated. Grid closed.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "ATHENA",
+      "clue": "Sprung fully armed from her father's head",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "In the myth she is born from the head of the sky-god, already wearing armour.",
+      "sourceNotes": "Hesiod, Theogony; also Pindar, Olympian 7."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "HEPHAESTUS",
+      "clue": "Smith-god of the Olympian forge",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Lame in most versions of the story, and the maker of the gods' finest metalwork."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "APOLLO",
+      "clue": "Artemis's twin, in legend",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Both are children of Leto in the standard genealogy."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "OWL",
+      "clue": "Bird that shadowed the goddess of wisdom",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Its little owl became the emblem of Athens along with her."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "HERA",
+      "clue": "Wronged queen of the Olympian household",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Goddess of marriage in the myths, and the one most often kept in the dark."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "POSEIDON",
+      "clue": "Earth-shaker of the sea, in myth",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "\"Earth-shaker\" is his standing epithet in Homer; earthquakes were credited to him."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 8,
+      "answer": "OLIVE",
+      "clue": "Tree offered to Athens, according to legend",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "In the contest for the city, the sea-god struck out salt water and the wisdom goddess produced this tree; the city chose the tree."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "ZEUS",
+      "clue": "Bolt-holder with the final say",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 5,
+      "answer": "LYRE",
+      "clue": "Orpheus's ___, said to charm stones",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3,
+      "explanation": "The instrument is also Apollo's, given to him by Hermes in the myth."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "In Hesiod's Theogony, the Olympians take power only after a ten-year war against the Titans. The poem, composed around 700 BCE, is one of the oldest written sources for the whole family tree.",
+      "sourceTitle": "Hesiod, Theogony (Loeb Classical Library edition)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "There is no single canonical list of twelve Olympians. Ancient authors and sanctuaries swap figures such as Hestia, Dionysus and Hades in and out, so different sources count a different twelve.",
+      "sourceTitle": "Oxford Classical Dictionary — Olympian gods",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Athena's owl and olive sprig appear together with her helmeted profile on Athenian silver coins of the fifth century BCE — myth used as state branding.",
+      "sourceTitle": "British Museum — Athenian tetradrachm (owl coinage)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

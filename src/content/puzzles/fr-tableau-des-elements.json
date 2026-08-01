@@ -1,0 +1,133 @@
+{
+  "slug": "tableau-des-elements",
+  "title": "Le tableau des éléments",
+  "language": "fr",
+  "subject": "chemistry",
+  "topic": "periodic-table",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Dix cases à remplir, des gaz les plus discrets aux métaux de tous les jours.",
+  "completionMessage": "Tableau complété, sans case vide.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "HELIUM",
+      "clue": "Repéré dans le Soleil avant la Terre",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Une raie inconnue observée dans le spectre solaire en 1868 ; l’élément ne sera isolé ici-bas qu’en 1895."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 5,
+      "answer": "ETAIN",
+      "clue": "Métal des chopes et des petits soldats",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "IODE",
+      "clue": "La thyroïde en réclame",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "Indispensable à la synthèse des hormones thyroïdiennes, d’où le sel enrichi."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 1,
+      "answer": "AZOTE",
+      "clue": "Les quatre cinquièmes de l’air",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "sourceNotes": "L’air sec contient environ 78 % de diazote en volume."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "ZINC",
+      "clue": "Comptoir de bistrot, et métal de toiture",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "Le comptoir en a pris le nom ; les toits parisiens en sont couverts."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 7,
+      "answer": "FER",
+      "clue": "Il rouille, il aimante, il repasse",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "SODIUM",
+      "clue": "Marié au chlore, il finit sur la table",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "NaCl, le sel de cuisine — et une case du tableau."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "NEON",
+      "clue": "Tube rouge orangé de la nuit parisienne",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Dans un tube à décharge, ce gaz émet une lumière rouge-orangé ; les autres couleurs viennent d’autres gaz."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "MERCURE",
+      "clue": "Ancien locataire des thermomètres",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Seul métal liquide à température ordinaire ; son usage médical est aujourd’hui abandonné."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "ARGON",
+      "clue": "Paresseux, son nom grec le dit",
+      "clueStyle": "cross_language",
+      "difficultyRating": 4,
+      "explanation": "Du grec argos, « inactif » : ce gaz noble ne se combine pratiquement à rien."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "L’hélium a été identifié dans le spectre du Soleil en 1868, près de trente ans avant d’être isolé sur Terre.",
+      "sourceTitle": "Royal Society of Chemistry — Periodic Table: Helium",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’argon tire son nom du grec argos, « paresseux » : découvert en 1894, il refuse presque toute combinaison chimique.",
+      "sourceTitle": "Royal Society of Chemistry — Periodic Table: Argon",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Mendeleïev publia son tableau en 1869 en y laissant des cases vides, pariant sur des éléments encore inconnus.",
+      "sourceTitle": "Encyclopædia Britannica — Dmitri Mendeleev",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

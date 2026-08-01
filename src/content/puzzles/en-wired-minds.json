@@ -1,0 +1,131 @@
+{
+  "slug": "wired-minds",
+  "title": "Wired Minds",
+  "language": "en",
+  "subject": "biology",
+  "topic": "neuroscience",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten pieces of the wiring between your ears.",
+  "completionMessage": "Signal received.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "SYNAPSE",
+      "clue": "Gap where a signal has to jump",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "DOPAMINE",
+      "clue": "Chemical popularly blamed for the pull of a notification",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Its actual role is closer to anticipation and learning than to pleasure itself, but the popular shorthand is everywhere."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "AXON",
+      "clue": "Outgoing cable",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 4,
+      "answer": "CORTEX",
+      "clue": "Wrinkled outer layer",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "AMYGDALA",
+      "clue": "Almond-shaped alarm bell",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "The name comes from the Greek for almond; the structure is central to processing fear.",
+      "sourceNotes": "Greek amygdale, 'almond'."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "REFLEX",
+      "clue": "Knee-jerk sort of response",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "NEURON",
+      "clue": "One of some 86 billion in a human head",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "sourceNotes": "Azevedo et al. (2009) estimated roughly 86 billion neurons in the adult human brain."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "GLIA",
+      "clue": "Support staff of the nervous system",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Non-signalling cells that insulate, feed and clean up after the signalling ones."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "DENDRITE",
+      "clue": "Branch that listens",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "From the Greek dendron, 'tree' — it receives incoming signals."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "MYELIN",
+      "clue": "___ sheath",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "A 2009 cell count estimated about 86 billion neurons in the adult human brain, with a roughly equal number of non-neuronal cells.",
+      "sourceTitle": "Azevedo et al., Journal of Comparative Neurology (2009)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Myelin is made by glial cells: oligodendrocytes wrap axons in the brain and spinal cord, Schwann cells do the job in the rest of the body.",
+      "sourceTitle": "Kandel et al., Principles of Neural Science",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The amygdala takes its name from the Greek word for almond, a description of its shape rather than its job.",
+      "sourceTitle": "Oxford English Dictionary",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "slug": "ar-anhar-wa-jibal",
+  "title": "مجاري الماء",
+  "language": "ar",
+  "subject": "geography",
+  "topic": "rivers",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "تسع كلمات تتبع مسار الماء حتى البحر.",
+  "completionMessage": "وصل الماء إلى غايته.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "ضفاف",
+      "clue": "ما يحد مجرى النهر",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "فرات",
+      "clue": "نهر يجاور دجلة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 1,
+      "explanation": "النهران يلتقيان في شط العرب قبل أن يصبا في الخليج."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "امازون",
+      "clue": "أغزر أنهار العالم",
+      "clueStyle": "trivia",
+      "difficultyRating": 1,
+      "explanation": "يصب في المحيط الأطلسي، ويتجاوز تصريفه تصريف أي نهر آخر."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "نيجر",
+      "clue": "نهر إفريقي ودولة تحمل الاسم",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2,
+      "sourceNotes": "النهر يمر بغينيا ومالي والنيجر ونيجيريا قبل أن يصب في خليج غينيا."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "موج",
+      "clue": "ما يتكسر على الشاطئ",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "منبع",
+      "clue": "حيث يبدأ الجريان",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "قارب",
+      "clue": "___ نجاة",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "قناة",
+      "clue": "السويس مثال شهير",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "ممر مائي محفور يصل بحرين أو بحيرتين."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "مياه",
+      "clue": "سائل لا لون له ولا طعم",
+      "clueStyle": "scientific",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "نهر الأمازون أغزر أنهار العالم تصريفا، ويصب في المحيط الأطلسي شمال شرق البرازيل.",
+      "sourceTitle": "موسوعة بريتانيكا — نهر الأمازون",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "افتتحت قناة السويس للملاحة في تشرين الثاني/نوفمبر 1869.",
+      "sourceTitle": "هيئة قناة السويس — لمحة تاريخية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يبلغ طول نهر النيجر نحو 4200 كيلومتر، وهو من أطول أنهار إفريقيا بعد النيل والكونغو.",
+      "sourceTitle": "موسوعة بريتانيكا — نهر النيجر",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

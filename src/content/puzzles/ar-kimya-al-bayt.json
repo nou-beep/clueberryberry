@@ -1,0 +1,130 @@
+{
+  "slug": "ar-kimya-al-bayt",
+  "title": "كيمياء البيت",
+  "language": "ar",
+  "subject": "chemistry",
+  "topic": "everyday-chemistry",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "مواد تسكن المطبخ والمغسل، ولا تحتاج مختبرا لتشرح نفسها.",
+  "completionMessage": "انتهى التفاعل، والشبكة متوازنة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "خميرة",
+      "clue": "كائن حي في رغيف",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "فطر وحيد الخلية ينتج غازا يرفع العجين."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "محلول",
+      "clue": "خليط لا ترى فيه مكوناته",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "رماد",
+      "clue": "آخر ما تتركه النار",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "اكسجين",
+      "clue": "نحو خمس الهواء",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "يشكل نحو 21 في المئة من حجم الهواء الجاف.",
+      "sourceNotes": "تركيب الغلاف الجوي: نيتروجين 78%، أكسجين 21%."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 6,
+      "answer": "جليد",
+      "clue": "ماء تخلى عن سيولته",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "ملح",
+      "clue": "يرش على الطريق لمنع التجمد",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "إضافته تخفض درجة تجمد الماء، فتتأخر الطرق عن التزحلق."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "مسحوق",
+      "clue": "ما يغسل به القميص",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 5,
+      "answer": "زيت",
+      "clue": "يطفو ولا يمتزج",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "حمض",
+      "clue": "الخل والليمون يشتركان فيه",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "قاعدة",
+      "clue": "أساس البناء، أو نقيض في المختبر",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "الكلمة تجمع الأساس المعماري والمادة التي تعدل الحموضة."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "يتكون الهواء الجاف من نحو 78 في المئة نيتروجين و21 في المئة أكسجين، والباقي غازات نادرة وثاني أكسيد الكربون.",
+      "sourceTitle": "الإدارة الوطنية الأميركية للمحيطات والغلاف الجوي (NOAA) — تركيب الغلاف الجوي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الماء من المواد القليلة التي تقل كثافتها عند التجمد، ولهذا يطفو الجليد على سطح الماء السائل.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الماء",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الخميرة المستخدمة في الخبز فطر وحيد الخلية، يحلل السكر فينتج ثاني أكسيد الكربون الذي ينفخ العجين.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الخميرة",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "rayon-poche",
+  "title": "Rayon poche",
+  "language": "fr",
+  "subject": "books",
+  "topic": "famous-novels",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Neuf entrées prises sur l'étagère des classiques, de Zola à Simenon.",
+  "completionMessage": "Grille bouclée. Le rayon peut rester ouvert.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "MAIGRET",
+      "clue": "Commissaire créé par Simenon",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "MOTS",
+      "clue": "« Les ___ », récit d'enfance de Sartre",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "sourceNotes": "Jean-Paul Sartre, Les Mots, Gallimard, 1964."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "GUERRE",
+      "clue": "Chez Tolstoï, elle précède la paix",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Allusion au titre du roman de Tolstoï."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "TEXTE",
+      "clue": "Corps de l'ouvrage, préface exclue",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "VERS",
+      "clue": "Ligne de poème",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "SCENE",
+      "clue": "Elle peut être de ménage ou de théâtre",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "SWANN",
+      "clue": "Chez Proust, on va de son côté",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Du côté de chez Swann ouvre À la recherche du temps perdu."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "TRAME",
+      "clue": "Fil conducteur du récit",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 4,
+      "answer": "NANA",
+      "clue": "Roman de Zola paru en 1880",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "« Nana » paraît en 1880 ; c'est le neuvième volume du cycle des Rougon-Macquart d'Émile Zola.",
+      "sourceTitle": "Émile Zola, Les Rougon-Macquart (édition de la Pléiade, Gallimard)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "« Du côté de chez Swann » paraît en 1913 et ouvre les sept volumes d'À la recherche du temps perdu.",
+      "sourceTitle": "Bibliothèque nationale de France — dossier Marcel Proust",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Georges Simenon a consacré une longue série de romans au commissaire Maigret, de 1931 au début des années 1970.",
+      "sourceTitle": "Fonds Simenon, Université de Liège",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

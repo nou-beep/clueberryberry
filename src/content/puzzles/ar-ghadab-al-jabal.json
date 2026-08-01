@@ -1,0 +1,135 @@
+{
+  "slug": "ar-ghadab-al-jabal",
+  "title": "غضب الجبل",
+  "language": "ar",
+  "subject": "geology",
+  "topic": "volcanoes",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "ما يجري تحت القشرة قبل أن يظهر على السطح.",
+  "completionMessage": "هدأ الجبل، ودونت الملاحظة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "بركان",
+      "clue": "جبل لا يكتم ما في جوفه",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "صهارة",
+      "clue": "صخر مذاب لم يبلغ الهواء بعد",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "تسمى صهارة تحت السطح، ولابة أو حمما بعد خروجها."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "فوهة",
+      "clue": "باب النار في القمة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "ثوران",
+      "clue": "ما يخشاه سكان السفح",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "انفجار",
+      "clue": "لحظة تمزق القبة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "مخروط",
+      "clue": "الشكل الذي يبنيه الرماد المتراكم",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 8,
+      "answer": "خامد",
+      "clue": "نائم لا ميت",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 8,
+      "answer": "جزيرة",
+      "clue": "ما تصنعه اللابة وسط المحيط",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 5,
+      "answer": "طبقة",
+      "clue": "سطر يقرؤه الجيولوجي في الجرف",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 6,
+      "answer": "بازلت",
+      "clue": "صخر أسود يسود قاع المحيط",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "حزام",
+      "clue": "نار تطوق الهادي",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "حزام النار المحيط بالهادي يضم الغالبية العظمى من براكين العالم النشطة فوق سطح الأرض.",
+      "sourceTitle": "هيئة المسح الجيولوجي الأميركية — برنامج مخاطر البراكين",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أدى ثوران بركان تامبورا في إندونيسيا سنة 1815 إلى تبريد عالمي عرفت سنته التالية بالسنة بلا صيف.",
+      "sourceTitle": "معهد سميثسونيان — برنامج البراكين العالمي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "البازلت أوسع الصخور النارية انتشارا، ويشكل الجزء الأكبر من قشرة قيعان المحيطات.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة البازلت",
+      "reviewStatus": "verified"
+    }
+  ]
+}

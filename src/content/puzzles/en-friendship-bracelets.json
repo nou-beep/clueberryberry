@@ -1,0 +1,126 @@
+{
+  "slug": "friendship-bracelets",
+  "title": "Friendship Bracelets",
+  "language": "en",
+  "subject": "taylor-swift",
+  "topic": "ts-albums",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Ten entries across the album shelf, from the country years to the quiet 2020 pair.",
+  "completionMessage": "Every era accounted for, in order.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "FEARLESS",
+      "clue": "2008 album that took Album of the Year",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "sourceNotes": "Won Album of the Year at the 52nd Grammy Awards, January 2010."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "FOLKLORE",
+      "clue": "Unannounced 2020 record made largely with Aaron Dessner",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "LOVER",
+      "clue": "First album released under her Republic deal, 2019",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "SEQUEL",
+      "clue": "Follow-up that trades on the first one",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "CREW",
+      "clue": "Hands who build the stage before the singer arrives",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "GOLD",
+      "clue": "___ rush, a track on evermore",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "ENCORE",
+      "clue": "What the stadium refuses to leave without",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 3,
+      "answer": "OURS",
+      "clue": "Belonging to us — or a Speak Now single",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 5,
+      "answer": "EASE",
+      "clue": "Loosen a grip, or the grace of doing so",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "ERAS",
+      "clue": "Her 2023 stadium tour, named for career chapters",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Fearless won Album of the Year at the 52nd Grammy Awards in January 2010; Swift was twenty, the youngest winner of that award to that point.",
+      "sourceTitle": "Recording Academy — 52nd Annual Grammy Awards winners list",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "folklore and evermore both appeared in 2020 with only days of notice, and both credit Aaron Dessner of The National as a principal collaborator.",
+      "sourceTitle": "Album credits, Republic Records (2020)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Eras Tour opened in Glendale, Arizona in March 2023. Trading handmade beaded bracelets became the tour's best-known audience custom.",
+      "sourceTitle": "Contemporary press coverage of the Eras Tour opening night",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "ar-ard-al-faraina",
+  "title": "أرض الفراعنة",
+  "language": "ar",
+  "subject": "history",
+  "topic": "ancient-egypt",
+  "difficulty": "hard",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "شبكة صعبة من ممفيس إلى طيبة، تحتاج ذاكرة تاريخية طويلة النفس.",
+  "completionMessage": "طوي البردي على آخر حرف.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "فرعون",
+      "clue": "لقب لا اسم",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "كان وصفا للمنصب الملكي، ولم يكن اسما لملك بعينه."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "فيضان",
+      "clue": "هبة سنوية كانت تسمد الحقول",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "الغمر السنوي كان يترك طبقة طمي خصبة قبل بناء السد العالي."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "عنخ",
+      "clue": "مفتاح الحياة في النقوش",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "خوفو",
+      "clue": "صاحب الهرم الأكبر",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "فخار",
+      "clue": "كسره يؤرخ الطبقات",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "شقف الأواني من أدق أدوات الأثريين في تأريخ طبقات الحفر."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "نيل",
+      "clue": "مقياسه كان يحدد الضريبة",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "المقاييس المتدرجة كانت تقيس منسوب الماء، وعليه تقدر حصيلة المحصول والضرائب."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "رمسيس",
+      "clue": "الثاني منه حكم أكثر من ستين عاما",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "سقارة",
+      "clue": "مدرج زوسر يقوم فيها",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "اقصر",
+      "clue": "طيبة القديمة باسمها الحديث",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "ذهب",
+      "clue": "قناع توت عنخ آمون منه",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "اله",
+      "clue": "حورس واحد منهم",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "بردية",
+      "clue": "ورق قبل الورق",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4,
+      "explanation": "صنعت من ساق نبات ينمو على ضفاف الماء، وكانت أقدم سطح كتابة مرن."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "حكم رمسيس الثاني مصر نحو ستة وستين عاما في القرن الثالث عشر قبل الميلاد، وهي من أطول فترات الحكم المعروفة في مصر القديمة.",
+      "sourceTitle": "موسوعة بريتانيكا — رمسيس الثاني",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الهرم المدرج في سقارة، الذي شيد للملك زوسر، يعد أقدم بناء حجري ضخم معروف في مصر.",
+      "sourceTitle": "موسوعة بريتانيكا — الهرم المدرج",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "لفظ فرعون مشتق من تعبير مصري قديم معناه البيت العظيم، وكان يشير إلى القصر الملكي قبل أن يصير لقبا للملك نفسه.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة فرعون",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

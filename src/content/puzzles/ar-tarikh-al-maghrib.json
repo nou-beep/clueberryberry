@@ -1,0 +1,136 @@
+{
+  "slug": "ar-tarikh-al-maghrib",
+  "title": "مغرب السلالات",
+  "language": "ar",
+  "subject": "history",
+  "topic": "moroccan-history",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "من ثغور الشمال إلى أبواب الصحراء، مدن ودول رسمت خريطة المغرب.",
+  "completionMessage": "اكتملت الخريطة، ومعها سبعة قرون.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "الرباط",
+      "clue": "حصن صار عاصمة",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "الاسم من الرباط بمعنى الحصن الذي يقيم فيه المجاهدون، وقد صارت المدينة عاصمة المملكة."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "امازيغ",
+      "clue": "سكان البلاد قبل الفتح",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "الأمازيغ هم سكان شمال أفريقيا الأقدمون، ولغتهم تكتب بأبجدية تيفيناغ."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "ريف",
+      "clue": "بادية عند العرب، وجبال عند المغاربة",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "الكلمة تعني البادية في العربية، وتسمي في المغرب سلسلة جبال الشمال المطلة على المتوسط."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "اطلس",
+      "clue": "يحمل السماء، ويحمل الثلج",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2,
+      "explanation": "أطلس في الأسطورة الإغريقية يحمل السماء، وسلسلة الأطلس تحمل أعلى قمم شمال أفريقيا وأبقاها ثلجا.",
+      "sourceNotes": "توبقال في الأطلس الكبير أعلى قمة في شمال أفريقيا، نحو 4167 مترا."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "سجلماسة",
+      "clue": "بوابة الذهب على درب القوافل",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "مدينة على طرف تافيلالت كانت محطة رئيسية لقوافل التجارة العابرة للصحراء."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "مرابطون",
+      "clue": "أصحاب اللثام وبناة مراكش",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "دولة صنهاجية عرف رجالها باللثام، واتخذت مراكش عاصمة لها في القرن الحادي عشر."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "سبتة",
+      "clue": "ثغر على مضيق جبل طارق",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "مدينة على الساحل الأفريقي للمضيق، وهي اليوم تحت الإدارة الإسبانية والمغرب يطالب بها."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "سلا",
+      "clue": "ضفة أبي رقراق الأخرى",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "مدينة تقابل العاصمة على الضفة اليمنى لوادي أبي رقراق، واشتهر بحارتها في القرن السابع عشر."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "سعديون",
+      "clue": "من كسر البرتغال في وادي المخازن",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "الدولة السعدية انتصرت في معركة وادي المخازن سنة 1578."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "وطن",
+      "clue": "الله، ___، الملك",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "الشعار الوطني المغربي الثلاثي."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أسس المرابطون مدينة مراكش في النصف الثاني من القرن الحادي عشر، وجعلوها عاصمة دولتهم.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة مراكش",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "في معركة وادي المخازن سنة 1578 هزم السعديون الحملة البرتغالية، ولقي ثلاثة ملوك حتفهم فيها فعرفت أيضا بمعركة الملوك الثلاثة.",
+      "sourceTitle": "موسوعة بريتانيكا — معركة القصر الكبير",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "كانت سجلماسة على طرف تافيلالت محطة كبرى لقوافل الذهب بين المغرب وبلاد السودان الغربي، ثم خربت في العصر الوسيط.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة سجلماسة",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

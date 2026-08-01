@@ -1,0 +1,140 @@
+{
+  "slug": "gift-of-the-nile",
+  "title": "The Gift of the River",
+  "language": "en",
+  "subject": "history",
+  "topic": "ancient-egypt",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "Three thousand years of kingdom, condensed into eleven answers.",
+  "completionMessage": "Sealed, like a tomb — but rather easier to reopen.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "SCARAB",
+      "clue": "Beetle worn as an amulet",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "SPHINX",
+      "clue": "Riddler in stone",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "The Greek version poses riddles; the Egyptian one keeps quiet at Giza."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "ROSETTA",
+      "clue": "___ Stone",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 11,
+      "answer": "GIZA",
+      "clue": "Plateau of three great pyramids",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "PHARAOH",
+      "clue": "Title Tutankhamun held",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "OBELISK",
+      "clue": "Tapering pillar, often carried off",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Egyptian examples now stand in Rome, Paris, London and New York."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "CLEOPATRA",
+      "clue": "Last of the Ptolemies",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "sourceNotes": "Cleopatra VII, died 30 BC."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "PAPYRUS",
+      "clue": "Reed pressed into a page",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "ANUBIS",
+      "clue": "Jackal-headed god of the dead",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 1,
+      "answer": "NILE",
+      "clue": "It flows north",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2,
+      "explanation": "It runs from the highlands of east Africa to the Mediterranean, against the usual mental map."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 6,
+      "answer": "MUMMY",
+      "clue": "Wrapped resident of a tomb",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Rosetta Stone carries one decree in three scripts — hieroglyphic, Demotic and ancient Greek — which is how the hieroglyphic system was finally read again in the 1820s.",
+      "sourceTitle": "The British Museum — The Rosetta Stone",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Cleopatra VII was the last active ruler of Ptolemaic Egypt; after her death in 30 BC the kingdom became a Roman province.",
+      "sourceTitle": "Encyclopaedia Britannica — Cleopatra",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The phrase 'gift of the river' echoes Herodotus, who wrote that the inhabited part of Egypt was land the river itself had made.",
+      "sourceTitle": "Herodotus, Histories, Book II",
+      "reviewStatus": "needs_review"
+    }
+  ],
+  "featured": true,
+  "season": "back-to-school"
+}

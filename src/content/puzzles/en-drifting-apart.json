@@ -1,0 +1,125 @@
+{
+  "slug": "drifting-apart",
+  "title": "Drifting Apart",
+  "language": "en",
+  "subject": "geology",
+  "topic": "plate-tectonics",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries on a surface that will not hold still.",
+  "completionMessage": "Give it another million years.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "FAULT",
+      "clue": "Fracture with movement on either side, or the blame",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "HOTSPOT",
+      "clue": "Stationary plume beneath a travelling plate",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "CRUST",
+      "clue": "Outermost rocky shell",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "BASALT",
+      "clue": "Dark rock that floors most of the oceans",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 4,
+      "answer": "SEAFLOOR",
+      "clue": "___ spreading, the ridge-driven half of the theory",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "SUBDUCTION",
+      "clue": "One plate going down beneath another",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 2,
+      "answer": "ANDES",
+      "clue": "Range raised by the Nazca plate's slow dive",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "WEGENER",
+      "clue": "Alfred who argued in 1912 that the continents had moved",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "TRENCH",
+      "clue": "Deep sea furrow marking where crust descends",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 2,
+      "answer": "PANGAEA",
+      "clue": "Supercontinent that came apart in the Mesozoic",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Alfred Wegener set out his case for continental drift from 1912, but it was only accepted after seafloor spreading and magnetic striping were mapped in the 1960s.",
+      "sourceTitle": "Wegener, Die Entstehung der Kontinente und Ozeane (1915)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Oceanic crust is denser than continental crust, which is why the ocean floor is the side that descends where the two meet.",
+      "sourceTitle": "US Geological Survey, This Dynamic Earth",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Hawaiian island chain records a plate travelling over a fixed hotspot: the islands grow older with distance from the active volcanoes.",
+      "sourceTitle": "US Geological Survey, Hawaiian Volcano Observatory",
+      "reviewStatus": "verified"
+    }
+  ]
+}

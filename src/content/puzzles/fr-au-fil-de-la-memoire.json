@@ -1,0 +1,133 @@
+{
+  "slug": "au-fil-de-la-memoire",
+  "title": "Au fil de la mémoire",
+  "language": "fr",
+  "subject": "psychology",
+  "topic": "memory",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Ce qui reste, ce qui s’efface, et ce qui revient sans prévenir.",
+  "completionMessage": "Tout est revenu, et dans le bon ordre.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "LAPSUS",
+      "clue": "Le mot qui trahit, selon Freud",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Freud y voit un acte manqué révélant une intention refoulée."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "SOUVENIR",
+      "clue": "Il s’embellit à chaque récit",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2,
+      "explanation": "Chaque évocation le remanie : se rappeler, c’est reconstruire."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 7,
+      "answer": "TRACE",
+      "clue": "Elle reste sur le sable comme dans l’esprit",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 11,
+      "answer": "ENGRAMME",
+      "clue": "Marque que Semon imaginait dans le cerveau",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "Le zoologiste Richard Semon forge le terme au début du XXe siècle pour désigner l’empreinte laissée par une expérience."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "AMNESIE",
+      "clue": "Ce dont souffrait le patient H. M.",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Après l’ablation de ses hippocampes en 1953, Henry Molaison ne formait plus de souvenirs nouveaux."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "REVE",
+      "clue": "Voie royale vers l’inconscient",
+      "clueStyle": "quotation",
+      "difficultyRating": 3,
+      "sourceNotes": "Formule tirée de L’Interprétation des rêves (Freud, 1900)."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "RAPPEL",
+      "clue": "En montagne on descend, ici on remonte",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "OUBLI",
+      "clue": "La courbe d’Ebbinghaus le mesure",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "Ebbinghaus a montré que la perte est très rapide les premières heures, puis ralentit."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "PROUST",
+      "clue": "Auteur en quête du temps perdu",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "MADELEINE",
+      "clue": "Trempée dans le thé, elle ouvre sept volumes",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Dans Du côté de chez Swann, une bouchée amollie dans une cuillerée de thé fait resurgir Combray ; le roman compte sept tomes."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Hermann Ebbinghaus a tracé la première courbe de l’oubli en 1885, en apprenant par cœur des séries de syllabes dépourvues de sens.",
+      "sourceTitle": "Hermann Ebbinghaus, Über das Gedächtnis (1885)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Opéré en 1953, le patient Henry Molaison ne pouvait plus retenir d’événements nouveaux, mais il continuait d’apprendre des gestes sans en garder le souvenir.",
+      "sourceTitle": "Scoville & Milner (1957), Journal of Neurology, Neurosurgery & Psychiatry",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le terme « engramme » a été forgé par le zoologiste allemand Richard Semon pour désigner la trace physique d’une expérience.",
+      "sourceTitle": "Richard Semon, Die Mneme (1904)",
+      "reviewStatus": "needs_review"
+    }
+  ],
+  "featured": true
+}

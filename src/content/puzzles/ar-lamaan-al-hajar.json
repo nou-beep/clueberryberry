@@ -1,0 +1,135 @@
+{
+  "slug": "ar-lamaan-al-hajar",
+  "title": "لمعان الحجر",
+  "language": "ar",
+  "subject": "geology",
+  "topic": "gemstones",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "أحد عشر بابا في دكان الجواهري.",
+  "completionMessage": "أغلق الدرج، وبقي البريق.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "زمرد",
+      "clue": "أخضر يليق بخاتم",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "فيروز",
+      "clue": "أزرق سيناء، واسم مطربة لبنانية",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "كهرمان",
+      "clue": "صمغ تحجر وحبس في جوفه حشرة",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "بلور",
+      "clue": "زجاج صافي الترتيب",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "لؤلؤ",
+      "clue": "ما يخرج من المحار",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "قيراط",
+      "clue": "وحدة وزن الجواهر",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "صقل",
+      "clue": "ما يمنح السطح بريقه",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "ياقوت",
+      "clue": "أحمر التاج، واسم جغرافي حموي",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "ياقوت الحموي صاحب معجم البلدان."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "عقيق",
+      "clue": "حجر يكثر ذكره في الشعر القديم",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "لمعان",
+      "clue": "ما تحكم فيه العين قبل المجهر",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "منجم",
+      "clue": "من باطن الأرض يأتي الحجر",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "القيراط المتري يساوي مئتي ميليغرام بالضبط، وقد اعتمد دوليا سنة 1907.",
+      "sourceTitle": "المؤتمر العام للأوزان والمقاييس، 1907",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الكهرمان راتنج شجري متحجر، وقد حفظت قطع منه حشرات يقدر عمرها بعشرات ملايين السنين.",
+      "sourceTitle": "متحف التاريخ الطبيعي بلندن — مجموعة الكهرمان",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يتكون اللؤلؤ الطبيعي حين يحيط الرخوي جسما دخيلا بطبقات متعاقبة من عرق اللؤلؤ.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة اللؤلؤ",
+      "reviewStatus": "verified"
+    }
+  ]
+}

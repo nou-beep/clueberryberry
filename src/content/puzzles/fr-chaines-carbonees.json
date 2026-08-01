@@ -1,0 +1,118 @@
+{
+  "slug": "chaines-carbonees",
+  "title": "Chaînes carbonées",
+  "language": "fr",
+  "subject": "chemistry",
+  "topic": "organic-chemistry",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Quatre liaisons par atome, et des millions de molécules possibles.",
+  "completionMessage": "Structure élucidée, formule cohérente.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "ALCANE",
+      "clue": "Saturé, répondant à CnH2n+2",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "ALDEHYDE",
+      "clue": "Carbonyle en bout de chaîne, celui du formol",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "CETONE",
+      "clue": "Carbonyle coincé au milieu de la chaîne",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "CHIRALITE",
+      "clue": "Ce qui sépare une main gauche d’une main droite, à l’échelle moléculaire",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "KEKULE",
+      "clue": "Il disait avoir rêvé d’un serpent qui se mord la queue",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "BENZENE",
+      "clue": "Six carbones en anneau, aromatique et cancérogène",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 7,
+      "answer": "ESTER",
+      "clue": "Il sent la banane ou la poire dans les bonbons",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "POLYMERE",
+      "clue": "Le nylon en est un, la cellulose aussi",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 3,
+      "answer": "ISOMERE",
+      "clue": "Même formule brute, autre molécule",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "August Kekulé propose en 1865 une structure cyclique pour le benzène ; c’est en 1890, lors d’un banquet donné en son honneur, qu’il raconte l’avoir entrevue dans une rêverie de serpent se mordant la queue.",
+      "sourceTitle": "Encyclopædia Britannica, « August Kekule von Stradonitz »",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "La date de 1865 est solide ; le récit du rêve, rapporté par Kekulé lui-même vingt-cinq ans plus tard, est discuté par les historiens des sciences."
+    },
+    {
+      "text": "Les esters simples portent l’essentiel des arômes de fruits : l’acétate d’isoamyle évoque la banane, le butanoate d’éthyle l’ananas.",
+      "sourceTitle": "Encyclopædia Britannica, « ester »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Deux énantiomères d’une même molécule peuvent avoir des effets biologiques opposés : le drame de la thalidomide, dans les années 1960, a rendu obligatoire l’étude séparée des formes chirales des médicaments.",
+      "sourceTitle": "Agence européenne des médicaments, lignes directrices sur les substances chirales",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Le lien causal simple entre chiralité et tératogénicité de la thalidomide est nuancé par la littérature (interconversion in vivo) ; formulation à resserrer."
+    }
+  ]
+}

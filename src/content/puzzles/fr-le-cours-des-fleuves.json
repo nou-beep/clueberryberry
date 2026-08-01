@@ -1,0 +1,117 @@
+{
+  "slug": "le-cours-des-fleuves",
+  "title": "Le cours des fleuves",
+  "language": "fr",
+  "subject": "geography",
+  "topic": "rivers",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "De la source à l’embouchure, avec quelques détours.",
+  "completionMessage": "Toutes les eaux ont rejoint la mer.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "ESTUAIRE",
+      "clue": "Embouchure en entonnoir, contraire du delta",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "AFFLUENT",
+      "clue": "Il se jette dans un autre sans être pour autant riche",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "DANUBE",
+      "clue": "Dix pays et une valse",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "AMAZONE",
+      "clue": "Fleuve, guerrière, et géant du colis",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "MEANDRE",
+      "clue": "Boucle paresseuse de la plaine",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "SOURCE",
+      "clue": "Point de départ, qu’un journaliste protège aussi",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "MEKONG",
+      "clue": "Son delta vietnamien porte le nom de neuf dragons",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "CONFLUENT",
+      "clue": "Lyon en a fait un quartier",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 3,
+      "answer": "VOLGA",
+      "clue": "Le plus long d’Europe, et il ne voit jamais l’océan",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Elle se jette dans la mer Caspienne, qui est fermée."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le Danube traverse ou borde dix pays, davantage que tout autre fleuve du monde, et arrose quatre capitales : Vienne, Bratislava, Budapest et Belgrade.",
+      "sourceTitle": "Commission internationale pour la protection du Danube (ICPDR)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Volga, longue d’environ 3 530 kilomètres, est le plus long fleuve d’Europe ; elle se jette dans la mer Caspienne, une mer fermée sans communication avec l’océan.",
+      "sourceTitle": "Encyclopædia Britannica, « Volga River »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les Vietnamiens appellent le delta du Mékong Cửu Long, « les neuf dragons », d’après le nombre de bras que le fleuve y déployait traditionnellement.",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "L’appellation est bien attestée ; le décompte des bras a varié avec les aménagements, à préciser avant validation."
+    }
+  ]
+}

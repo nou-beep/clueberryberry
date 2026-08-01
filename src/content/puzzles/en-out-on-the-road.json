@@ -1,0 +1,125 @@
+{
+  "slug": "out-on-the-road",
+  "title": "Out on the Road",
+  "language": "en",
+  "subject": "one-direction",
+  "topic": "od-tours",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Ten entries from four tours and the rooms they filled.",
+  "completionMessage": "House lights up.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "BOGOTA",
+      "clue": "Colombian capital that opened the Where We Are dates",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "SIRO",
+      "clue": "San ___, the Milan ground filmed for a 2014 concert release",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "LEG",
+      "clue": "Part of a journey, or of a table",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "GARDEN",
+      "clue": "Madison Square ___, played in December 2012",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "SETLIST",
+      "clue": "Running order taped to the monitors",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "SUPPORT",
+      "clue": "Slot 5 Seconds of Summer filled on two of the runs",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "STADIUM",
+      "clue": "Scale the 2014 run stepped up to",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "TICKET",
+      "clue": "What vanished within minutes of going on sale",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "SYDNEY",
+      "clue": "Australian city where On the Road Again began",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 7,
+      "answer": "ARENA",
+      "clue": "Sand, in Latin, and a bowl of a venue now",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Where We Are, the group's first stadium tour, opened in Bogota in April 2014; two nights at San Siro in Milan that June were filmed and released as a concert film.",
+      "sourceTitle": "Where We Are — Live from San Siro Stadium (Columbia, 2014)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "5 Seconds of Summer opened for the group on the Take Me Home and Where We Are tours before their own debut album appeared in 2014.",
+      "sourceTitle": "Take Me Home Tour and Where We Are Tour billing, 2013-2014",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "On the Road Again began in Sydney in February 2015 and was the last tour the group played before the break.",
+      "sourceTitle": "On the Road Again Tour schedule, 2015",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

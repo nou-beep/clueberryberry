@@ -1,0 +1,125 @@
+{
+  "slug": "the-weighing",
+  "title": "The Weighing",
+  "language": "en",
+  "subject": "egyptian-mythology",
+  "topic": "egyptian-afterlife",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "Ten entries from the paperwork of the next world.",
+  "completionMessage": "The scales balance.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "DUAT",
+      "clue": "Underworld itself, in Egyptian",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "THOTH",
+      "clue": "Ibis-headed scribe who writes the verdict down",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "CANOPIC",
+      "clue": "___ jar, the container for a removed organ",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "OSIRIS",
+      "clue": "Green-skinned ruler presiding over the dead",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "MAAT",
+      "clue": "Goddess whose single feather sets the standard",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "USHABTI",
+      "clue": "Small figure buried to do the labouring",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 5,
+      "answer": "HEART",
+      "clue": "Only major organ left inside the body, since it faced the scales",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "AMULET",
+      "clue": "Charm tucked into the wrappings",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "AMMIT",
+      "clue": "Devourer crouched beside the scales",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "FIELD",
+      "clue": "___ of Reeds, the destination worth hoping for",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "In the judgement scene of the Book of the Dead the heart is weighed against the feather of Maat, and Ammit waits to devour it should it prove heavier.",
+      "sourceTitle": "Papyrus of Ani, British Museum EA10470",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Embalmers removed the lungs, liver, stomach and intestines to canopic jars and discarded the brain, but left the heart in place as the seat of a person's character.",
+      "sourceTitle": "British Museum, ancient Egyptian funerary practice",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Ushabti figures were placed in tombs to perform agricultural work on the owner's behalf; some late burials held hundreds of them, one for each day of the year.",
+      "sourceTitle": "Petrie Museum of Egyptian Archaeology; numbers vary widely by period",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

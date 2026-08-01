@@ -1,0 +1,112 @@
+{
+  "slug": "under-pressure",
+  "title": "Under Pressure",
+  "language": "en",
+  "subject": "geology",
+  "topic": "volcanoes",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "Eight words from the restless part of the planet.",
+  "completionMessage": "The pressure is off.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "MAGMA",
+      "clue": "Molten rock still underground",
+      "clueStyle": "definition",
+      "difficultyRating": 1,
+      "explanation": "It takes the name lava only after it reaches the surface."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "MANTLE",
+      "clue": "Thick layer between crust and core",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "ASH",
+      "clue": "Grey dust that grounds flights",
+      "clueStyle": "everyday",
+      "difficultyRating": 1,
+      "explanation": "Fine volcanic particles can damage jet engines, so airspace is closed after big eruptions."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "VENT",
+      "clue": "Opening that lets the gas out",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "VOLCANO",
+      "clue": "Vesuvius, for one",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "LAHAR",
+      "clue": "Mudflow racing down a slope",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "A slurry of volcanic debris and water; the word is Indonesian.",
+      "sourceNotes": "USGS Volcano Hazards Program glossary: lahar is an Indonesian term for a volcanic debris flow."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "RIFT",
+      "clue": "Split in the crust, or in a friendship",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 6,
+      "answer": "FUJI",
+      "clue": "Japan's tallest peak",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "A stratovolcano of 3,776 metres, last in eruption in 1707."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Magma and lava are the same material at different addresses: it is called magma below ground and lava once it has erupted.",
+      "sourceTitle": "USGS Volcano Hazards Program — Volcano Glossary",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Mount Fuji rises 3,776 metres, making it the highest mountain in Japan; its most recent eruption began in 1707.",
+      "sourceTitle": "Encyclopaedia Britannica — Mount Fuji",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "A lahar can travel far beyond the volcano itself, since meltwater and rain carry loose ash down river valleys.",
+      "sourceTitle": "USGS — Lahars and Their Effects",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "ar-qaat-al-mizan",
+  "title": "قاعة الميزان",
+  "language": "ar",
+  "subject": "egyptian-mythology",
+  "topic": "egyptian-gods",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "مجمع آلهة وادي النيل، من ممفيس إلى قاعة الحساب الأخيرة.",
+  "completionMessage": "استقرت كفتا الميزان.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "اوزوريس",
+      "clue": "قتله أخوه فصار سيد الموتى",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "ايزيس",
+      "clue": "جمعت أشلاء زوجها من أطراف البلاد",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "انوبيس",
+      "clue": "ابن آوى يقود الميت إلى الحساب",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "سخمت",
+      "clue": "لبؤة الحرب والوباء",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "تحوت",
+      "clue": "رب الكتابة، ورأسه لأبي منجل",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "حورس",
+      "clue": "صقر صارت عينه تميمة",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "حتحور",
+      "clue": "بقرة الحب والطرب",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "ماعت",
+      "clue": "عدل يوزن بريشة",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 2,
+      "answer": "مومياء",
+      "clue": "جسد لفته الأربطة ليبقى",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "بتاح",
+      "clue": "صانع ممفيس وراعي الحرفيين",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 7,
+      "answer": "تابوت",
+      "clue": "صندوق الرحلة الأخيرة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "في مشهد وزن القلب من كتاب الموتى يوضع قلب المتوفى في كفة وريشة ماعت في الأخرى، فإن رجح القلب التهمته عمعموت.",
+      "sourceTitle": "المتحف البريطاني — بردية حونفر، كتاب الموتى",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "بتاح إله مدينة ممفيس وراعي الصناع، ومن اسم معبده حت كا بتاح اشتق اليونانيون التسمية التي صارت Egypt.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة بتاح",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "في تاسوع هليوبوليس يكون أوزوريس وإيزيس وست ونفتيس إخوة من جب ونوت، بينما حورس ابن أوزوريس وإيزيس.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة التاسوع المصري",
+      "reviewStatus": "verified"
+    }
+  ]
+}

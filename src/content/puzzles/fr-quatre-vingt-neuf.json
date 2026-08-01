@@ -1,0 +1,119 @@
+{
+  "slug": "quatre-vingt-neuf",
+  "title": "Quatre-vingt-neuf",
+  "language": "fr",
+  "subject": "history",
+  "topic": "revolutions",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Dix ans qui ont changé le calendrier, les poids et mesures, et le reste.",
+  "completionMessage": "Séance levée, la grille est décrétée close.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "COCARDE",
+      "clue": "Bleu, blanc, rouge, épinglée au chapeau",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "GUILLOTINE",
+      "clue": "Proposée par un médecin qui voulait adoucir les choses",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Joseph Guillotin, hostile à la peine de mort, plaidait pour un supplice égal et instantané."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "VARENNES",
+      "clue": "La fuite s’y est arrêtée, en juin 1791",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 11,
+      "answer": "THERMIDOR",
+      "clue": "Mois de chaleur qui a mis fin à la Terreur",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "ROBESPIERRE",
+      "clue": "L’Incorruptible",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "BASTILLE",
+      "clue": "Le 14 juillet, on n’y trouva que sept prisonniers",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "DANTON",
+      "clue": "« De l’audace, encore de l’audace »",
+      "clueStyle": "quotation",
+      "difficultyRating": 3,
+      "sourceNotes": "Formule traditionnellement rattachée à son discours du 2 septembre 1792 ; la citation exacte est reconstituée par les rapporteurs."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 0,
+      "answer": "VALMY",
+      "clue": "Canonnade de septembre 1792, veille de la République",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "ASSIGNAT",
+      "clue": "Papier-monnaie qui a fini en papier",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "La Bastille ne comptait que sept détenus le 14 juillet 1789 : quatre faussaires, deux aliénés et un aristocrate enfermé à la demande de sa famille.",
+      "sourceTitle": "Musée Carnavalet, dossier « La prise de la Bastille »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La bataille de Valmy a eu lieu le 20 septembre 1792 ; la Convention a proclamé la République le lendemain.",
+      "sourceTitle": "Assemblée nationale, chronologie de la Convention",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les assignats, émis à partir de 1789 et gagés sur les biens nationaux, ont perdu presque toute leur valeur avant d’être retirés en 1796.",
+      "sourceTitle": "Banque de France, histoire des assignats",
+      "reviewStatus": "needs_review",
+      "sourceNotes": "Le retrait de 1796 (mandats territoriaux) est établi ; le chiffrage de la dépréciation varie selon les études à citer."
+    }
+  ]
+}

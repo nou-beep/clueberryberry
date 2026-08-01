@@ -1,0 +1,136 @@
+{
+  "slug": "au-bord-du-nil",
+  "title": "Au bord du Nil",
+  "language": "fr",
+  "subject": "egyptian-mythology",
+  "topic": "egyptian-gods",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Les dieux du Nil tels que les récits les décrivent : une barque solaire, une balance, et un serpent qui revient chaque nuit.",
+  "completionMessage": "La barque a passé la nuit. Grille close.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "SCARABEE",
+      "clue": "Bousier divinisé qui pousse le soleil",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Les textes associent cet insecte à Khépri, forme du soleil levant qui roule l'astre comme une boule."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "APOPHIS",
+      "clue": "Serpent du chaos, ennemi de la barque solaire",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Repoussé chaque nuit selon les récits, jamais anéanti."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "BASTET",
+      "clue": "Déesse à tête de chatte, honorée à Bubastis",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Son sanctuaire principal se trouvait dans le delta, à Bubastis.",
+      "sourceNotes": "Encyclopædia Britannica, article « Bastet »."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "THOT",
+      "clue": "Scribe divin à tête d'ibis",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Les mythes lui confient l'écriture, le calcul et le compte rendu du jugement."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "PTAH",
+      "clue": "Artisan de Memphis, créateur par la parole",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "La théologie memphite le fait créer le monde en le nommant."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "PLUME",
+      "clue": "Sur un plateau de la balance, face au cœur",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "Emblème de Maât : au jugement, le cœur du défunt doit peser aussi léger qu'elle."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "ISIS",
+      "clue": "« ___ et Osiris », traité de Plutarque",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2,
+      "explanation": "Plutarque écrit en grec, tardivement, mais son récit reste l'un des plus suivis."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "SOBEK",
+      "clue": "Dieu crocodile des marais du Fayoum",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Son culte est surtout attesté dans la région du Fayoum."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "SETH",
+      "clue": "Frère jaloux du récit osirien",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "Dieu du désert et du désordre ; c'est lui qui, dans le mythe, démembre son frère."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "ANKH",
+      "clue": "Croix qui a gardé son anse, et la vie avec",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "Le hiéroglyphe se lit « vie » ; sur les reliefs, les dieux le tendent au roi."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Plutarque a consacré un traité entier, « Isis et Osiris », au mythe osirien. C'est l'un des récits continus les plus complets qui nous soient parvenus, mais il est tardif, écrit en grec, et à lire comme tel.",
+      "sourceTitle": "Plutarque, Isis et Osiris (Œuvres morales)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Dans les textes funéraires, Apophis attaque chaque nuit la barque du soleil et se fait repousser sans jamais être détruit : la menace est un cycle, pas un épisode.",
+      "sourceTitle": "Encyclopædia Britannica — Apopis (Apophis)",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Le signe ankh, une croix surmontée d'une anse, se lit « vie » en écriture hiéroglyphique. Les divinités le présentent souvent aux narines du roi sur les reliefs des temples.",
+      "sourceTitle": "British Museum — le signe ankh",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}
