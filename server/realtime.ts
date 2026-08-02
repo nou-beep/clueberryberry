@@ -94,7 +94,9 @@ function loadEnvFile(file: string): void {
 loadEnvFile(".env.local");
 loadEnvFile(".env");
 
-const PORT = Number(process.env.REALTIME_PORT ?? 3106);
+// Managed hosts such as Railway provide PORT automatically. REALTIME_PORT is
+// still supported for local development and hosts with a custom port setting.
+const PORT = Number(process.env.PORT ?? process.env.REALTIME_PORT ?? 3106);
 
 const prisma = new PrismaClient();
 
