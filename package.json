@@ -58,6 +58,6 @@
   "description": "A little notebook of crosswords, hand-written in English, French and Arabic.",
   "license": "MIT",
   "engines": {
-    "node": ">=20.9.0"
+    "node": "20.x"
   }
 }
