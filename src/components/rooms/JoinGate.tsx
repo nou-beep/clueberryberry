@@ -100,7 +100,10 @@ export function JoinGate({
   );
 
   useEffect(() => {
-    setOrigin(window.location.origin);
+    // Deployment-specific Vercel URLs can be access-protected. Invite links
+    // must use the canonical public site so guests are never asked to join the
+    // Vercel team just because the host opened a preview deployment.
+    setOrigin(process.env.NEXT_PUBLIC_APP_URL || window.location.origin);
     const existing = loadSeat(code);
     if (existing) {
       setSeat(existing);
