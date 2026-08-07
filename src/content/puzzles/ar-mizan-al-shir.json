@@ -1,0 +1,136 @@
+{
+  "slug": "ar-mizan-al-shir",
+  "title": "ميزان الشعر",
+  "language": "ar",
+  "subject": "literature",
+  "topic": "poetry",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "قبل أن يقال إن الشعر إحساس، كان علما له موازين وأوتاد وحروف تلتزم في الأواخر.",
+  "completionMessage": "استقام الوزن، وسلمت القافية.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "بحر",
+      "clue": "الطويل والكامل منه",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "عروض",
+      "clue": "علم الأوزان ومقاييسها",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "وتد",
+      "clue": "ثلاثة أحرف في بناء التفعيلة",
+      "clueStyle": "scientific",
+      "difficultyRating": 5,
+      "explanation": "الوتد وحدة صغرى في التقطيع العروضي، إلى جانب السبب والفاصلة."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "عجز",
+      "clue": "النصف الثاني من البيت",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "كناية",
+      "clue": "قول يلمح ولا يصرح",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 7,
+      "answer": "صدر",
+      "clue": "أول البيت، وموضع القلب",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "روي",
+      "clue": "الحرف الملتزم في أواخر الأبيات",
+      "clueStyle": "definition",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "جناس",
+      "clue": "لفظان يتشابهان وتختلف دلالتهما",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 2,
+      "answer": "استعارة",
+      "clue": "تشبيه حذف أحد طرفيه",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "الخليل",
+      "clue": "واضع علم الأوزان وصاحب معجم العين",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "الخليل بن أحمد الفراهيدي، من علماء البصرة في القرن الثاني الهجري."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "تفعيلة",
+      "clue": "وحدة الوزن التي بني عليها شعر الحداثة",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "ينسب وضع علم العروض إلى الخليل بن أحمد الفراهيدي في البصرة في القرن الثاني الهجري، وهو أيضا صاحب معجم العين، أقدم المعاجم العربية المرتبة.",
+      "sourceTitle": "ابن خلكان، وفيات الأعيان — ترجمة الخليل بن أحمد",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يقوم التقطيع العروضي على وحدات صغرى هي السبب والوتد والفاصلة، وتتركب منها التفعيلات التي تبنى عليها البحور.",
+      "sourceTitle": "كتب العروض المدرسية — أحمد الهاشمي، ميزان الذهب",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "عدد بحور الشعر العربي المتداول خمسة عشر بحرا عند الخليل، أضاف إليها الأخفش بحرا آخر، وتختلف كتب العروض في عد بعض الصور فرعا أو بحرا مستقلا.",
+      "sourceTitle": "كتب العروض — مقارنة بين الخليل والأخفش",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

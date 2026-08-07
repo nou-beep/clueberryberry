@@ -1,0 +1,135 @@
+{
+  "slug": "ar-min-al-ibra-ila-al-janah",
+  "title": "من الإبرة إلى الجناح",
+  "language": "ar",
+  "subject": "general-knowledge",
+  "topic": "gk-inventions",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "أشياء اعتدناها حتى نسينا أن أحدا فكر فيها أولا.",
+  "completionMessage": "أحد عشر اختراعا، وكلها صارت من العادة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "بارود",
+      "clue": "خلطة صينية غيرت شكل الحروب",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "دراجة",
+      "clue": "مركبة بدواستين وسلسلة",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "مصباح",
+      "clue": "ما جربه أديسون مرارا قبل أن يضيء",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "مطبعة",
+      "clue": "آلة غوتنبرغ ذات الحروف المتحركة",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "بوصلة",
+      "clue": "إبرة تعرف الشمال",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "هاتف",
+      "clue": "جهاز بيل الذي اختصر المسافة",
+      "clueStyle": "historical",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "ورق",
+      "clue": "خرج من الصين، وعليه كتبت الكتب",
+      "clueStyle": "historical",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "طائرة",
+      "clue": "ما رفعه الأخوان رايت سنة 1903",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "sourceNotes": "رحلة كيتي هوك الأولى، 17 ديسمبر 1903."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 4,
+      "answer": "براءة",
+      "clue": "___ اختراع",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "تلغراف",
+      "clue": "نقاط وشرطات تسري في سلك",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "عجلة",
+      "clue": "لا داعي لإعادة اختراعها",
+      "clueStyle": "phrase",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "حلق الأخوان رايت أول رحلة بطائرة أثقل من الهواء في كيتي هوك يوم 17 ديسمبر 1903، ولم تتجاوز الرحلة الأولى اثنتي عشرة ثانية.",
+      "sourceTitle": "متحف سميثسونيان للطيران والفضاء",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "طور يوهانس غوتنبرغ الطباعة بالحروف المعدنية المتحركة في ماينتس نحو سنة 1450، وأشهر مطبوعاته الإنجيل ذو الاثنين والأربعين سطرا.",
+      "sourceTitle": "المكتبة البريطانية — مجموعة غوتنبرغ",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "صناعة الورق تنسب في المصادر الصينية إلى تساي لون في القرن الثاني الميلادي، غير أن كشوفا أثرية عثرت على ورق أقدم من ذلك، فالتاريخ الدقيق للنشأة موضع مراجعة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة الورق",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

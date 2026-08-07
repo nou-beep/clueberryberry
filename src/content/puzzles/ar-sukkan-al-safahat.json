@@ -1,0 +1,135 @@
+{
+  "slug": "ar-sukkan-al-safahat",
+  "title": "سكان الصفحات",
+  "language": "ar",
+  "subject": "books",
+  "topic": "fictional-characters",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "أسماء لم تولد في سجل مدني، ومع ذلك نعرفها أكثر مما نعرف جيراننا.",
+  "completionMessage": "أغلق الكتاب، وبقي أهله في الداخل.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "هاملت",
+      "clue": "أمير الدنمارك وسؤاله الشهير",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "مهران",
+      "clue": "سعيد، لص نجيب محفوظ الهارب",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "بطل رواية اللص والكلاب، الصادرة سنة 1961."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "زوربا",
+      "clue": "يوناني كازانتزاكيس الراقص",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 1,
+      "answer": "شيرلوك",
+      "clue": "ساكن شارع بيكر وصاحب الغليون",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "اوليفر",
+      "clue": "يتيم ديكنز الذي طلب المزيد",
+      "clueStyle": "quotation",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "طرزان",
+      "clue": "من ربته القردة في الغابة قبل أن تتبناه السينما",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "سندباد",
+      "clue": "بحار بغدادي في سبع رحلات",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 8,
+      "answer": "بينوكيو",
+      "clue": "أنفه يفضح كذبه",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "شهرزاد",
+      "clue": "من أجلت موتها ألف ليلة",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "روبنسون",
+      "clue": "منفرد في جزيرة، ورفيقه جمعة",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "جلجامش",
+      "clue": "ملك أوروك في أقدم ملحمة مدونة",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "صدرت رواية اللص والكلاب لنجيب محفوظ سنة 1961، وبطلها سعيد مهران خارج من السجن يبحث عمن خانه.",
+      "sourceTitle": "دار الشروق — أعمال نجيب محفوظ",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ملحمة جلجامش دونت بالمسمارية على ألواح طينية، وأشهر نسخها المكتشفة جاءت من مكتبة آشور بانيبال في نينوى.",
+      "sourceTitle": "المتحف البريطاني — ألواح ملحمة جلجامش",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تعددت أسماء شخصيات ألف ليلة وليلة وصيغها بين المخطوطات والترجمات، وبعض الحكايات المشهورة اليوم لا يرد في أقدم النسخ العربية المعروفة.",
+      "sourceTitle": "محسن مهدي، تحقيق ألف ليلة وليلة عن أقدم المخطوطات",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

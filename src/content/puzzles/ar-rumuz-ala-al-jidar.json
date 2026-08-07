@@ -1,0 +1,126 @@
+{
+  "slug": "ar-rumuz-ala-al-jidar",
+  "title": "رموز على الجدار",
+  "language": "ar",
+  "subject": "egyptian-mythology",
+  "topic": "egyptian-symbols",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "على جدران المعابد لا شيء زخرفة خالصة: كل شكل صغير يحمل معنى كبيرا.",
+  "completionMessage": "قرئت النقوش، وأغلق المعبد.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "كوبرا",
+      "clue": "أفعى منتصبة على جبين الملك",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "ريشة",
+      "clue": "ما يوزن به القلب في القاعة",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 7,
+      "answer": "صقر",
+      "clue": "طائر يتخذ هيئة إله السماء",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "جناح",
+      "clue": "ما تبسطه إيزيس حماية للتابوت",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "بقرة",
+      "clue": "حيوان حتحور وقرناها",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 1,
+      "answer": "قرص",
+      "clue": "شمس مستديرة فوق الرؤوس المقدسة",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "جعران",
+      "clue": "خنفساء تدحرج الشمس عند الفجر",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "رمز للتجدد، ارتبط بالإله خبري ودحرجة قرص الشمس."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "عين",
+      "clue": "___ حورس، تعويذة ضد الحسد",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 1,
+      "answer": "صولجان",
+      "clue": "عصا السلطة في يد الحاكم",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "لوتس",
+      "clue": "زهرة تنغلق ليلا وتفتح مع الشروق",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "عين حورس، أو الوجات، من أكثر التمائم المصرية شيوعا، وقد وضعت مع الموتى للحماية وارتبطت بفكرة الشفاء والاكتمال.",
+      "sourceTitle": "المتحف البريطاني — مجموعة التمائم المصرية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "صورت الربة حتحور بقرنين على شكل قرني بقرة يحيطان بقرص الشمس، وارتبطت بالأمومة والموسيقى والفرح.",
+      "sourceTitle": "متحف المتروبوليتان — دليل الفن المصري",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ربط المصريون الجعران بالإله خبري وبفكرة الشروق والتجدد، وتفسير الرمز يعتمد على نصوص من عصور متباعدة قد تختلف دلالاتها.",
+      "sourceTitle": "متحف المتروبوليتان — الجعارين المصرية",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

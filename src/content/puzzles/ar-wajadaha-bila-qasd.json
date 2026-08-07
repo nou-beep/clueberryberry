@@ -1,0 +1,126 @@
+{
+  "slug": "ar-wajadaha-bila-qasd",
+  "title": "وجدها بلا قصد",
+  "language": "ar",
+  "subject": "fun-facts",
+  "topic": "accidental-discoveries",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "طبق نسي مكشوفا، لوح حلوى ذاب في جيب، وقارورة سقطت ولم تتناثر. أحيانا يسبق الحظ الفرضية.",
+  "completionMessage": "عشر مصادفات، ولا واحدة منها كانت في الخطة.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "تفلون",
+      "clue": "طلاء لا يمسك به شيء في المقلاة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "رقائق",
+      "clue": "شرائح بطاطس ولدت من شكوى زبون",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 1,
+      "answer": "بنسلين",
+      "clue": "دواء خرج من طبق أهمل في المختبر",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "لاصق",
+      "clue": "صمغ ضعيف صار ورقة ملاحظات",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 8,
+      "answer": "اشعة",
+      "clue": "ما رآه رونتغن في عظام يد زوجته",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "سكرين",
+      "clue": "بديل حلو اكتشف بيد لم تغسل",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "ميكروويف",
+      "clue": "فرن ولد من لوح حلوى ذاب قرب رادار",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "فليمنغ",
+      "clue": "عالم اسكتلندي عاد من إجازته إلى جائزة نوبل",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "sourceNotes": "جائزة نوبل في الطب 1945، مناصفة مع فلوري وتشين."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 9,
+      "answer": "زجاج",
+      "clue": "قارورة سقطت ولم تتناثر، فولد الأمان",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 7,
+      "answer": "مطاط",
+      "clue": "قساه الكبريت على موقد غودير",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "لاحظ ألكسندر فليمنغ سنة 1928 أن عفنا لوث أحد أطباقه وأوقف نمو البكتيريا حوله، ونال جائزة نوبل في الطب سنة 1945 مناصفة مع فلوري وتشين.",
+      "sourceTitle": "مؤسسة نوبل — جائزة الطب 1945",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أعلن فيلهلم رونتغن اكتشاف الأشعة السينية سنة 1895، وصورة يد زوجته من أوائل الصور الإشعاعية المنشورة.",
+      "sourceTitle": "مؤسسة نوبل — سيرة فيلهلم رونتغن",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تنسب فكرة الفرن الميكروويفي إلى بيرسي سبنسر بعد ملاحظته ذوبان قطعة حلوى قرب جهاز مغنطرون، والتفاصيل المتداولة للحكاية تختلف بين رواية وأخرى.",
+      "sourceTitle": "متحف ريثيون التاريخي — سيرة بيرسي سبنسر",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

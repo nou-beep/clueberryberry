@@ -1,0 +1,140 @@
+{
+  "slug": "ar-asma-fi-al-jayb",
+  "title": "أسماء في الجيب",
+  "language": "ar",
+  "subject": "finance-facts",
+  "topic": "currencies",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "لكل عملة سيرة: اسم يوناني هنا، جبل فضة هناك، وقرار سياسي غير سعرها بين ليلة وضحاها.",
+  "completionMessage": "أقفل السوق، وعادت الأسماء إلى محافظها.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "تعويم",
+      "clue": "ترك السعر لعرض السوق وطلبه",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "يورو",
+      "clue": "دخل الجيوب ورقيا سنة 2002",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "بدأ التداول المحاسبي سنة 1999 وطرحت الأوراق والقطع في يناير 2002.",
+      "sourceNotes": "البنك المركزي الأوروبي — تاريخ العملة الموحدة."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "ليرة",
+      "clue": "تتقاسمها أنقرة وبيروت بقيمتين مختلفتين",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "روبية",
+      "clue": "من دلهي إلى كولومبو",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "ريال",
+      "clue": "يدفع به في الرياض ومسقط وطهران",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "صرافة",
+      "clue": "شباك يبدل عملة بأخرى",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 3,
+      "answer": "دولار",
+      "clue": "اسمه من قطعة فضية سكت في وادي بوهيمي",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "من التالر المسكوك في يواخيمستال، وتحور الاسم عبر الهولندية.",
+      "sourceNotes": "موسوعة بريتانيكا — أصل كلمة دولار."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "درهم",
+      "clue": "عملة الرباط وأبوظبي، واسمها يوناني الأصل",
+      "clueStyle": "cross_language",
+      "difficultyRating": 4,
+      "explanation": "الاسم مأخوذ عن الدراخمة اليونانية عبر التداول القديم.",
+      "sourceNotes": "بنك المغرب ومصرف الإمارات المركزي — تسمية العملة الوطنية."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 9,
+      "answer": "دينار",
+      "clue": "ما ينفق في تونس والكويت وبغداد",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "جنيه",
+      "clue": "عملة القاهرة، وابن عم الإسترليني",
+      "clueStyle": "cross_language",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 7,
+      "answer": "فرنك",
+      "clue": "بقي في برن بعد أن غادر باريس",
+      "clueStyle": "misdirection",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "بدأ التعامل باليورو محاسبيا سنة 1999، ولم تدخل الأوراق النقدية والقطع المعدنية التداول إلا في الأول من يناير 2002.",
+      "sourceTitle": "البنك المركزي الأوروبي — تاريخ اليورو",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "كلمة دولار تعود إلى التالر، وهي قطعة فضية سكت في وادي يواخيمستال ببوهيميا في القرن السادس عشر.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة دولار",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تنتمي أسماء الدرهم والدينار إلى الدراخمة والديناريوس، وقد انتقلت إلى العربية في العصور الأولى للتداول النقدي، وتفاصيل انتقالها موضع نقاش بين الباحثين.",
+      "sourceTitle": "دائرة المعارف الإسلامية — مادة النقود",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

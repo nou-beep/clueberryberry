@@ -1,0 +1,139 @@
+{
+  "slug": "ar-tahta-rayat-al-nisr",
+  "title": "تحت راية النسر",
+  "language": "ar",
+  "subject": "history",
+  "topic": "ancient-rome",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "جمهورية صارت إمبراطورية، وطرق معبدة ما زالت تحت الإسفلت. أحد عشر مدخلا إلى روما القديمة.",
+  "completionMessage": "طويت الرايات، وعادت الفيالق إلى ثكناتها.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "لاتينية",
+      "clue": "لغة الجمهورية ثم الإمبراطورية",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "اغسطس",
+      "clue": "أول الأباطرة، وشهر في التقويم",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "سبارتاكوس",
+      "clue": "قاد ثورة العبيد قبل الميلاد بسبعين عاما",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "اندلعت الثورة سنة 73 قبل الميلاد وانتهت سنة 71."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 7,
+      "answer": "مدرج",
+      "clue": "مقاعد ترتفع درجة فوق درجة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "مصارع",
+      "clue": "من يدخل الحلبة بشبكة ورمح",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "نسر",
+      "clue": "ما يحمله حامل راية الفيلق",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "الأكويلا، شارة الفيلق الروماني، وكان فقدها عارا كبيرا."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 10,
+      "answer": "بومبي",
+      "clue": "دفنها فيزوف تحت الرماد سنة 79",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 4,
+      "answer": "امبراطور",
+      "clue": "صاحب الأرجوان على ضفاف التيبر",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "قيصر",
+      "clue": "يوليوس الذي طعن في مجلس الشيوخ",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "اغتيل يوليوس في منتصف مارس سنة 44 قبل الميلاد."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "نيرون",
+      "clue": "تنسب إليه حكاية العزف أثناء الحريق",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "الرواية متأخرة عن الحدث ويشكك فيها المؤرخون؛ حريق روما وقع سنة 64 ميلادية.",
+      "sourceNotes": "تاسيتوس، الحوليات، الكتاب الخامس عشر — ذكر الرواية بوصفها إشاعة."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 8,
+      "answer": "طريق",
+      "clue": "كلها تؤدي إلى روما، في المثل",
+      "clueStyle": "phrase",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "دفن ثوران فيزوف سنة 79 ميلادية مدينتي بومبي وهركولانيوم، ووصف بلينيوس الأصغر الحدث في رسالتين إلى تاسيتوس.",
+      "sourceTitle": "رسائل بلينيوس الأصغر، الكتاب السادس",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "استمرت ثورة سبارتاكوس بين سنتي 73 و71 قبل الميلاد، وهي آخر الحروب العبيدية الثلاث في تاريخ روما.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة سبارتاكوس",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "حكاية عزف نيرون أثناء احتراق روما وردت عند مؤرخين لاحقين للحدث، ويعدها كثير من الباحثين اليوم رواية دعائية لا خبرا موثقا.",
+      "sourceTitle": "تاسيتوس، الحوليات، الكتاب الخامس عشر",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

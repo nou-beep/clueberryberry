@@ -1,0 +1,142 @@
+{
+  "slug": "ar-hawl-tawilat-al-alam",
+  "title": "حول طاولة العالم",
+  "language": "ar",
+  "subject": "geopolitics",
+  "topic": "international-organizations",
+  "difficulty": "hard",
+  "width": 10,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "منظمات بأسماء مختصرة ومقار في مدن بعيدة، وقرارات تصاغ في قاعات مغلقة. شبكة عن هندسة العمل الدولي.",
+  "completionMessage": "رفعت الجلسة، وسجلت المحاضر.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "ناتو",
+      "clue": "حلف شمال الأطلسي في أربعة أحرف",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 4,
+      "answer": "جامعة",
+      "clue": "الـ ___ العربية، تأسست بالقاهرة سنة 1945",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3,
+      "sourceNotes": "ميثاق جامعة الدول العربية، القاهرة، 22 مارس 1945."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "ميثاق",
+      "clue": "وثيقة وقعت في سان فرانسيسكو سنة 1945",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "sourceNotes": "الأمم المتحدة — نص الميثاق وتاريخ التوقيع، 26 يونيو 1945."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "اسيان",
+      "clue": "رابطة إقليمية من عشر دول، مقرها جاكرتا",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "يونسكو",
+      "clue": "وكالة أممية للتربية والعلم والثقافة، مقرها باريس",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "تأسست سنة 1945 ومقرها الدائم في باريس.",
+      "sourceNotes": "الموقع الرسمي لليونسكو — نبذة تعريفية."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 8,
+      "answer": "عضوية",
+      "clue": "ما يجمد أو يعلق عند الخلاف",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "بريكس",
+      "clue": "تجمع اقتصادي بدأ بخمس دول ثم اتسع",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "بدأ بالبرازيل وروسيا والهند والصين ثم جنوب أفريقيا، وانضمت دول أخرى اعتبارا من 2024.",
+      "sourceNotes": "البيانات الختامية لقمم المجموعة، 2023 و2024."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "انتربول",
+      "clue": "تنسيق شرطي دولي من مدينة ليون",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "يونيسف",
+      "clue": "الذراع الأممية المعنية بالطفولة",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 7,
+      "answer": "فيتو",
+      "clue": "كلمة لاتينية توقف قرارا في مجلس الأمن",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "معناها الحرفي: أنا أمنع. وهي حق الأعضاء الخمسة الدائمين."
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 6,
+      "answer": "اوبك",
+      "clue": "منظمة الدول المصدرة للنفط، ولدت في بغداد سنة 1960",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 3,
+      "sourceNotes": "أمانة أوبك — تاريخ التأسيس، مؤتمر بغداد 1960."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "وقع ميثاق الأمم المتحدة في سان فرانسيسكو يوم 26 يونيو 1945 ودخل حيز النفاذ في 24 أكتوبر من العام نفسه.",
+      "sourceTitle": "الأمم المتحدة — صفحة الميثاق",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تأسست منظمة أوبك في مؤتمر بغداد سنة 1960 بخمس دول مؤسسة، ومقرها اليوم في فيينا.",
+      "sourceTitle": "الأمانة العامة لأوبك — نبذة تاريخية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "وسعت مجموعة بريكس عضويتها اعتبارا من سنة 2024، وقائمة الدول المنضمة وصفة مشاركة بعضها تتغير بين قمة وأخرى، فيستحسن مراجعة البيان الختامي للقمة الأحدث.",
+      "sourceTitle": "البيانات الختامية لقمم بريكس، 2023–2024",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

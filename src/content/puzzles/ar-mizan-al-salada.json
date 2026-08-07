@@ -1,0 +1,138 @@
+{
+  "slug": "ar-mizan-al-salada",
+  "title": "ميزان الصلادة",
+  "language": "ar",
+  "subject": "geology",
+  "topic": "rocks-and-minerals",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "من الطلق الذي يفتته الظفر إلى الماس الذي لا يخدشه شيء، رحلة قصيرة في مادة الأرض.",
+  "completionMessage": "كل صخرة سميت، وكل معدن رتب.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "حصى",
+      "clue": "ما يفرش قاع الوادي",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "صلادة",
+      "clue": "ما يقيسه سلم موس",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "مقياس موس يرتب المعادن بحسب مقاومتها للخدش من واحد إلى عشرة.",
+      "sourceNotes": "فريدريش موس، 1812، مقياس الخدش النسبي."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 7,
+      "answer": "طين",
+      "clue": "مادة الخزاف الأولى",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "جرانيت",
+      "clue": "صخر ناري خشن الحبيبات يكسو المطابخ",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "جبس",
+      "clue": "يشد الكسر ويزين السقف",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "كلس",
+      "clue": "حجر جيري يصير جيرا في الفرن",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "كوارتز",
+      "clue": "بلوراته تضبط الساعات",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "اهتزاز بلورته تحت جهد كهربائي هو أساس الساعة الحديثة."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "مرمر",
+      "clue": "حجر شفيف تصنع منه المزهريات، ويشبه به البياض",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 3,
+      "answer": "رخام",
+      "clue": "ما نحت منه ديفيد وبني به تاج محل",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 5,
+      "answer": "رواسب",
+      "clue": "ما يتركه النهر عند مصبه",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "ماس",
+      "clue": "أعلى سلم موس، وأغلى الفحم حظا",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "كلاهما كربون، والفارق ترتيب الذرات وضغط التكوين."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "وضع الجيولوجي الألماني فريدريش موس مقياس الصلادة سنة 1812، وهو ترتيب نسبي بالخدش لا قياس مطلق للقوة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة مقياس موس",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الماس والغرافيت كلاهما كربون نقي، والفرق بينهما في نظام الروابط بين الذرات لا في تركيبها الكيميائي.",
+      "sourceTitle": "الجمعية المعدنية الأميركية — دليل المعادن",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يستعمل الكوارتز في ضبط الوقت لأنه يهتز بتردد ثابت عند تعريضه لجهد كهربائي، وهي الخاصية الكهرضغطية التي وصفها الأخوان كوري سنة 1880.",
+      "sourceTitle": "مقالة الأخوين كوري عن الكهرباء الانضغاطية، 1880",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

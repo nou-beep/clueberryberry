@@ -1,0 +1,134 @@
+{
+  "slug": "ar-lugha-al-tarab",
+  "title": "لغة الطرب",
+  "language": "ar",
+  "subject": "music",
+  "topic": "music-terminology",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "مفردات تسمعها في بروفة الحفل قبل أن ترفع الستارة: من المقام إلى اللازمة.",
+  "completionMessage": "انتهت البروفة، وضبطت الآلات.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "لازمة",
+      "clue": "مقطع يعود بعد كل كوبليه",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 3,
+      "answer": "جوقة",
+      "clue": "مجموعة تغني بصوت واحد",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 5,
+      "answer": "سلم",
+      "clue": "درجات يصعدها الصوت",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "موال",
+      "clue": "ارتجال حزين يسبق الأغنية",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "مقام",
+      "clue": "الرست والبيات منه",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "نوتة",
+      "clue": "ورق يقرأه العازف على الحامل",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "تخت",
+      "clue": "فرقة شرقية صغيرة، والكلمة سرير أيضا",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "ايقاع",
+      "clue": "ما يضبطه الدف والرق",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "توزيع",
+      "clue": "من يلبس اللحن ثوب الآلات",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 9,
+      "answer": "طرب",
+      "clue": "نشوة تنتزع من الجمهور كلمة الله",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "مايسترو",
+      "clue": "من يقود بعصا لا تصدر صوتا",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "التخت الشرقي تشكيلة صغيرة قوامها العود والقانون والناي والكمان والرق، وقد ساد في الحفلات العربية قبل انتشار الفرق الكبيرة.",
+      "sourceTitle": "دار الأوبرا المصرية — تعريف التخت الشرقي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "المقام في الموسيقى العربية نظام نغمي له سلم وسير لحني مميز، ويستعمل ربع الصوت في بعض مقاماته كالرست والبيات.",
+      "sourceTitle": "المجمع العربي للموسيقى — المصطلحات النغمية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أدرجت اليونسكو عناصر موسيقية عربية عدة في قوائم التراث الثقافي غير المادي، وتختلف صيغة كل ملف عن الآخر، فيراجع سجل العنصر المعني قبل نسبة أي وصف عام إليه.",
+      "sourceTitle": "اليونسكو — قوائم التراث الثقافي غير المادي",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

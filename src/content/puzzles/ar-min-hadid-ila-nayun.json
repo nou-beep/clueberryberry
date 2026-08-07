@@ -1,0 +1,138 @@
+{
+  "slug": "ar-min-hadid-ila-nayun",
+  "title": "من حديد إلى نيون",
+  "language": "ar",
+  "subject": "chemistry",
+  "topic": "chemical-elements",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "أحد عشر عنصرا خرجت من الجدول إلى الحياة اليومية: في العظم، وفي البالون، وفي لافتة الشارع.",
+  "completionMessage": "عادت العناصر إلى مواضعها، كل واحد في خانته.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "قصدير",
+      "clue": "خلطه بالنحاس سمى عصرا كاملا",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "البرونز سبيكة من النحاس والقصدير."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "حديد",
+      "clue": "يصدأ في الرطوبة، ويحمل الأكسجين في الدم",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "ذرة الحديد في مركز جزيء الهيموغلوبين هي التي ترتبط بالأكسجين."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "زنك",
+      "clue": "طلاء يقي الحديد من الصدأ",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "هيليوم",
+      "clue": "يرفع البالون ويرقق الصوت",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 10,
+      "answer": "الومنيوم",
+      "clue": "يغلف الطعام ويطير في هياكل الطائرات",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "كربون",
+      "clue": "عليه تقوم الحياة، وبنظيره تؤرخ الآثار",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "التأريخ بالكربون المشع يعتمد على النظير 14."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "بلاتين",
+      "clue": "أبيض نفيس في محولات عوادم السيارات",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "كالسيوم",
+      "clue": "قوام العظم، وحجة إعلانات الحليب",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 1,
+      "answer": "رصاص",
+      "clue": "ثقيل هجرته أنابيب الماء وأقلام الرسم",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "لب قلم الرصاص غرافيت لا معدن، والتسمية أثر تاريخي."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 5,
+      "answer": "كلور",
+      "clue": "رائحة المسبح النظيف",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "نيون",
+      "clue": "خامل يضيء لافتات الليل",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "لب قلم الرصاص مصنوع من الغرافيت والطين، ولا يدخل في تركيبه رصاص، والاسم بقي من التباس قديم بين المادتين.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة قلم الرصاص",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اكتشف رامزي وترافرز النيون سنة 1898 ضمن سلسلة الغازات النبيلة المستخلصة من الهواء المسال.",
+      "sourceTitle": "الاتحاد الدولي للكيمياء البحتة والتطبيقية — سجل العناصر",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يعد الألومنيوم أكثر الفلزات وفرة في القشرة الأرضية، غير أنه لم يعزل نقيا إلا في القرن التاسع عشر لصعوبة فصله عن أكسجينه.",
+      "sourceTitle": "هيئة المسح الجيولوجي الأميركية — وفرة العناصر في القشرة",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

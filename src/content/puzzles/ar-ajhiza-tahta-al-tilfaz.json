@@ -1,0 +1,127 @@
+{
+  "slug": "ar-ajhiza-tahta-al-tilfaz",
+  "title": "أجهزة تحت التلفاز",
+  "language": "ar",
+  "subject": "games",
+  "topic": "consoles",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "صناديق بلاستيكية تحت الشاشة، لكل واحد منها جيل يتذكره ويدافع عنه.",
+  "completionMessage": "أطفئ الجهاز، وحفظت اللعبة.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "سيغا",
+      "clue": "صاحبة القنفذ الأزرق",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "سويتش",
+      "clue": "يلعب على التلفاز وفي راحة اليد",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 1,
+      "answer": "جيمبوي",
+      "clue": "شاشة رمادية في الجيب",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "خرطوشة",
+      "clue": "ما كان اللاعبون ينفخون فيه قبل إدخاله",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 0,
+      "answer": "اكسبوكس",
+      "clue": "دخول مايكروسوفت إلى غرفة المعيشة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "اتاري",
+      "clue": "شركة بونغ، واسمها من لعبة غو",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "نينتندو",
+      "clue": "بدأت بصناعة أوراق اللعب قبل قرن ونيف",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "تأسست سنة 1889 لصناعة أوراق الهانافودا اليابانية.",
+      "sourceNotes": "الموقع الرسمي للشركة — صفحة التاريخ."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "بلايستيشن",
+      "clue": "جهاز سوني منذ 1994",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 8,
+      "answer": "ذراع",
+      "clue": "ما يمسك باليدين وفيه الأزرار",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "دريمكاست",
+      "clue": "آخر ما صنعته سيغا من أجهزة",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "تأسست نينتندو سنة 1889 في كيوتو لصناعة أوراق اللعب اليابانية، ولم تدخل مجال ألعاب الفيديو إلا بعد ذلك بعقود.",
+      "sourceTitle": "نينتندو — الصفحة الرسمية لتاريخ الشركة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "طرح جهاز بلايستيشن الأول في اليابان سنة 1994 وفي أميركا الشمالية وأوروبا سنة 1995.",
+      "sourceTitle": "سوني إنتراكتيف إنترتينمنت — الجدول الزمني للمنتجات",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "النفخ في الخراطيش كان عادة شائعة بين اللاعبين، غير أن الشركة المصنعة حذرت من أن الرطوبة قد تضر بالوصلات، ونفع العادة نفسه موضع شك.",
+      "sourceTitle": "دليل المستخدم لجهاز نينتندو الترفيهي",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

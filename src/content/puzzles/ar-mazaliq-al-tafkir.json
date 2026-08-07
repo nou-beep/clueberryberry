@@ -1,0 +1,140 @@
+{
+  "slug": "ar-mazaliq-al-tafkir",
+  "title": "مزالق التفكير",
+  "language": "ar",
+  "subject": "psychology",
+  "topic": "cognitive-biases",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "العقل مقتصد، يختصر الطريق كلما استطاع. هذه شبكة عن المواضع التي يخطئ فيها الاختصار.",
+  "completionMessage": "أحد عشر مزلقا، وقد عبرتها كلها.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "تنميط",
+      "clue": "حكم على فرد بصورة جماعته",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "كانمان",
+      "clue": "عالم نفس نال جائزة في الاقتصاد",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "دانيال كانمان، عالم نفس حصل على جائزة نوبل في العلوم الاقتصادية سنة 2002.",
+      "sourceNotes": "موقع جائزة نوبل — جائزة العلوم الاقتصادية 2002."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "نفور",
+      "clue": "خسارة المئة أوجع من ربحها",
+      "clueStyle": "scientific",
+      "difficultyRating": 4,
+      "explanation": "النفور من الخسارة، من أعمال كانمان وتفيرسكي في نظرية الاحتمال."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "ارساء",
+      "clue": "رقم أول يجر التقدير كله وراءه",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "تبرير",
+      "clue": "ما يقوله العقل بعد أن يقرر القلب",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "تعميم",
+      "clue": "حادثة واحدة تصير قاعدة",
+      "clueStyle": "everyday",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "قطيع",
+      "clue": "من يسير حيث سار الجميع",
+      "clueStyle": "phrase",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 7,
+      "answer": "هالة",
+      "clue": "أثر يجعل حسن المظهر كفؤا في العين",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "أثر الهالة: انتقال الانطباع الإيجابي من صفة واحدة إلى تقييم الشخص كله."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 1,
+      "answer": "تأطير",
+      "clue": "طريقة العرض تغير الجواب",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "القول إن العملية تنجح في تسعين بالمئة أو تفشل في عشرة يغير قرار المريض رغم تطابق الرقمين."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 1,
+      "answer": "تأكيد",
+      "clue": "ميل إلى ما يوافق رأيك سلفا",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "انحياز التأكيد: البحث عن الأدلة المؤيدة وتجاهل المخالفة."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "حدس",
+      "clue": "جواب يسبق الحساب",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "حصل دانيال كانمان على جائزة نوبل في العلوم الاقتصادية سنة 2002 عن إدخال بحوث علم النفس في التحليل الاقتصادي.",
+      "sourceTitle": "مؤسسة نوبل — سجل الجوائز",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "صاغ إدوارد ثورندايك مصطلح أثر الهالة سنة 1920 بعد أن لاحظ أن الضباط يقيمون جنودهم بدرجات متقاربة في صفات لا رابط بينها.",
+      "sourceTitle": "Edward L. Thorndike, A Constant Error in Psychological Ratings (1920)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تشير مراجعات حديثة إلى أن كثيرا من تجارب الانحياز الكلاسيكية أعيد إجراؤها بنتائج متفاوتة، ضمن ما يعرف بأزمة تكرار النتائج في علم النفس.",
+      "sourceTitle": "Open Science Collaboration, Estimating the Reproducibility of Psychological Science (2015)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

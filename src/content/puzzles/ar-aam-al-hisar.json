@@ -1,0 +1,137 @@
+{
+  "slug": "ar-aam-al-hisar",
+  "title": "عام الحصار",
+  "language": "ar",
+  "subject": "greek-mythology",
+  "topic": "trojan-war",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "عشر سنوات أمام سور واحد، وحيلة خشبية أنهت ما عجز عنه الرمح. شبكة عن أشهر حصار في الأدب.",
+  "completionMessage": "سقط السور، وبقيت الحكاية.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "شليمان",
+      "clue": "تاجر ألماني حفر تلة حصارلق بحثا عن المدينة",
+      "clueStyle": "historical",
+      "difficultyRating": 5,
+      "explanation": "هاينريش شليمان نقب في موقع حصارلق بتركيا في سبعينيات القرن التاسع عشر.",
+      "sourceNotes": "اليونسكو — الموقع الأثري لتروادة، إدراج 1998."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "كاساندرا",
+      "clue": "تنبأت بالخراب فلم يصدقها أحد",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "حصان",
+      "clue": "هدية جوفاء لا ينصح بقبولها",
+      "clueStyle": "phrase",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "اوديسيوس",
+      "clue": "صاحب الحيلة، وطريق العودة الطويل",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "اخيل",
+      "clue": "بطل الميرميدون الذي اعتزل القتال غضبا",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "الياذة",
+      "clue": "ملحمة هوميروس عن الغضب والحصار",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "باريس",
+      "clue": "راعي الأمير الذي حكم بين ثلاث ربات",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 0,
+      "answer": "بريام",
+      "clue": "الملك العجوز الذي جاء يطلب جثة ابنه",
+      "clueStyle": "cultural",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "هيلينا",
+      "clue": "من قيل إن وجهها أطلق ألف سفينة",
+      "clueStyle": "quotation",
+      "difficultyRating": 3,
+      "explanation": "العبارة من مسرحية كريستوفر مارلو عن الدكتور فاوست، لا من هوميروس."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 6,
+      "answer": "هكتور",
+      "clue": "مدافع المدينة الأول، جر خلف عربة",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "اجاممنون",
+      "clue": "قائد الحملة، وملك ميسيني",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أدرج موقع تروادة الأثري في حصارلق شمال غرب تركيا على قائمة التراث العالمي سنة 1998، ويضم طبقات استيطان متعاقبة تمتد آلاف السنين.",
+      "sourceTitle": "اليونسكو — قائمة التراث العالمي، الموقع الأثري لتروادة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "عبارة الوجه الذي أطلق ألف سفينة ليست من نص هوميروس، بل من مسرحية كريستوفر مارلو عن الدكتور فاوست المكتوبة في أواخر القرن السادس عشر.",
+      "sourceTitle": "Christopher Marlowe, Doctor Faustus",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "العلاقة بين حرب طروادة كما ترويها الملحمة وبين ما تكشفه الحفريات في حصارلق ما زالت موضع خلاف بين الآثاريين، ولا يوجد إجماع على أن الملحمة تسجل حدثا تاريخيا بعينه.",
+      "sourceTitle": "مشروع تنقيبات تروادة، جامعة توبنغن",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

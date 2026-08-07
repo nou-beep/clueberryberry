@@ -1,0 +1,126 @@
+{
+  "slug": "ar-maalim-la-tukhti",
+  "title": "معالم لا تخطئها العين",
+  "language": "ar",
+  "subject": "geography",
+  "topic": "world-landmarks",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 300,
+  "introduction": "عشرة مواضع تعرفها من صورة واحدة، بعضها منحوت في الصخر وبعضها مرفوع من حديد.",
+  "completionMessage": "جولة قصيرة، وعشر بطاقات بريدية.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "كولوسيوم",
+      "clue": "حلبة روما البيضاوية",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "تاج",
+      "clue": "___ محل، في أغرة",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 7,
+      "answer": "اوبرا",
+      "clue": "دار سيدني ذات الأشرعة البيضاء",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 10,
+      "answer": "حرية",
+      "clue": "تمثال أهدته فرنسا لنيويورك",
+      "clueStyle": "historical",
+      "difficultyRating": 1,
+      "explanation": "أهدي التمثال سنة 1886 بمناسبة مئوية الاستقلال الأميركي."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 8,
+      "answer": "سور",
+      "clue": "العظيم منه يمتد في شمال الصين",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "بتراء",
+      "clue": "مدينة الأنباط الوردية في الأردن",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 0,
+      "answer": "بيزا",
+      "clue": "برجها لا يقف مستقيما",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "تدمر",
+      "clue": "أعمدة سورية في قلب البادية",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 6,
+      "answer": "ايفل",
+      "clue": "برج باريس ومهندسه",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "الحمراء",
+      "clue": "قصر غرناطة وأفنيته",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أدرجت البتراء على قائمة التراث العالمي لليونسكو سنة 1985، وهي منحوتة في الصخر الرملي بجنوب الأردن.",
+      "sourceTitle": "اليونسكو — قائمة التراث العالمي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "بني برج إيفل لمعرض باريس الدولي سنة 1889، وكان مقررا تفكيكه بعد عشرين عاما قبل أن ينقذه استعماله في الإرسال اللاسلكي.",
+      "sourceTitle": "شركة برج إيفل — تاريخ البرج",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ميل برج بيزا نتيجة تربة طرية غير متجانسة، وقد خفض الميل بأعمال تثبيت انتهت سنة 2001.",
+      "sourceTitle": "أوبرا بريماتسيالي بيزانا — الهيئة المشرفة على مجمع بيزا",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}
