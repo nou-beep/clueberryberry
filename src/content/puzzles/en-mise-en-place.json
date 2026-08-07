@@ -1,0 +1,125 @@
+{
+  "slug": "en-mise-en-place",
+  "title": "Mise en Place",
+  "language": "en",
+  "subject": "french-culture",
+  "topic": "french-cuisine",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Everything laid out before the heat goes on.",
+  "completionMessage": "Service finished.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "RATATOUILLE",
+      "clue": "Provencal pot of summer vegetables",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 3,
+      "answer": "CROISSANT",
+      "clue": "Crescent of folded, buttered dough",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "BAGUETTE",
+      "clue": "Long loaf listed by UNESCO in 2022",
+      "clueStyle": "trivia",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "TERRINE",
+      "clue": "Coarse pate baked in the dish it is named for",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "SOUFFLE",
+      "clue": "Dish you must reach before it sinks",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 8,
+      "answer": "ECLAIR",
+      "clue": "Choux finger filled with cream",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 0,
+      "answer": "BISTRO",
+      "clue": "Small room, short menu, paper cloths",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "CREPE",
+      "clue": "Thin pancake flipped for Candlemas",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "BRIE",
+      "clue": "Soft cheese from a region east of Paris",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 8,
+      "answer": "ROUX",
+      "clue": "Flour cooked in butter to thicken a sauce",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The artisanal know-how and culture of baguette bread was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2022.",
+      "sourceTitle": "UNESCO — Representative List, artisanal know-how and culture of baguette bread (France, 2022)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Brie de Meaux and Brie de Melun both hold protected designation of origin status in the European Union.",
+      "sourceTitle": "European Commission — eAmbrosia register of geographical indications",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The croissant's laminated form is generally traced to Parisian bakers of the nineteenth century rather than to the Viennese kipferl it is often linked with; the connection is repeated widely but poorly documented.",
+      "sourceTitle": "Oxford Companion to Food — croissant entry",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

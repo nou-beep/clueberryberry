@@ -1,0 +1,125 @@
+{
+  "slug": "en-the-ash-and-the-wolf",
+  "title": "The Ash and the Wolf",
+  "language": "en",
+  "subject": "mythology",
+  "topic": "norse-mythology",
+  "difficulty": "medium",
+  "width": 10,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Nine worlds, one tree, and a great deal of bad weather.",
+  "completionMessage": "The tree still stands.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "YGGDRASIL",
+      "clue": "Ash whose roots reach into three wells",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "RAGNAROK",
+      "clue": "The last battle, foretold rather than remembered",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 2,
+      "answer": "VALKYRIE",
+      "clue": "Chooser of the slain",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "VALHALLA",
+      "clue": "Hall roofed with shields",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "SLEIPNIR",
+      "clue": "Horse with four legs too many",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 0,
+      "answer": "ASGARD",
+      "clue": "Walled home of the Aesir",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "FENRIR",
+      "clue": "Wolf bound by a ribbon no blade could cut",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "RUNES",
+      "clue": "Angular letters cut for carving, not for the pen",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 1,
+      "answer": "MJOLNIR",
+      "clue": "Short-handled hammer forged by dwarves",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "JOTUN",
+      "clue": "Giant on the other side of the wall",
+      "clueStyle": "cross_language",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Most surviving Norse myth reaches us through two Icelandic collections: the Poetic Edda and the Prose Edda compiled by Snorri Sturluson in the early thirteenth century.",
+      "sourceTitle": "Encyclopaedia Britannica — Edda",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The elder futhark runic alphabet has 24 characters and is attested on objects from roughly the second century CE onward.",
+      "sourceTitle": "Encyclopaedia Britannica — Runic alphabet",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Snorri's Prose Edda was written partly as a handbook for poets, which means its tidy accounts of the myths may reflect thirteenth-century arrangement rather than older belief.",
+      "sourceTitle": "Snorri Sturluson, Prose Edda (Faulkes translation, introduction)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

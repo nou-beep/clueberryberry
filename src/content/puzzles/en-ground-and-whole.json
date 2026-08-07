@@ -1,0 +1,125 @@
+{
+  "slug": "en-ground-and-whole",
+  "title": "Ground and Whole",
+  "language": "en",
+  "subject": "food",
+  "topic": "spices",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "Ten jars from the back of the cupboard, most of them older than the recipes that use them.",
+  "completionMessage": "Shelf restocked.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "CARDAMOM",
+      "clue": "Green pods crushed into Gulf coffee",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "TURMERIC",
+      "clue": "Rhizome that stains the chopping board yellow",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "SAFFRON",
+      "clue": "Threads pulled by hand from a crocus",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "PAPRIKA",
+      "clue": "Ground sweet pepper on a Hungarian shelf",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "VANILLA",
+      "clue": "Orchid pod, and a byword for plain",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "NUTMEG",
+      "clue": "Grated over custard, and a trick played through the legs",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "GINGER",
+      "clue": "Root grated into tea for a sore throat",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 0,
+      "answer": "CUMIN",
+      "clue": "Seed doing most of the work in a taco",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "CLOVE",
+      "clue": "Dried flower bud stuck into a ham",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "SUMAC",
+      "clue": "Tart red powder scattered over fattoush",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Saffron is the dried stigmas of Crocus sativus and is harvested by hand, which is the main reason for its price.",
+      "sourceTitle": "Encyclopaedia Britannica — Saffron",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Vanilla comes from the cured seed pods of orchids in the genus Vanilla; hand pollination, developed in the 1840s, made cultivation outside Mexico possible.",
+      "sourceTitle": "Kew Royal Botanic Gardens — Vanilla planifolia plant profile",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Nutmeg and mace come from the same tree, Myristica fragrans: the seed and the red aril wrapped around it.",
+      "sourceTitle": "Kew Royal Botanic Gardens — Myristica fragrans plant profile",
+      "reviewStatus": "verified"
+    }
+  ]
+}

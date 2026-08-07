@@ -1,0 +1,125 @@
+{
+  "slug": "en-refresh-to-load-more",
+  "title": "Refresh to Load More",
+  "language": "en",
+  "subject": "the-2010s",
+  "topic": "2010s-internet",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "The decade the feed learned to scroll forever.",
+  "completionMessage": "You are all caught up.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "INFLUENCER",
+      "clue": "Job description that did not exist in 2005",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "STREAMING",
+      "clue": "Watching without keeping a copy",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "SNAPCHAT",
+      "clue": "App built on messages that delete themselves",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "STORIES",
+      "clue": "Posts with a twenty-four hour shelf life",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "PODCAST",
+      "clue": "Serial audio you subscribe to rather than tune into",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 2,
+      "answer": "SELFIE",
+      "clue": "Oxford's word of the year for 2013",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "EMOJI",
+      "clue": "Pictographs handed to Unicode in 2010",
+      "clueStyle": "cross_language",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 7,
+      "answer": "TWEET",
+      "clue": "Post held to 140 characters until 2017",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 11,
+      "answer": "HASHTAG",
+      "clue": "Pound sign put to work as an index",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "VINE",
+      "clue": "Six looping seconds, discontinued in 2017",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Oxford Dictionaries named selfie its word of the year for 2013.",
+      "sourceTitle": "Oxford University Press — Word of the Year archive",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The first emoji sets were added to the Unicode Standard in version 6.0, released in October 2010.",
+      "sourceTitle": "Unicode Consortium — Unicode 6.0.0 release notes",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Twitter raised its post limit from 140 to 280 characters for most languages in November 2017.",
+      "sourceTitle": "Twitter Inc. company blog — Tweeting Made Easier, November 2017",
+      "reviewStatus": "verified"
+    }
+  ]
+}

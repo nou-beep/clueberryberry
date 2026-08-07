@@ -1,0 +1,126 @@
+{
+  "slug": "en-days-that-are-kept",
+  "title": "Days That Are Kept",
+  "language": "en",
+  "subject": "world-religions",
+  "topic": "rel-festivals",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "Ten observances from the world's calendars, each with its own season and its own way of being marked.",
+  "completionMessage": "The year is filled in.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "VESAK",
+      "clue": "Full-moon day marking the Buddha's birth, awakening and passing",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "DIWALI",
+      "clue": "Autumn festival of lamps kept across South Asia",
+      "clueStyle": "cultural",
+      "difficultyRating": 1,
+      "explanation": "Observed by Hindus, Jains, Sikhs and some Buddhists, with different reasons given in each tradition."
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "RAMADAN",
+      "clue": "Ninth month of the Islamic year, kept by fasting",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "VAISAKHI",
+      "clue": "Punjabi harvest day, and the founding of the Khalsa in 1699",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "HOLI",
+      "clue": "Spring festival marked with coloured powder",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "SUKKOT",
+      "clue": "Week spent in temporary booths",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 3,
+      "answer": "OBON",
+      "clue": "Summer days in Japan for welcoming ancestors home",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 6,
+      "answer": "LENT",
+      "clue": "Forty days of preparation before that feast",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 6,
+      "answer": "EASTER",
+      "clue": "Christian feast whose date moves with the moon",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 11,
+      "answer": "PURIM",
+      "clue": "Jewish day for reading the scroll of Esther",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Islamic calendar is purely lunar, so its months move about eleven days earlier each Gregorian year and Ramadan travels through every season.",
+      "sourceTitle": "Encyclopaedia Britannica — Islamic calendar",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Sikh festival of Vaisakhi commemorates the founding of the Khalsa by Guru Gobind Singh at Anandpur in 1699, and coincides with the Punjabi harvest.",
+      "sourceTitle": "Encyclopaedia Britannica — Baisakhi",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Vesak is observed on a full-moon day in April or May; Theravada and Mahayana communities do not always keep it on the same date.",
+      "sourceTitle": "Encyclopaedia Britannica — Vesak",
+      "reviewStatus": "verified"
+    }
+  ]
+}

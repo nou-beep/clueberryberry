@@ -1,0 +1,125 @@
+{
+  "slug": "en-under-construction",
+  "title": "Under Construction",
+  "language": "en",
+  "subject": "internet-culture",
+  "topic": "early-web",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "The web before it tidied itself up: hand-coded pages, animated dividers, and a spinning envelope for mail.",
+  "completionMessage": "Best viewed at 800 by 600.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "NETSCAPE",
+      "clue": "Browser whose 1995 flotation started the rush",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "GEOCITIES",
+      "clue": "Free homepage host that filed its users into neighbourhoods",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "EMOTICON",
+      "clue": "Face assembled out of punctuation, read sideways",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 3,
+      "answer": "WEBRING",
+      "clue": "Loop of sites joined by next and previous buttons",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 1,
+      "answer": "BANNER",
+      "clue": "Rectangular advertisement stretched across the top",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 7,
+      "answer": "FORUM",
+      "clue": "Board of threaded posts, Roman in name",
+      "clueStyle": "cross_language",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 10,
+      "answer": "USENET",
+      "clue": "Newsgroup system older than the web it outlived on",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "BLOG",
+      "clue": "Online journal, named by clipping a longer compound",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 1,
+      "answer": "DIALUP",
+      "clue": "Connection you could hear negotiating",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "MIDI",
+      "clue": "File format behind those looping homepage tunes",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Netscape Communications went public on 9 August 1995; the share price closed far above its offer price and the day is often cited as the start of the dot-com boom.",
+      "sourceTitle": "US Securities and Exchange Commission — Netscape Communications registration filings, 1995",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Scott Fahlman proposed the sideways smiley on a Carnegie Mellon bulletin board on 19 September 1982; the original post was recovered from backup tapes in 2002.",
+      "sourceTitle": "Carnegie Mellon University — Original Bboard Thread archive",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "GeoCities closed its main service in 2009. Figures for how many pages were lost vary by archive and are not reproduced here as a single number.",
+      "sourceTitle": "Internet Archive — GeoCities collection notes",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

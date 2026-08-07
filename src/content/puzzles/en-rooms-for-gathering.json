@@ -1,0 +1,126 @@
+{
+  "slug": "en-rooms-for-gathering",
+  "title": "Rooms for Gathering",
+  "language": "en",
+  "subject": "world-religions",
+  "topic": "rel-places-of-worship",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Buildings where communities meet, and the names for the parts inside them.",
+  "completionMessage": "Every space accounted for.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "PEW",
+      "clue": "Long bench for a congregation",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "APSE",
+      "clue": "Semicircular recess closing a church's east end",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "MIHRAB",
+      "clue": "Niche marking the direction of prayer in a mosque",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "MANDIR",
+      "clue": "Hindu temple, in Sanskrit and Hindi",
+      "clueStyle": "cross_language",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "NARTHEX",
+      "clue": "Entrance hall before the nave of a church",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 0,
+      "answer": "LANGAR",
+      "clue": "Free kitchen open to all at a gurdwara",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Sikh communities serve a shared vegetarian meal to anyone who comes, seated together on the floor."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "TORII",
+      "clue": "Gateway standing at the approach to a Shinto shrine",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "BIMAH",
+      "clue": "Raised platform for reading in a synagogue",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 6,
+      "answer": "SAHN",
+      "clue": "Open courtyard at the heart of a congregational mosque",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "STUPA",
+      "clue": "Domed mound built over Buddhist relics",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Sikh gurdwaras serve langar, a free communal meal, to visitors of any background; the practice is attributed to Guru Nanak and formalised by later Gurus.",
+      "sourceTitle": "Encyclopaedia Britannica — Langar (Sikhism)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The mihrab appears in mosque architecture from the early eighth century CE; the Prophet's Mosque in Medina is often named as the setting of the first concave example, though the attribution is debated among architectural historians.",
+      "sourceTitle": "Grove Encyclopedia of Islamic Art and Architecture — Mihrab",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "A torii marks the boundary of a Shinto shrine precinct, separating the everyday ground outside from the shrine ground within.",
+      "sourceTitle": "Encyclopaedia Britannica — Torii",
+      "reviewStatus": "verified"
+    }
+  ]
+}

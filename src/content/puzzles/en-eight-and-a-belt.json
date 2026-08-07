@@ -1,0 +1,125 @@
+{
+  "slug": "en-eight-and-a-belt",
+  "title": "Eight and a Belt",
+  "language": "en",
+  "subject": "space",
+  "topic": "the-solar-system",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "A short circuit of the neighbourhood, starting close to home.",
+  "completionMessage": "Back where you started.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "ASTEROID",
+      "clue": "Rocky body of the main belt",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 3,
+      "answer": "ECLIPSE",
+      "clue": "One body slipping into another's shadow",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 0,
+      "answer": "SATURN",
+      "clue": "Sixth planet out",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 3,
+      "answer": "CRATER",
+      "clue": "Bowl punched out by an impact",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "COMET",
+      "clue": "Icy visitor that grows a tail near the sun",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 4,
+      "answer": "VENUS",
+      "clue": "Planet that spins the wrong way",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "RINGS",
+      "clue": "Ice and rubble circling a gas giant",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "MARS",
+      "clue": "Rusty next-door neighbour",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 8,
+      "answer": "MOON",
+      "clue": "Natural satellite",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "ORBIT",
+      "clue": "Path one body keeps around another",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Venus rotates in the opposite direction to most planets in the solar system, so the sun there rises in the west.",
+      "sourceTitle": "NASA Solar System Exploration — Venus facts",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Saturn is not the only ringed planet: Jupiter, Uranus and Neptune all have ring systems, though far fainter ones.",
+      "sourceTitle": "NASA Science — Planetary rings overview",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Most known asteroids orbit in the main belt between Mars and Jupiter, but the total mass of the belt is less than that of the Moon.",
+      "sourceTitle": "NASA Science — Asteroids overview",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "en-clear-of-the-branch",
+  "title": "Clear of the Branch",
+  "language": "en",
+  "subject": "animals",
+  "topic": "birds",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Ten birds and the words that follow them about.",
+  "completionMessage": "All perched.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "PENGUIN",
+      "clue": "Swimmer permanently in evening dress",
+      "clueStyle": "wordplay",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "MIGRATE",
+      "clue": "Leave for the season, and mean to come back",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 1,
+      "answer": "PLUMAGE",
+      "clue": "A bird's whole coat, feather by feather",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "PUFFIN",
+      "clue": "Cliff nester with a striped summer bill",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "TOUCAN",
+      "clue": "Tropical bird whose oversized bill sheds heat",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 8,
+      "answer": "HERON",
+      "clue": "Long-legged stander at the water's edge",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "PREEN",
+      "clue": "Tidy the feathers, or admire oneself",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "RAVEN",
+      "clue": "Black corvid kept at the Tower of London",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 7,
+      "answer": "TALON",
+      "clue": "Hooked claw of a hunter",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 11,
+      "answer": "NEST",
+      "clue": "Cup of twigs",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "A toucan's bill is a heat exchanger: blood flow through it can be adjusted to release or conserve body heat.",
+      "sourceTitle": "Science 325, 468 (2009) — Tattersall, Andrade & Abe, 'Heat Exchange from the Toucan Bill'",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Atlantic puffins carry a brightly coloured outer bill plate only in the breeding season, shedding it after nesting.",
+      "sourceTitle": "RSPB — Puffin species guide",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Arctic tern's annual migration is the longest known of any bird, though published estimates of the distance differ substantially between tracking studies.",
+      "sourceTitle": "PNAS 107, 2078 (2010) — Egevang et al., tracking of Arctic terns",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

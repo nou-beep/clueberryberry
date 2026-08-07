@@ -1,0 +1,126 @@
+{
+  "slug": "en-odds-and-ends",
+  "title": "Odds and Ends",
+  "language": "en",
+  "subject": "general-knowledge",
+  "topic": "gk-mixed-bag",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "No theme, on purpose. A rice dish sits next to a noble gas and neither apologises.",
+  "completionMessage": "Round over. Pencils down.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "MERIDIAN",
+      "clue": "Longitude line, or the hour a sundial calls noon",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "ORINOCO",
+      "clue": "Venezuelan river that lent its name to a 1988 Enya hit",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "QUASAR",
+      "clue": "Blazing galactic core, first recognised as such in 1963",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "Maarten Schmidt identified the redshift of 3C 273 in 1963."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "SAHARA",
+      "clue": "Desert whose Arabic name is simply the plural of desert",
+      "clueStyle": "cross_language",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "OCTAVE",
+      "clue": "Eight steps up, and back where you started",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "PAELLA",
+      "clue": "Valencian rice cooked in a wide shallow pan",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "TANGO",
+      "clue": "Dance from the River Plate, and T on the radio",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "KRYPTON",
+      "clue": "Noble gas holding number 36",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 5,
+      "answer": "HELIX",
+      "clue": "Spiral staircase, structurally speaking",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "BANJO",
+      "clue": "Five strings stretched over a drumhead",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Krypton is element 36; from 1960 to 1983 the metre was defined by a wavelength of light emitted by krypton-86.",
+      "sourceTitle": "BIPM — The International System of Units (SI Brochure), historical definitions of the metre",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The quasar 3C 273 was identified in 1963 by Maarten Schmidt, who recognised its unusual spectrum as a large redshift.",
+      "sourceTitle": "Nature 197, 1040 (1963) — M. Schmidt, '3C 273: A Star-Like Object with Large Red-Shift'",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Enya's 'Orinoco Flow' was released in 1988 and takes its name from the river as well as from Orinoco Studios in London.",
+      "sourceTitle": "Official Charts Company — Enya chart history",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "en-borrowed-and-bent",
+  "title": "Borrowed and Bent",
+  "language": "en",
+  "subject": "language",
+  "topic": "etymology",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Where words come from, and what they picked up on the way.",
+  "completionMessage": "Every root traced.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "SANDWICH",
+      "clue": "Lunch named for an eighteenth-century earl",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "SERENDIPITY",
+      "clue": "Happy accident, coined by Horace Walpole in 1754 after a Persian tale",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "PALINDROME",
+      "clue": "Reads the same on the way back",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "PHONEME",
+      "clue": "Smallest sound that can change a meaning",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "CALQUE",
+      "clue": "Loan translated piece by piece rather than borrowed whole",
+      "clueStyle": "definition",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "UMLAUT",
+      "clue": "Two dots that shift a German vowel forward",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 2,
+      "answer": "ETYMON",
+      "clue": "Ancestor form a modern word descends from",
+      "clueStyle": "definition",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 2,
+      "answer": "LEXICON",
+      "clue": "A language's whole stock of words",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 11,
+      "answer": "SCHWA",
+      "clue": "Lazy vowel at the end of sofa",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "ROBOT",
+      "clue": "Word Karel Capek's brother supplied for a 1920 play",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Josef Capek suggested the term for R.U.R.; it comes from a Czech word for forced labour."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Horace Walpole coined serendipity in a letter of 28 January 1754, referring to the Persian tale of the three princes of Serendip.",
+      "sourceTitle": "Oxford English Dictionary — serendipity, etymology note",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The word robot entered English from Karel Capek's 1920 play R.U.R.; Capek credited his brother Josef with the suggestion, based on the Czech robota, forced labour.",
+      "sourceTitle": "Oxford English Dictionary — robot, etymology note",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The story that the Earl of Sandwich called for meat between bread so as not to leave the gaming table comes from Pierre-Jean Grosley's 1772 account and cannot be independently confirmed.",
+      "sourceTitle": "Pierre-Jean Grosley, A Tour to London (1772)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

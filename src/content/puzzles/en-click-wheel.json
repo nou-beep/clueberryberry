@@ -1,0 +1,125 @@
+{
+  "slug": "en-click-wheel",
+  "title": "Click Wheel",
+  "language": "en",
+  "subject": "the-2000s",
+  "topic": "2000s-tech",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Gadgets from a decade that carried a separate device for everything.",
+  "completionMessage": "Battery still at full.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "BLACKBERRY",
+      "clue": "Fruit-named handset with a full keyboard",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 6,
+      "answer": "NAPSTER",
+      "clue": "File-sharing service ordered offline in 2001",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 6,
+      "answer": "PLASMA",
+      "clue": "Heavy flat screen that lost out to LCD",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "MYSPACE",
+      "clue": "Profile page that made you rank your friends",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 6,
+      "answer": "WEBCAM",
+      "clue": "Little eye clipped to the monitor",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 8,
+      "answer": "RAZR",
+      "clue": "Slim Motorola flip phone of 2004, vowels omitted",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "ZUNE",
+      "clue": "Microsoft's 2006 answer to a music player",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "PALM",
+      "clue": "Maker whose Pilot organiser took a stylus",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "IPOD",
+      "clue": "Pocket player steered with a thumb",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "TIVO",
+      "clue": "Box that let you pause live television",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Apple announced the first iPod on 23 October 2001, with a 5 GB hard drive and a mechanical scroll wheel.",
+      "sourceTitle": "Apple Newsroom — Apple Presents iPod, 23 October 2001",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Napster's original service was shut down in July 2001 following injunctions in A&M Records, Inc. v. Napster, Inc.",
+      "sourceTitle": "US Court of Appeals for the Ninth Circuit — A&M Records, Inc. v. Napster, Inc., 239 F.3d 1004 (2001)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "MySpace was the most visited social networking site in the United States for parts of 2006 and 2007 by some measurement firms; rankings from that period differ by methodology.",
+      "sourceTitle": "comScore Media Metrix monthly rankings, 2006-2007",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

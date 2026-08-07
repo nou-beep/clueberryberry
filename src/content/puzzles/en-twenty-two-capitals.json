@@ -1,0 +1,125 @@
+{
+  "slug": "en-twenty-two-capitals",
+  "title": "Twenty-Two Capitals",
+  "language": "en",
+  "subject": "arab-world",
+  "topic": "arab-capitals",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "Ten seats of government from the Atlantic to the Gulf, described by where they stand.",
+  "completionMessage": "Every capital placed.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "NOUAKCHOTT",
+      "clue": "Mauritanian capital built up from a village in the late 1950s",
+      "clueStyle": "historical",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "KHARTOUM",
+      "clue": "Capital at the meeting of the Blue and White Niles",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "BAGHDAD",
+      "clue": "Capital founded on the Tigris in 762",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "BEIRUT",
+      "clue": "Lebanese capital on a promontory",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "MUSCAT",
+      "clue": "Omani capital wedged between bare mountains and the sea",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "MANAMA",
+      "clue": "Bahraini capital on an island",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "RIYADH",
+      "clue": "Saudi capital in the middle of the Najd plateau",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "ALGIERS",
+      "clue": "Capital rising in tiers above its bay",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 2,
+      "answer": "TUNIS",
+      "clue": "Capital beside the ruins of Carthage",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "DOHA",
+      "clue": "Qatari capital on a Gulf bay",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Casbah of Algiers was inscribed on the UNESCO World Heritage List in 1992.",
+      "sourceTitle": "UNESCO World Heritage Centre — Kasbah of Algiers",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Baghdad was founded as a round city on the Tigris in 762 CE by the Abbasid caliph al-Mansur.",
+      "sourceTitle": "Encyclopaedia Britannica — Baghdad, history",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Nouakchott was a small settlement when it was designated as Mauritania's capital in the late 1950s; sources differ on its population at the time and on the exact founding date of the new city.",
+      "sourceTitle": "Encyclopaedia Britannica — Nouakchott",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

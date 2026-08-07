@@ -1,0 +1,125 @@
+{
+  "slug": "en-named-by-a-critic",
+  "title": "Named by a Critic",
+  "language": "en",
+  "subject": "art",
+  "topic": "art-movements",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Several of these labels began as insults. The painters kept them anyway.",
+  "completionMessage": "The hang is finished.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "FAUVISM",
+      "clue": "Movement a reviewer named for wild beasts",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "SURREALISM",
+      "clue": "Breton wrote its manifesto in 1924",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "GOUACHE",
+      "clue": "Opaque cousin of watercolour",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "BAUHAUS",
+      "clue": "German design school shut down in 1933",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "IMPASTO",
+      "clue": "Paint laid thick enough to throw a shadow",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "TRIPTYCH",
+      "clue": "Altarpiece that folds in three",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "CUBISM",
+      "clue": "Braque and Picasso's broken planes",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "SFUMATO",
+      "clue": "Leonardo's edges, dissolved into smoke",
+      "clueStyle": "cross_language",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "ROCOCO",
+      "clue": "Shells, scrolls and pale gilding",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "DADA",
+      "clue": "Zurich reaction of 1916 to a war and a language",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The label fauves, wild beasts, comes from critic Louis Vauxcelles writing about the 1905 Salon d'Automne in Paris.",
+      "sourceTitle": "Tate — Art term: Fauvism",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Andre Breton published the first Manifesto of Surrealism in Paris in 1924.",
+      "sourceTitle": "Museum of Modern Art — Surrealism collection notes",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Accounts of how the name Dada was chosen differ among the group's own members, and no single version can be treated as settled.",
+      "sourceTitle": "Tate — Art term: Dada",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "en-round-two",
+  "title": "Round Two",
+  "language": "en",
+  "subject": "general-knowledge",
+  "topic": "gk-mixed-bag",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "The harder half of the quiz, where the sweet course and the periodic table share a table.",
+  "completionMessage": "Filled in, corner to corner.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "ZEPPELIN",
+      "clue": "Rigid airship named after the count who built it",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "MARZIPAN",
+      "clue": "Almond paste moulded into little fruits",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "LIMERICK",
+      "clue": "Irish city, and five lines that rarely behave",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "ANTIMONY",
+      "clue": "Element 51, long ground for eye cosmetics",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 3,
+      "answer": "SEXTANT",
+      "clue": "Brass instrument for taking a star's altitude",
+      "clueStyle": "misdirection",
+      "difficultyRating": 4,
+      "explanation": "Brass, but not a brass instrument — a navigator's angle-measuring device."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "ISOTOPE",
+      "clue": "Same element, different neutron count",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "TUNDRA",
+      "clue": "Treeless ground over permanently frozen soil",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 10,
+      "answer": "CARAVEL",
+      "clue": "Small Iberian ship rigged for sailing close to the wind",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 3,
+      "answer": "PLIMSOLL",
+      "clue": "Mark on a hull showing how deep it may safely sit",
+      "clueStyle": "definition",
+      "difficultyRating": 5,
+      "explanation": "Named for Samuel Plimsoll, whose campaigning led to the UK Merchant Shipping Act of 1876."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "OKAPI",
+      "clue": "Congolese forest animal with striped hindquarters",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The load line marking on merchant hulls is named after Samuel Plimsoll, whose campaign preceded the United Kingdom's Merchant Shipping Act of 1876.",
+      "sourceTitle": "UK Parliament — Merchant Shipping Act 1876 (legislation record)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The okapi was described by Western science only in 1901, though it was long known to Mbuti communities in the Ituri forest.",
+      "sourceTitle": "IUCN Red List — Okapia johnstoni",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Antimony compounds have been used as eye cosmetics in North Africa and West Asia since antiquity; how consistently kohl was antimony-based rather than lead-based varies by period and region.",
+      "sourceTitle": "British Museum collection notes on ancient cosmetics",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "en-between-atlas-and-sea",
+  "title": "Between Atlas and Sea",
+  "language": "en",
+  "subject": "morocco",
+  "topic": "moroccan-cities",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Ten Moroccan towns, ordered by nothing except the way the letters fit.",
+  "completionMessage": "The map is filled in.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "CHEFCHAOUEN",
+      "clue": "Rif town whose lanes are washed in blue",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 6,
+      "answer": "OUARZAZATE",
+      "clue": "Desert-edge town with film studios on its outskirts",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "ESSAOUIRA",
+      "clue": "Windy Atlantic port inside eighteenth-century ramparts",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 1,
+      "answer": "TANGIER",
+      "clue": "Port looking across the strait at Spain",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "TETOUAN",
+      "clue": "Northern city carrying a strong Andalusi imprint",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 9,
+      "answer": "MEKNES",
+      "clue": "Imperial city of Moulay Ismail's granaries and stables",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "AGADIR",
+      "clue": "Southern beach city rebuilt after the 1960 earthquake",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "MEDINA",
+      "clue": "Walled old quarter, whatever the town",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "RABAT",
+      "clue": "Administrative capital at the mouth of the Bouregreg",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "FEZ",
+      "clue": "City of the Qarawiyyin, and a brimless hat",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The medina of Tetouan was inscribed on the UNESCO World Heritage List in 1997, cited for its Andalusi architecture.",
+      "sourceTitle": "UNESCO World Heritage Centre — Medina of Tetouan",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Agadir was largely destroyed by an earthquake on 29 February 1960 and rebuilt on a new site to the south.",
+      "sourceTitle": "USGS Earthquake Hazards Program — Significant earthquakes archive, Agadir 1960",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Essaouira's fortified town was laid out from the 1760s to a plan drawing on European military engineering; the extent of any single designer's role is debated by historians.",
+      "sourceTitle": "UNESCO World Heritage Centre — Medina of Essaouira (formerly Mogador)",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

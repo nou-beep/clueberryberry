@@ -1,0 +1,130 @@
+{
+  "slug": "en-hands-that-copied",
+  "title": "The Hands That Copied",
+  "language": "en",
+  "subject": "world-religions",
+  "topic": "rel-sacred-texts",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Scriptures, and the work of carrying them forward: languages, scripts, scribes and rules of recitation.",
+  "completionMessage": "The grid is complete.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "TAJWID",
+      "clue": "Rules governing how the Qur'an is recited aloud",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "TORAH",
+      "clue": "Scroll read through in a yearly cycle in synagogue",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "The Five Books of Moses, handwritten on parchment and read in weekly portions.",
+      "sourceNotes": "Encyclopaedia Britannica, entry 'Torah'."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "MASORETES",
+      "clue": "Scribes of Tiberias who fixed the Hebrew vowel points",
+      "clueStyle": "historical",
+      "difficultyRating": 5,
+      "sourceNotes": "Encyclopaedia Britannica, entry 'Masoretic text'."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "VEDAS",
+      "clue": "Four Sanskrit collections at the root of Hindu liturgy",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "Rigveda, Yajurveda, Samaveda and Atharvaveda, transmitted orally long before they were written."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "AVESTA",
+      "clue": "Zoroastrian scripture preserved in an old Iranian language",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 7,
+      "answer": "PALI",
+      "clue": "Language of the Theravada canon",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "SUTRA",
+      "clue": "Buddhist discourse whose Sanskrit name also means thread",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 10,
+      "answer": "HAFIZ",
+      "clue": "One who holds the whole Qur'an in memory",
+      "clueStyle": "phrase",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 1,
+      "answer": "GURMUKHI",
+      "clue": "Script in which Sikh scripture is written",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Developed in Punjab; the name is usually glossed as 'from the mouth of the Guru'."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "CODEX",
+      "clue": "Bound leaves that replaced the roll in early Christian copying",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Masoretes of Tiberias added vowel and cantillation marks to the consonantal Hebrew text between roughly the seventh and tenth centuries CE.",
+      "sourceTitle": "Encyclopaedia Britannica — Masoretic text",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The Pali Canon is traditionally said to have been committed to writing in Sri Lanka in the first century BCE. The date rests on later chronicle evidence rather than contemporary documents, so it is recorded here as tradition, not as settled fact.",
+      "sourceTitle": "Mahavamsa, Sinhalese chronicle (as discussed in Britannica, 'Pali canon')",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "The Guru Granth Sahib is written in Gurmukhi script and includes compositions by Sikh Gurus alongside Hindu and Muslim devotional poets.",
+      "sourceTitle": "Encyclopaedia Britannica — Adi Granth",
+      "reviewStatus": "verified"
+    }
+  ]
+}

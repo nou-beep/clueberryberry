@@ -1,0 +1,127 @@
+{
+  "slug": "en-behind-the-camera",
+  "title": "Behind the Camera",
+  "language": "en",
+  "subject": "movies-and-tv",
+  "topic": "directors",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Ten people who decided where the camera goes, and one word for the idea that it matters.",
+  "completionMessage": "Cut, print.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 1,
+      "answer": "SPIELBERG",
+      "clue": "Steven whose shark was mostly kept offscreen",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "HITCHCOCK",
+      "clue": "He gave himself a few silent seconds in most of his own films",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "KUROSAWA",
+      "clue": "Akira who filmed the same crime four ways",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "Rashomon (1950) tells one incident through four contradictory accounts."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 3,
+      "answer": "COPPOLA",
+      "clue": "Surname shared by the maker of The Godfather and the maker of Lost in Translation",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "AUTEUR",
+      "clue": "Critics' term for a filmmaker treated as the work's writer",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "VARDA",
+      "clue": "Agnes of the New Wave, later found gleaning",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "Her 2000 documentary The Gleaners and I followed people salvaging what markets discard."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "CHAHINE",
+      "clue": "Youssef of Alexandria, a founder of Egyptian art cinema",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 11,
+      "answer": "SCORSESE",
+      "clue": "Martin who keeps returning to New York",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "FELLINI",
+      "clue": "Federico of La Dolce Vita",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 5,
+      "answer": "KUBRICK",
+      "clue": "Stanley who shot interiors by candlelight for Barry Lyndon",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Youssef Chahine received the 50th Anniversary Prize at the Cannes Film Festival in 1997 for his body of work.",
+      "sourceTitle": "Festival de Cannes — official awards archive, 1997",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Agnes Varda's Cleo from 5 to 7 (1962) runs close to real time, following its subject over about ninety minutes of a single afternoon.",
+      "sourceTitle": "Criterion Collection — Cleo from 5 to 7, film notes",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Rashomon (1950) presents a single incident through four incompatible accounts; the film's title has since become shorthand for that structure.",
+      "sourceTitle": "Criterion Collection — Rashomon, film notes",
+      "reviewStatus": "verified"
+    }
+  ]
+}

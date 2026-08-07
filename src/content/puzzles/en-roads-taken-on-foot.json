@@ -1,0 +1,126 @@
+{
+  "slug": "en-roads-taken-on-foot",
+  "title": "Roads Taken on Foot",
+  "language": "en",
+  "subject": "world-religions",
+  "topic": "rel-pilgrimage",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Journeys made as devotion, and the cities, mountains and rites that grew along the way.",
+  "completionMessage": "All routes closed.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "KARBALA",
+      "clue": "Iraqi city that draws Shi'a visitors at Arba'in",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "SANTIAGO",
+      "clue": "Galician city at the end of the Camino",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 7,
+      "answer": "ATHOS",
+      "clue": "Greek peninsula governed by its own monastic community",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 10,
+      "answer": "LOURDES",
+      "clue": "Town in the French Pyrenees visited by the sick since 1858",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "TIRTHA",
+      "clue": "Sanskrit word for a ford, used of any place worth travelling to",
+      "clueStyle": "cross_language",
+      "difficultyRating": 5,
+      "explanation": "Literally a river crossing; extended to sacred sites where a crossing of another kind is made."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "AMRITSAR",
+      "clue": "Punjabi city built around a pool and a golden shrine",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "HAJJ",
+      "clue": "Journey to Mecca required once of those able",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "KUMBH",
+      "clue": "Riverside gathering held in rotation at Prayagraj, Haridwar, Nashik and Ujjain",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 1,
+      "answer": "LUMBINI",
+      "clue": "Nepali site named in tradition as the Buddha's birthplace",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "IHRAM",
+      "clue": "Consecrated state, and the two white cloths that mark it",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "The Kumbh Mela rotates between Prayagraj, Haridwar, Nashik and Ujjain on a cycle set by astronomical position; crowd estimates for individual gatherings vary widely between sources and are not reproduced here.",
+      "sourceTitle": "UNESCO Representative List of the Intangible Cultural Heritage of Humanity — Kumbh Mela (2017)",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Mount Athos is an autonomous monastic region within Greece, governed from Karyes by representatives of its twenty monasteries.",
+      "sourceTitle": "UNESCO World Heritage Centre — Mount Athos",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Lumbini in Nepal was inscribed as a World Heritage site in 1997 as the traditionally identified birthplace of Siddhartha Gautama.",
+      "sourceTitle": "UNESCO World Heritage Centre — Lumbini, the Birthplace of the Lord Buddha",
+      "reviewStatus": "verified"
+    }
+  ]
+}

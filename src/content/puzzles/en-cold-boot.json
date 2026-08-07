@@ -1,0 +1,126 @@
+{
+  "slug": "en-cold-boot",
+  "title": "Cold Boot",
+  "language": "en",
+  "subject": "technology",
+  "topic": "computing-history",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "From rewired panels to the first packets, by way of a language nobody expected to outlive us.",
+  "completionMessage": "Machine halted.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "TRANSISTOR",
+      "clue": "1947 invention that put the vacuum tube out of work",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "LOVELACE",
+      "clue": "Ada whose notes on the Analytical Engine ran to more than the paper she annotated",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "ARPANET",
+      "clue": "Network whose first host-to-host message crashed halfway",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "In October 1969 the first message from UCLA to Stanford stopped after two letters."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 11,
+      "answer": "KERNEL",
+      "clue": "Innermost layer of an operating system",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "FLOPPY",
+      "clue": "Disk that kept its name long after it stopped bending",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "BINARY",
+      "clue": "Counting system with nowhere to go after one",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "ENIAC",
+      "clue": "Machine unveiled in 1946 and programmed by moving cables",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 1,
+      "answer": "COBOL",
+      "clue": "Business language still running payrolls it was written for in 1959",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "MODEM",
+      "clue": "Device that turned data into noise and back",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 1,
+      "answer": "UNIX",
+      "clue": "Bell Labs system whose first manual appeared in 1971",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Ada Lovelace's 1843 notes on Menabrea's paper about the Analytical Engine are roughly three times the length of the paper itself.",
+      "sourceTitle": "Science Museum Group — Ada Lovelace collection notes",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The first ARPANET message was sent from UCLA to the Stanford Research Institute on 29 October 1969; the system crashed after the first two characters.",
+      "sourceTitle": "UCLA Samueli School of Engineering — Internet history archive",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "The transistor was demonstrated at Bell Labs in December 1947 by Bardeen, Brattain and Shockley, who shared the 1956 Nobel Prize in Physics for it.",
+      "sourceTitle": "NobelPrize.org — The Nobel Prize in Physics 1956",
+      "reviewStatus": "verified"
+    }
+  ]
+}
