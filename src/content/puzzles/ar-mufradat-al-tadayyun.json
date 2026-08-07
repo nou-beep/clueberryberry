@@ -1,0 +1,144 @@
+{
+  "slug": "ar-mufradat-al-tadayyun",
+  "title": "كلمات تتنقل",
+  "language": "ar",
+  "subject": "world-religions",
+  "topic": "rel-vocabulary",
+  "difficulty": "hard",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "أحد عشر مصطلحا، بعضها يتكرر بين التقاليد وبعضها يخص واحدا منها.",
+  "completionMessage": "أغلق المعجم.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "قبلة",
+      "clue": "جهة يستدير إليها المسلمون في صلاتهم",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "تحدد بالحساب الفلكي أو الجغرافي، وتشير إليها المحاريب في المساجد."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "زهد",
+      "clue": "تقليل الحاجات عمدا، خصلة تلتقي عندها تقاليد كثيرة",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "التقشف الاختياري ممارسة تتكرر في المسيحية والإسلام والبوذية والجاينية بصور مختلفة."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "دارما",
+      "clue": "النظام والواجب معا، بحسب موقع المرء في العالم",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "مفهوم مركزي في الهندوسية والبوذية والجاينية، يجمع معاني القانون الكوني والواجب الشخصي."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "رهبنة",
+      "clue": "حياة جماعية بقاعدة مكتوبة وأوقات موزعة",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "كتب البندكتيون قاعدة تنظم ساعات الصلاة والعمل، ولها نظائر في السانغا البوذية."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "معمودية",
+      "clue": "دخول بالماء إلى الجماعة المسيحية",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "طقس القبول في الكنيسة، ويؤدى بالغمر أو بالرش بحسب الكنائس."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "تناسخ",
+      "clue": "انتقال الروح إلى جسد جديد، كما تصفه تقاليد الهند",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "تعبير عربي عن السمسارا، أي دورة الولادة والموت المتكررة في الهندوسية والبوذية والجاينية."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "نرفانا",
+      "clue": "انطفاء، بحسب المعنى الحرفي للكلمة السنسكريتية",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "الجذر السنسكريتي يفيد إطفاء الشعلة، ويصف المصطلح البوذي انتهاء دورة المعاناة."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "كارما",
+      "clue": "الفعل بالسنسكريتية، ثم صار اسما لأثره",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "أصل الكلمة السنسكريتي يعني العمل، ويشير المصطلح في تقاليد الهند إلى ما يترتب على العمل من أثر."
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 5,
+      "answer": "ذكر",
+      "clue": "ترديد صيغ بصوت أو بقلب في حلقات الصوفية",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "ممارسة إسلامية تقوم على تكرار عبارات ثابتة، وتؤدى جماعة في الطرق الصوفية."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "كوشير",
+      "clue": "صالح للأكل بحسب الشريعة اليهودية",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الكلمة العبرية تعني الملائم أو الصالح، وتصف الأطعمة المستوفية لأحكام الكشروت."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "لانغار",
+      "clue": "مطبخ يجلس فيه الجميع على الأرض في صف واحد",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "المطبخ الجماعي الملحق ببيوت السيخ، يقدم الطعام لكل زائر مهما كان دينه أو مكانته."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "كلمة نرفانا في أصلها السنسكريتي مبنية على معنى الانطفاء، كانطفاء شعلة، وهي صورة تتكرر في النصوص البوذية القديمة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Nirvana",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "وضعت قاعدة القديس بندكت في القرن السادس الميلادي، وقسمت يوم الرهبان بين الصلاة والعمل والقراءة، فصارت أساسا للرهبنة اللاتينية.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Rule of St. Benedict",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تشترك كلمات مثل دارما وكارما بين الهندوسية والبوذية والجاينية، غير أن كل تقليد يعطيها مضمونا خاصا به، فلا يصح نقل تعريف واحد بينها.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

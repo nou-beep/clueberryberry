@@ -1,0 +1,127 @@
+{
+  "slug": "ar-khaltat-al-yawm",
+  "title": "خلطة اليوم",
+  "language": "ar",
+  "subject": "general-knowledge",
+  "topic": "gk-mixed-bag",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "لا موضوع لهذه الشبكة. آلة موسيقية بجوار حيوان بجوار صخرة.",
+  "completionMessage": "خرجت من عشرة أبواب مختلفة.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "مغناطيس",
+      "clue": "يجذب الحديد ولا يجذب النحاس",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "الحديد من المواد الحديدية المغناطيسية، أما النحاس فلا ينجذب لأنه ليس منها."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "فيينا",
+      "clue": "عاصمة على الدانوب اشتهرت بالفالس",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "كنغر",
+      "clue": "يحمل صغيره في جيب",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "انزيم",
+      "clue": "بروتين يسرع التفاعل ولا يستهلك فيه",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "يعمل عمل الوسيط الحيوي: يخفض طاقة التنشيط ويخرج من التفاعل كما دخل."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "رخام",
+      "clue": "جير تعرض لحرارة وضغط فصار لامعا",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "صخر متحول أصله حجر جيري، أعاد الضغط والحرارة تبلور معدن الكالسيت فيه."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "ايقاع",
+      "clue": "ما تصفق له اليد قبل أن يفهمه الرأس",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 4,
+      "answer": "اوبرا",
+      "clue": "مسرح لا يقال فيه شيء إلا غناء",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "تشيلو",
+      "clue": "وتري يعزف جالسا وبين الركبتين",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 4,
+      "answer": "بوصلة",
+      "clue": "إبرة لا تعرف إلا اتجاها واحدا",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "شلال",
+      "clue": "حيث يفقد النهر أعصابه",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "الرخام صخر متحول ينشأ من الحجر الجيري حين يتعرض لحرارة وضغط يعيدان تبلور معدن الكالسيت فيه.",
+      "sourceTitle": "هيئة المسح الجيولوجي الأمريكية — مادة Marble",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "الإنزيمات محفزات حيوية تخفض طاقة التنشيط اللازمة للتفاعل، وتخرج منه دون أن تستهلك، فيمكن للجزيء الواحد أن يعمل مرات كثيرة.",
+      "sourceTitle": "المعاهد الوطنية الأمريكية للصحة — معجم المصطلحات الوراثية",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يعزف التشيلو جالسا، ويستند على الأرض بعمود معدني يسمى الشوكة، أضيف إلى الآلة في القرن التاسع عشر بعدما كان العازفون يمسكونها بين الساقين.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "ar-min-al-simam-ila-al-jayb",
+  "title": "من الصمام إلى الجيب",
+  "language": "ar",
+  "subject": "technology",
+  "topic": "computing-history",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "سبعون سنة اختصرت غرفة كاملة في شيء يوضع في الجيب.",
+  "completionMessage": "أغلقت الآلة على آخر سطر.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "بايت",
+      "clue": "ثماني خانات ثنائية مجتمعة",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "الوحدة القياسية تساوي ثماني بتات، وتكفي لتمثيل حرف لاتيني واحد في الترميز القديم."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "ترانزستور",
+      "clue": "اخترع في مختبرات بل سنة 1947 فأزاح الصمام المفرغ",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "طوره باردين وبراتين وشوكلي في مختبرات بل، ونالوا عنه جائزة نوبل في الفيزياء سنة 1956."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "ثنائي",
+      "clue": "نظام عد لا يعرف غير الصفر والواحد",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "شريحة",
+      "clue": "سليكون صغير عليه ملايين المفاتيح",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 7,
+      "answer": "فأرة",
+      "clue": "عرضها دوغلاس إنغلبارت سنة 1968 وكانت من خشب",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "النموذج الأول كان صندوقا خشبيا بعجلتين، عرض في مؤتمر بسان فرانسيسكو عرف لاحقا بالعرض الأم."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 1,
+      "answer": "حاسوب",
+      "clue": "شغل أوله غرفة، ويسع آخره كفا",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "خوارزمية",
+      "clue": "خطوات مرتبة تنتهي حتما إلى جواب، والاسم يعود إلى عالم رياضيات من القرن التاسع",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "الكلمة الأوروبية algorithm محرفة عن اسم أبي جعفر محمد بن موسى، نسبة إلى إقليم خوارزم."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "معالج",
+      "clue": "قلب الجهاز، وتقاس سرعته بالغيغاهرتز",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "بطاقة",
+      "clue": "ورقة مثقبة كانت تحمل البرنامج قبل الأقراص",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "استعملت البطاقات المثقبة في تعداد سكان الولايات المتحدة سنة 1890، ثم في الحواسيب حتى السبعينيات."
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 4,
+      "answer": "برمجة",
+      "clue": "كتابة تعليمات لمن لا يفهم إلا الحرفية",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أعلنت مختبرات بل عن الترانزستور سنة 1947، ونال جون باردين ووالتر براتين وويليام شوكلي جائزة نوبل في الفيزياء سنة 1956 عن العمل نفسه.",
+      "sourceTitle": "مؤسسة نوبل — جائزة الفيزياء 1956",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "استعملت البطاقات المثقبة في معالجة نتائج تعداد سكان الولايات المتحدة سنة 1890 بآلة هيرمان هوليريث، وهي الشركة التي صارت لاحقا جزءا من آي بي إم.",
+      "sourceTitle": "مكتب تعداد الولايات المتحدة — تاريخ التعداد",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "عرض دوغلاس إنغلبارت أول فأرة حاسوب في مؤتمر بسان فرانسيسكو في كانون الأول 1968، ضمن عرض عرف لاحقا باسم أم العروض.",
+      "sourceTitle": "معهد ستانفورد للأبحاث — أرشيف إنغلبارت",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "slug": "ar-thalathat-huruf",
+  "title": "ثلاثة أحرف تكفي",
+  "language": "ar",
+  "subject": "language",
+  "topic": "etymology",
+  "difficulty": "hard",
+  "width": 9,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "كيف تنجب ثلاثة أحرف أسرة كاملة من الكلمات، ومن أين تدخل الغريبة عليها.",
+  "completionMessage": "عادت الكلمات إلى أصولها.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "جذر",
+      "clue": "ما تعود إليه كل كلمة في المعجم العربي",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "الأصل الثلاثي أو الرباعي الذي تشتق منه سائر الصيغ."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "وزن",
+      "clue": "قالب تصب فيه الأصول فتخرج فعلا أو اسما",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الصيغ الصرفية تركب الحروف الأصلية في أنماط ثابتة تعطيها معناها الإضافي."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "مصدر",
+      "clue": "اسم الحدث مجردا من الزمن",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "مثل الكتابة والجلوس، يدل على الحدث دون أن يحدد وقته."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "معجم",
+      "clue": "لسان العرب واحد منه",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "لسان العرب لابن منظور، أنجز في أواخر القرن الثالث عشر الميلادي، من أوسع كتب اللغة العربية."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "نحت",
+      "clue": "أن تصير عبارة كاملة كلمة واحدة، كالحوقلة",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "الحوقلة منحوتة من عبارة كاملة، وكذلك البسملة والحمدلة."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "ترادف",
+      "clue": "أن يكون للأسد ألف اسم",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "تعدد الألفاظ للمعنى الواحد، وقد ألفت في أسماء الأسد والسيف كتب مستقلة."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "اشتقاق",
+      "clue": "أخذ لفظ من لفظ مع اتفاق في المعنى والحروف",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الباب الذي تتولد به المفردات في العربية، وهو أوسع فيها منه في أكثر اللغات."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "ابدال",
+      "clue": "أن يحل حرف محل آخر، كالأثافي والأثاثي",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "ظاهرة صوتية تسجلها المعاجم بين صيغتين لكلمة واحدة، وأفرد لها ابن السكيت كتابا في القرن التاسع الميلادي."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "معرب",
+      "clue": "وافد أجنبي نطقته العرب على منهاجها",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "لفظ أجنبي جرى تغييره ليوافق أبنية العربية، مثل درهم وإبريق."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "دخيل",
+      "clue": "وافد بقي على حاله ولم يخضع للقوالب",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "يقابل المعرب في اصطلاح كثير من اللغويين: لفظ أجنبي استعمل دون تعديل بنيته."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أول معجم عربي معروف هو كتاب العين المنسوب إلى الخليل بن أحمد الفراهيدي في القرن الثامن الميلادي، ورتبت مواده بحسب مخارج الحروف لا بحسب الألف باء.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة al-Khalil ibn Ahmad",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "لسان العرب لابن منظور، المتوفى سنة 1311 للميلاد، يجمع مواد معاجم سابقة ويرتبها بحسب الحرف الأخير من الجذر، وهو ترتيب اختاره ليخدم القافية.",
+      "sourceTitle": "دار صادر، بيروت — مقدمة طبعة لسان العرب",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يفرق كثير من اللغويين العرب بين المعرب والدخيل على أساس خضوع اللفظ لأبنية العربية من عدمه، غير أن الحد بين المصطلحين ليس متفقا عليه بين المدارس.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

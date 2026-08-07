@@ -1,0 +1,144 @@
+{
+  "slug": "ar-ayyam-tuhya",
+  "title": "أيام تحيا",
+  "language": "ar",
+  "subject": "world-religions",
+  "topic": "rel-festivals",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "أحد عشر موعدا في تقاويم مختلفة، وما يفعله الناس فيها.",
+  "completionMessage": "انتهت الرزنامة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "رمضان",
+      "clue": "شهر تقدم فيه وجبة قبل الفجر وأخرى بعد الغروب",
+      "clueStyle": "cultural",
+      "difficultyRating": 1,
+      "explanation": "الشهر التاسع في التقويم الهجري، ويصام فيه من الفجر إلى الغروب."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "ميلاد",
+      "clue": "يحتفل به في الخامس والعشرين من كانون الأول عند معظم الكنائس",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "تحتفل الكنائس التي تتبع التقويم اليولياني به في السابع من كانون الثاني بحسب التقويم الغريغوري."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 1,
+      "answer": "هولي",
+      "clue": "مساحيق ملونة تتطاير في الربيع",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "عيد هندوسي ربيعي يرمى فيه المشاركون بالمساحيق الملونة والماء."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "حانوكا",
+      "clue": "ثماني ليال يضاف فيها ضوء كل مساء",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "عيد يهودي يوقد فيه شمعدان من تسعة فروع، شمعة إضافية في كل ليلة من ثماني ليال."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 8,
+      "answer": "قيامة",
+      "clue": "أحد يعقب الصوم الكبير عند المسيحيين",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "يحدد موعده بحساب فلكي مرتبط بالاعتدال الربيعي واكتمال القمر، ويختلف بين التقويمين الشرقي والغربي."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "ديوالي",
+      "clue": "صفوف المصابيح على العتبات في الخريف",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "عيد الأنوار، يحتفل به الهندوس والسيخ والجاينيون في الخريف بإضاءة المصابيح الفخارية."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "نوروز",
+      "clue": "رأس سنة يبدأ مع الاعتدال الربيعي",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "اسمه بالفارسية يعني اليوم الجديد، ويحتفل به الزرادشتيون وشعوب عديدة في إيران وآسيا الوسطى والعراق."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "ويساك",
+      "clue": "اليوم البوذي الأكبر، عند اكتمال قمر أيار",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "يحيي فيه كثير من البوذيين ميلاد بوذا واستنارته ووفاته في يوم واحد."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 4,
+      "answer": "سبت",
+      "clue": "راحة أسبوعية تبدأ مع غروب الجمعة",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "يبدأ يوم الراحة اليهودي عند غروب الجمعة وينتهي بظهور النجوم مساء اليوم التالي."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "فطر",
+      "clue": "عيد يعقب شهر الصيام مباشرة",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "يقع في الأول من شوال، ويسبقه أداء زكاة تسمى باسمه."
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 0,
+      "answer": "فصح",
+      "clue": "مائدة ليلية تروى فيها قصة الخروج من مصر",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "يقام السيدر في أول ليالي العيد اليهودي، وتقرأ فيه الهاغادا التي تروي الخروج."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أدرجت الأمم المتحدة النوروز في قائمة اليونسكو للتراث الثقافي غير المادي سنة ألفين وتسعة، ويحتفل به في بلدان تمتد من البلقان إلى الهند.",
+      "sourceTitle": "اليونسكو — نوروز، قائمة التراث الثقافي غير المادي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تحتفل الكنائس التي ما زالت تعتمد التقويم اليولياني بعيد الميلاد في السابع من كانون الثاني بحسب التقويم الغريغوري، بسبب فارق ثلاثة عشر يوما بين التقويمين.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Julian calendar",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يحدد موعد ويساك بحسب التقويم القمري، ويختلف اليوم المعتمد بين البلدان البوذية، فلا يوافق تاريخا واحدا في كل مكان.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "ar-lisan-wa-alsina",
+  "title": "لسان وألسنة",
+  "language": "ar",
+  "subject": "arab-world",
+  "topic": "arabic-dialects",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "لغة واحدة مكتوبة، وعشرات المنطوقة. عشر كلمات في وصف المسافة بينهما.",
+  "completionMessage": "طويت الخريطة اللغوية.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "نبطي",
+      "clue": "شعر بالمنطوق، له مسابقات تلفزيونية في الخليج",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "الشعر العامي في الجزيرة العربية، وله دواوين وبرامج مسابقات واسعة الانتشار."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "حساني",
+      "clue": "منطوق موريتانيا وأطراف الصحراء الكبرى",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "لهجة عربية بدوية تنتشر في موريتانيا وجنوب المغرب وأجزاء من مالي، وتحتفظ بمفردات قديمة."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 8,
+      "answer": "شامي",
+      "clue": "منطوق دمشق وبيروت وعمان والقدس",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "مجموعة لهجات بلاد الشام، تتقارب فيما بينها ويفهمها كثير من العرب لانتشارها في الدراما."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "مالطية",
+      "clue": "لغة سامية تكتب بحروف لاتينية، ورسمية في الاتحاد الأوروبي",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "تنحدر من العربية الصقلية، وتكتب بالأبجدية اللاتينية، وهي اللغة السامية الوحيدة الرسمية في الاتحاد الأوروبي."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "مغاربي",
+      "clue": "يوصف بأنه أبعدها عن المشرقي، ويكثر فيه سقوط الحركات",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "لهجات المغرب والجزائر وتونس وليبيا، وفيها اختصار المقاطع وأثر أمازيغي في المفردات."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "لهجة",
+      "clue": "ما تعرف به المتكلم قبل أن يذكر بلده",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 0,
+      "answer": "قاف",
+      "clue": "حرف ينطق همزة في القاهرة وجيما في الخليج وكافا في أرياف فلسطين",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "أشهر أحرف العربية اختلافا في النطق بين اللهجات، وتستعمل هذه الفروق في تصنيفها."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 3,
+      "answer": "صعيدي",
+      "clue": "منطوق جنوب مصر، ويحتفظ بالجيم غير المصرية",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "من سمات لهجات الجنوب المصري نطق الجيم مجهورة كما في أكثر البلاد العربية، خلافا للقاهرة."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "فصحى",
+      "clue": "ما يكتب به الخبر ولا يطلب به الخبز",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "العربية المعيارية المشتركة في الكتابة والإعلام، تقابلها المنطوقة اليومية."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "خليجي",
+      "clue": "منطوق سواحل الجزيرة الشرقية",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "المالطية لغة سامية منحدرة من العربية الصقلية، تكتب بالأبجدية اللاتينية، وهي اللغة الرسمية الوحيدة من أسرتها في الاتحاد الأوروبي.",
+      "sourceTitle": "المفوضية الأوروبية — اللغات الرسمية للاتحاد الأوروبي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يعد اختلاف نطق القاف من أوضح المعايير التي يصنف بها اللغويون اللهجات العربية، إذ تنطق وقفة حنجرية أو جيما مجهورة أو كافا أو تبقى على أصلها بحسب المنطقة والوسط.",
+      "sourceTitle": "موسوعة اللغة العربية وعلومها، بريل — مادة اللهجات",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يوصف المنطوق المغاربي عادة بأنه أبعد المجموعات عن المنطوق المشرقي في التفاهم المتبادل، وهو وصف يقوم على دراسات إدراك محدودة العينة، ويتفاوت بحسب مقدار تعرض المستمع للهجة.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

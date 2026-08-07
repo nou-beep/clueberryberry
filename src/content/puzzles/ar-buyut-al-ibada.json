@@ -1,0 +1,134 @@
+{
+  "slug": "ar-buyut-al-ibada",
+  "title": "بيوت للصلاة",
+  "language": "ar",
+  "subject": "world-religions",
+  "topic": "rel-places-of-worship",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "أسماء المباني التي يجتمع فيها الناس، وأسماء ما بداخلها.",
+  "completionMessage": "تم الجرد المعماري.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 3,
+      "answer": "معبد",
+      "clue": "بناء الهندوس المخصص للطقوس اليومية",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "يترجم به العربية الماندير الهندوسي، ويستعمل كذلك للأبنية الدينية القديمة عموما."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "محراب",
+      "clue": "تجويف في الجدار يدل على جهة الصلاة",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "ظهر التجويف في المساجد في أوائل القرن الثامن الميلادي، ويشير إلى القبلة."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "مذبح",
+      "clue": "المائدة التي يقام عليها القداس",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "بؤرة الكنيسة المسيحية، حيث يقام سر الإفخارستيا."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "منبر",
+      "clue": "درجات يعلوها الخطيب يوم الجمعة",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "منصة مرتفعة ذات درج في المسجد، تلقى منها الخطبة."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 5,
+      "answer": "غوردوارا",
+      "clue": "بيت السيخ، وفيه مطبخ مفتوح للجميع",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "الاسم يعني باب المعلم بالبنجابية، ويلحق به مطبخ جماعي يقدم الطعام لكل زائر."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 2,
+      "answer": "باغودا",
+      "clue": "برج متدرج الطبقات في شرق آسيا",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "بناء بوذي متعدد الطوابق، تطور من الستوبا الهندية بعد انتقالها شرقا."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "دير",
+      "clue": "بيت الرهبان، وكثيرا ما بني بعيدا عن العمران",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "مقر جماعة رهبانية، وفي الشرق بنيت أديرة كثيرة في الصحراء وعلى الجبال."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 9,
+      "answer": "كنيس",
+      "clue": "مكان الجماعة اليهودية للصلاة والدرس",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "من الإغريقية synagoge بمعنى الاجتماع، وهو مبنى الصلاة ودراسة النصوص في اليهودية."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 5,
+      "answer": "ايقونة",
+      "clue": "لوح مصور يكرم في الكنائس الشرقية",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "صورة دينية على خشب، لها مكانة خاصة في التقليدين الأرثوذكسي والكاثوليكي الشرقي."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "شمعدان",
+      "clue": "حامل سبعة فروع، رمز قديم في التقليد اليهودي",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "المنورا ذات السبعة فروع من أقدم الرموز اليهودية، وصورتها منقوشة على قوس تيتوس في روما."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "يلحق بكل غوردوارا سيخي مطبخ جماعي يسمى اللانغار، يقدم فيه الطعام مجانا للزوار على اختلاف أديانهم، ويجلس الآكلون على الأرض في صف واحد.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Langar",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "نقش الشمعدان ذو الفروع السبعة على قوس تيتوس في روما، المشيد سنة إحدى وثمانين للميلاد، ضمن مشهد يصور غنائم أورشليم.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Arch of Titus",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يرجح الباحثون أن المحراب المجوف ظهر في المساجد في أوائل القرن الثامن الميلادي، غير أن أقدم مثال محقق منه محل نقاش بين المؤرخين.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

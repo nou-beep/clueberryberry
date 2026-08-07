@@ -1,0 +1,130 @@
+{
+  "slug": "ar-shashat-arabiyya",
+  "title": "شاشة عربية",
+  "language": "ar",
+  "subject": "movies-and-tv",
+  "topic": "arab-cinema",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "قرن من الصورة المتحركة بالعربية: مخرجون ومهرجانات وحرفة الغرفة المظلمة.",
+  "completionMessage": "أضيئت القاعة.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "سيناريو",
+      "clue": "ما يكتب ليقرأ مرة ثم يمزق",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "قرطاج",
+      "clue": "أيام سينمائية تونسية بدأت سنة 1966",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "من أقدم المهرجانات السينمائية في أفريقيا والعالم العربي، وجائزتها الكبرى التانيت الذهبي."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 4,
+      "answer": "سينما",
+      "clue": "قاعة تباع فيها الظلمة مع التذكرة",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "الشريف",
+      "clue": "ممثل مصري رشح لأوسكار عن دور في فيلم بريطاني سنة 1962",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "عمر الشريف، رشح لجائزة أفضل ممثل مساعد عن دور علي في لورنس العرب."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "المصير",
+      "clue": "فيلم 1997 عن ابن رشد وحرق الكتب",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "من إخراج يوسف شاهين، ويدور في قرطبة الموحدية حول الفيلسوف وخصومه."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "مونتاج",
+      "clue": "حرفة الحذف قبل أن تكون حرفة الجمع",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 10,
+      "answer": "شاهين",
+      "clue": "مخرج الإسكندرية، صاحب باب الحديد",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "يوسف شاهين، أخرج باب الحديد سنة 1958 ومثل فيه دور قناوي."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 4,
+      "answer": "كوميديا",
+      "clue": "نوع تختم أعماله بزواج لا بموت",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 8,
+      "answer": "دبلجة",
+      "clue": "أصوات جديدة على شفاه قديمة",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "ازدهرت في المسلسلات المكسيكية والتركية المعروضة على الفضائيات العربية."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "مسلسل",
+      "clue": "يقطع في أحرج لحظة ويعود غدا",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أقيمت الدورة الأولى من أيام قرطاج السينمائية في تونس سنة 1966، وهي من أقدم المهرجانات السينمائية المستمرة في أفريقيا والعالم العربي.",
+      "sourceTitle": "أيام قرطاج السينمائية — التعريف بالمهرجان",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "رشح عمر الشريف لجائزة الأوسكار لأفضل ممثل في دور مساند سنة 1963 عن دوره في فيلم لورنس العرب، ونال عنه جائزة غولدن غلوب.",
+      "sourceTitle": "أكاديمية فنون وعلوم الصور المتحركة — قاعدة بيانات الجوائز",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "عرض فيلم المصير ليوسف شاهين في مهرجان كان سنة 1997، وهي السنة التي نال فيها المخرج جائزة اليوبيل الذهبي للمهرجان عن مجمل أعماله.",
+      "sourceTitle": "مهرجان كان السينمائي — أرشيف الدورة الخمسين",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

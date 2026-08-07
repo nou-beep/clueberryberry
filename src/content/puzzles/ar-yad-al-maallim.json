@@ -1,0 +1,132 @@
+{
+  "slug": "ar-yad-al-maallim",
+  "title": "يد المعلم",
+  "language": "ar",
+  "subject": "morocco",
+  "topic": "moroccan-crafts",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "من درب في فاس إلى سوق في مراكش: ما تصنعه اليد ولم تحل الآلة محلها فيه بعد.",
+  "completionMessage": "أقفل الدكان.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "جلابة",
+      "clue": "ثوب واسع بقلنسوة، يلبسه الرجال والنساء",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 7,
+      "answer": "سلهام",
+      "clue": "عباءة بقلنسوة تلبس فوق الثياب",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "يعرف أيضا بالبرنس، وهو رداء واسع بلا أكمام له قلنسوة مدببة."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 2,
+      "answer": "قفطان",
+      "clue": "ثوب نسائي طويل، تقام له عروض أزياء في الرباط",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "لباس مغربي طويل مطرز، وله معرض سنوي كبير في المغرب منذ التسعينيات."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "طرز",
+      "clue": "إبرة تكتب على القماش",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "لكل مدينة مغربية غرزتها: الفاسي والرباطي والتطواني وغيرها."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "زربية",
+      "clue": "ما ينسج على النول وتباع بالمزاد في السوق",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "السجاد المغربي، ولزرابي بني ورين وتازناخت شهرة خاصة، وتباع في أسواق المزاد الأسبوعية."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 6,
+      "answer": "بلغة",
+      "clue": "نعل جلدي بلا كعب ولا رباط",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "حذاء مغربي تقليدي من الجلد المدبوغ، للرجال منه الأصفر وللنساء ألوان أخرى."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 2,
+      "answer": "تادلاكت",
+      "clue": "جص يصقل بحجر ويطلى بالصابون فيصد الماء",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "طلاء جيري مراكشي يصقل بالحجر ويعالج بالصابون البلدي، فيستعمل في الحمامات."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 2,
+      "answer": "دباغة",
+      "clue": "أحواض ملونة في فاس، ورائحة تعرف قبل أن ترى",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "دار دباغة الشوارة في فاس تعمل بأحواض حجرية منذ القرون الوسطى."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "نحاس",
+      "clue": "معدن أحمر يطرق في الدروب، ومنه صينية الشاي",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "حرفة الطرق على المعدن الأحمر من أقدم حرف فاس ومراكش، ومنها الصواني والأباريق والفوانيس."
+    },
+    {
+      "direction": "down",
+      "row": 9,
+      "column": 0,
+      "answer": "نقش",
+      "clue": "ما يحفره الإزميل على المعدن والخشب",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "تعمل دار الدباغة الشوارة في فاس بأحواض حجرية ما زالت على تخطيطها القديم، وتعد من أقدم أحياء الصناعة التقليدية العاملة في المدينة.",
+      "sourceTitle": "اليونسكو — مدينة فاس العتيقة، موقع التراث العالمي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أدرجت اليونسكو مدينة فاس العتيقة على قائمة التراث العالمي سنة 1981، لما فيها من أحياء حرفية ومدارس ومساجد قائمة منذ العصر الوسيط.",
+      "sourceTitle": "اليونسكو — قائمة التراث العالمي، الموقع رقم 170",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يوصف طلاء التادلاكت بأنه مقاوم للماء بفضل صقله ومعالجته بالصابون البلدي، غير أن درجة مقاومته تتوقف على جودة التنفيذ والصيانة، فلا تصح معاملتها كخاصية ثابتة.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

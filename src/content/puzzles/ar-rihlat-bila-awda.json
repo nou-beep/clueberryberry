@@ -1,0 +1,131 @@
+{
+  "slug": "ar-rihlat-bila-awda",
+  "title": "رحلات بلا عودة",
+  "language": "ar",
+  "subject": "space",
+  "topic": "space-missions",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "أجهزة أرسلت إلى فوق، ولم يعد أكثرها.",
+  "completionMessage": "انتهى البث من عشر مهمات.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "هبوط",
+      "clue": "أصعب سبع دقائق في مهمة المريخ",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "يسمي المهندسون مرحلة الدخول والنزول والحط سبع دقائق الرعب لأنها تجري بلا تدخل من الأرض."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 6,
+      "answer": "مركبة",
+      "clue": "ما يركبه رواد الفضاء في الطريق",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "مسبار",
+      "clue": "جهاز يرسل ليقيس ويصور لا ليعود",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "سبوتنيك",
+      "clue": "كرة معدنية أطلقت سنة 1957 وصفرت من مدارها",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "أول قمر صناعي في التاريخ، بث إشارة رادوية بسيطة التقطها هواة اللاسلكي في العالم."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "فوياجر",
+      "clue": "توأمان انطلقا سنة 1977 ويحملان أسطوانة ذهبية",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "تحمل المركبتان أسطوانة نحاسية مطلية بالذهب فيها أصوات وصور من الأرض."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 8,
+      "answer": "رائد",
+      "clue": "من يدرب على العيش بلا وزن",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 8,
+      "answer": "امل",
+      "clue": "أول مهمة عربية تبلغ مدار المريخ سنة 2021",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "مهمة إماراتية أطلقت من اليابان سنة 2020 ودخلت مدار المريخ في شباط 2021."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "صاروخ",
+      "clue": "يدفع نفسه بأن يرمي وراءه",
+      "clueStyle": "scientific",
+      "difficultyRating": 2,
+      "explanation": "يعمل بقانون الفعل ورد الفعل: يقذف الغاز إلى الخلف فيندفع إلى الأمام."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "كاسيني",
+      "clue": "دار حول زحل ثلاث عشرة سنة ثم أحرق في غلافه",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "أنهت وكالة ناسا المهمة سنة 2017 بإسقاط المركبة في الكوكب تجنبا لتلويث أقماره."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "وقود",
+      "clue": "أثقل ما يحمله الصاروخ، وأول ما يفقده",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "دخل مسبار الأمل الإماراتي مدار المريخ في التاسع من شباط 2021، بعد إطلاق من قاعدة تانيغاشيما اليابانية في تموز 2020.",
+      "sourceTitle": "وكالة الإمارات للفضاء — مشروع الإمارات لاستكشاف المريخ",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أنهت ناسا مهمة كاسيني في الخامس عشر من أيلول 2017 بتوجيه المركبة إلى الغلاف الجوي لزحل، حرصا على ألا تصطدم لاحقا بقمريه إنسيلادوس وتيتان.",
+      "sourceTitle": "ناسا — نهاية مهمة كاسيني",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تحمل مركبتا فوياجر أسطوانة نحاسية مطلية بالذهب سجلت عليها أصوات وصور ولغات من الأرض، اختارتها لجنة برئاسة كارل ساغان.",
+      "sourceTitle": "ناسا — الأسطوانة الذهبية",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

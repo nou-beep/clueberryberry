@@ -1,0 +1,130 @@
+{
+  "slug": "ar-raff-al-tawabil",
+  "title": "رف التوابل",
+  "language": "ar",
+  "subject": "food",
+  "topic": "spices",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "عشر علب صغيرة، كل واحدة منها كانت يوما أغلى من وزنها فضة.",
+  "completionMessage": "أغلق الرف.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "كركم",
+      "clue": "جذمور يصبغ الأصفر ولا يغسل",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "لونه من صبغة الكركمين، وهي شديدة الثبات على القماش والأواني."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "خردل",
+      "clue": "حبة يضرب بصغرها المثل",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 3,
+      "answer": "سماق",
+      "clue": "حموضة حمراء تنثر على الفتوش",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "يطحن من ثمار شجيرة، ويستعمل في المشرق بديلا حامضا عن الليمون."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "قرنفل",
+      "clue": "برعم لم يتفتح، ويستعمل لتخدير وجع الأسنان",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "الجزء المستعمل هو البرعم الزهري قبل تفتحه، وزيته يحوي الأوجينول المخدر موضعيا."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "هيل",
+      "clue": "يفتح في فوهة الدلة قبل الصب",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "تضاف حباته إلى القهوة العربية، ويوضع بعضها في فوهة الدلة."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "كمون",
+      "clue": "بذرة تلازم الحمص والفلافل",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 6,
+      "answer": "فلفل",
+      "clue": "محرك التجارة القديمة بين الهند وأوروبا",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "كان الفلفل الأسود من أثمن سلع تجارة التوابل بين الهند وأوروبا في العصر الوسيط."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "زنجبيل",
+      "clue": "حراقة تشرب في الشتاء",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 1,
+      "answer": "زعتر",
+      "clue": "يخلط بالسمسم ويؤكل بزيت الزيتون",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "قرفة",
+      "clue": "لحاء يلف على نفسه عند التجفيف",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "تؤخذ من اللحاء الداخلي للشجرة، فيتقوس عند الجفاف على شكل أنبوب."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "الجزء المستعمل من القرنفل هو البرعم الزهري المجفف قبل تفتحه، وزيته غني بالأوجينول الذي يستعمل مخدرا موضعيا في طب الأسنان.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Clove",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تؤخذ القرفة من اللحاء الداخلي لأشجار من جنس القرفة، ويتقوس الشريط عند التجفيف فيتخذ شكل الأنبوب المعروف.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Cinnamon",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يتردد كثيرا أن الفلفل الأسود كان يوزن بالذهب في أوروبا الوسيطة، وهي عبارة تصف غلاءه أكثر مما تصف معاملة تجارية موثقة بهذا الشكل.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

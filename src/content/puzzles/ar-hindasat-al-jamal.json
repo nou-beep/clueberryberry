@@ -1,0 +1,134 @@
+{
+  "slug": "ar-hindasat-al-jamal",
+  "title": "هندسة الجمال",
+  "language": "ar",
+  "subject": "art",
+  "topic": "islamic-art",
+  "difficulty": "hard",
+  "width": 8,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "مفردات حرفة امتدت من قرطبة إلى سمرقند: أصباغ وقصب مبري وجبس مقطوع بالمسطرة.",
+  "completionMessage": "أغلقت الورشة.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "مقرنص",
+      "clue": "حنايا متدرجة تملأ الانتقال من المربع إلى القبة",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "عنصر معماري ثلاثي الأبعاد يشبه خلية النحل، يحل مشكلة الانتقال بين القاعدة والقبة."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "منمنمة",
+      "clue": "صورة صغيرة داخل كتاب، ازدهرت في تبريز وهرات",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "التصوير الكتابي الفارسي والعثماني والمغولي الهندي، بلغ ذروته بين القرنين الرابع عشر والسادس عشر."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "نسخ",
+      "clue": "الخط الذي كتبت به أكثر الكتب، وسمي بفعله",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "غلب على نسخ المتون لوضوحه، ومنه اشتق اسم الخط المطبعي العربي المعتاد."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "قلم",
+      "clue": "قصبة تبرى بزاوية، وتسمى بها أنواع الخط نفسها",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3,
+      "explanation": "أداة الخطاط من القصب، وتطلق الكلمة كذلك على نوع الخط، فيقال قلم الثلث وقلم النسخ."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "خزف",
+      "clue": "طين يشوى مرتين ويطلى بينهما",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "طور الخزافون في العراق في القرن التاسع بريقا معدنيا على الطلاء الأبيض القصديري."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 4,
+      "answer": "ارابيسك",
+      "clue": "تشابك نباتي لا يجد الناظر أوله من آخره",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الاسم أوروبي المنشأ، ويصف الزخرفة النباتية المتشابكة المتكررة بلا بداية ظاهرة."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 2,
+      "answer": "مشربية",
+      "clue": "شبكة خشبية ترى منها ولا ترى",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "نافذة بارزة مغطاة بخرط خشبي دقيق، تظلل الداخل وتحجب النظر من الخارج."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "تذهيب",
+      "clue": "طلاء بورق نفيس يزين هوامش المخطوط",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "يستعمل فيه ورق رقيق جدا من المعدن النفيس، يصقل بحجر العقيق بعد لصقه."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 7,
+      "answer": "زليج",
+      "clue": "فسيفساء مغربية تقطع قطعها باليد قبل التركيب",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "بلاطات خزفية ملونة تقطع بالمنقار في فاس ومكناس ثم ترص في أشكال هندسية."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 4,
+      "answer": "كوفي",
+      "clue": "خط زاوي منسوب إلى مدينة عراقية",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "أقدم الخطوط العربية المدونة، ونسب إلى الكوفة، وغلب على النقوش المعمارية المبكرة."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "طور الخزافون في العراق في القرن التاسع الميلادي تقنية البريق المعدني فوق الطلاء الأبيض القصديري، وانتقلت منها إلى مصر وإيران والأندلس.",
+      "sourceTitle": "متحف المتروبوليتان للفنون — Lustreware",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "قنن ابن مقلة، الوزير العباسي المتوفى سنة 940 للميلاد، نسبا هندسية لحروف الخط العربي تقاس بالنقطة والألف والدائرة.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Ibn Muqlah",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ينسب أقدم استعمال معروف للمقرنص إلى شمال شرق إيران وبلاد ما وراء النهر في القرن العاشر أو الحادي عشر الميلادي، غير أن نقطة نشأته الدقيقة ما زالت محل خلاف بين مؤرخي العمارة.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

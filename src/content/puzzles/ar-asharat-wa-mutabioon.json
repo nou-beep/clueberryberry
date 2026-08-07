@@ -1,0 +1,130 @@
+{
+  "slug": "ar-asharat-wa-mutabioon",
+  "title": "إشارات ومتابعون",
+  "language": "ar",
+  "subject": "the-2010s",
+  "topic": "2010s-internet",
+  "difficulty": "easy",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "عقد كامل قضاه الناس ينظرون إلى شاشة صغيرة رأسية.",
+  "completionMessage": "أغلق التطبيق.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "متابع",
+      "clue": "رقم صار يقاس به الناس",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 6,
+      "answer": "سيلفي",
+      "clue": "صورة الذراع الممدودة",
+      "clueStyle": "definition",
+      "difficultyRating": 1,
+      "explanation": "اختارتها قواميس أكسفورد كلمة السنة لعام 2013."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "يوتيوب",
+      "clue": "منصة فيديو اشترتها غوغل سنة 2006",
+      "clueStyle": "historical",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "هاشتاغ",
+      "clue": "علامة تحول الكلمة إلى بوابة",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "اقترح استعمالها كريس ميسينا على تويتر سنة 2007 لتجميع المحادثات."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "انستغرام",
+      "clue": "بدأ بصور مربعة ومرشحات ملونة سنة 2010",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "أطلق في تشرين الأول 2010 بصور مربعة الشكل حصرا، واشترته فيسبوك سنة 2012."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "فيديو",
+      "clue": "صار عموديا بعدما كان أفقيا",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 2,
+      "answer": "واتساب",
+      "clue": "تطبيق رسائل اشترته فيسبوك سنة 2014",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "أعلنت الصفقة في شباط 2014، وهي من أكبر عمليات الاستحواذ في تاريخ التقنية."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 9,
+      "answer": "تطبيق",
+      "clue": "أيقونة على الشاشة تفتح عالما",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "تويتر",
+      "clue": "حد كلام الناس عند مئة وأربعين حرفا",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "بقي الحد مئة وأربعين حرفا من 2006 حتى تشرين الثاني 2017، حين رفع إلى مئتين وثمانين."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "ايموجي",
+      "clue": "صورة وحرف بالياباني، ولها لوحة مفاتيح خاصة",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "الكلمة اليابانية مركبة من مقطعين يعنيان الصورة والحرف، ولا صلة لها بكلمة emotion الإنجليزية."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "كلمة إيموجي يابانية مركبة من مقطعين يعنيان الصورة والحرف، وتشابهها مع كلمة emotion الإنجليزية محض مصادفة صوتية.",
+      "sourceTitle": "اتحاد يونيكود — الأسئلة الشائعة عن الإيموجي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "اختارت قواميس أكسفورد الإنجليزية كلمة selfie كلمة السنة لعام 2013، بعد ارتفاع حاد في تواترها في المدونات اللغوية.",
+      "sourceTitle": "قواميس أكسفورد — كلمة السنة 2013",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ينسب اقتراح استعمال علامة المربع لتجميع المحادثات على تويتر إلى كريس ميسينا سنة 2007، وقد اعتمدتها المنصة رسميا بعد ذلك بسنتين.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

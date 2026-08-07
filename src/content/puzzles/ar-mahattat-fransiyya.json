@@ -1,0 +1,134 @@
+{
+  "slug": "ar-mahattat-fransiyya",
+  "title": "محطات فرنسية",
+  "language": "ar",
+  "subject": "french-culture",
+  "topic": "french-history-culture",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "عشر محطات من تاريخ بلد يعرفه القارئ العربي من كتبه ومن أخباره معا.",
+  "completionMessage": "أغلق الملف.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "نابليون",
+      "clue": "قنصل صار إمبراطورا، وانتهى في جزيرة بالأطلسي",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "توفي في سانت هيلانة سنة 1821 بعد نفيه إليها عقب واترلو."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 2,
+      "answer": "باستيل",
+      "clue": "سجن اقتحم في الرابع عشر من تموز 1789",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "قلعة وسجن ملكي في باريس، ولم يكن فيها يوم الاقتحام إلا سبعة سجناء."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "ايفل",
+      "clue": "برج بني لمعرض 1889 وكان مقررا هدمه",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "أقيم للمعرض العالمي بمناسبة مئوية الثورة، وأنقذه من الهدم استعماله هوائيا للاتصالات."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 5,
+      "answer": "ديغول",
+      "clue": "جنرال خاطب بلاده من لندن في حزيران 1940",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "ألقى نداء الثامن عشر من حزيران 1940 من إذاعة بي بي سي، ثم صار أول رئيس للجمهورية الخامسة سنة 1959."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 5,
+      "answer": "دريفوس",
+      "clue": "ضابط أدين ظلما سنة 1894 ثم برئ سنة 1906",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "قضية انقسم حولها الرأي العام الفرنسي، وكتب فيها إميل زولا مقاله المفتوح سنة 1898."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 9,
+      "answer": "لوفر",
+      "clue": "قصر ملكي صار متحفا سنة 1793",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "فتح للجمهور متحفا في آب 1793 في أثناء الثورة."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "جمهورية",
+      "clue": "خمس منها منذ 1792، وآخرها قائم",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "أعلنت الأولى سنة 1792، والخامسة قائمة منذ دستور 1958."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "مقصلة",
+      "clue": "آلة إعدام سميت باسم طبيب اقترح توحيد طريقة القتل",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "اقترح الطبيب جوزيف إينياس غيوتان سنة 1789 طريقة إعدام واحدة للجميع، فحمل الجهاز اسمه لاحقا."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 7,
+      "answer": "ثورة",
+      "clue": "1789، والشعار الثلاثي الذي خرج منها",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "شعار الحرية والمساواة والإخاء ثبت رسميا في الجمهورية الثالثة أواخر القرن التاسع عشر."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "فرساي",
+      "clue": "قصر خرجت من قاعة مراياه معاهدة 1919",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "وقعت معاهدة إنهاء الحرب العالمية الأولى في قاعة المرايا في حزيران 1919."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أدين الضابط ألفريد دريفوس بالخيانة سنة 1894 ونفي إلى جزيرة الشيطان، ثم أعيدت محاكمته وبرئ نهائيا سنة 1906 وأعيد إلى الجيش.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Dreyfus affair",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "فتح متحف اللوفر أبوابه للجمهور في العاشر من آب 1793، في قصر كان مقرا للملوك قبل انتقال البلاط إلى فرساي سنة 1682.",
+      "sourceTitle": "متحف اللوفر — تاريخ المتحف",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يتردد أن برج إيفل كان مقررا تفكيكه بعد عشرين سنة من معرض 1889، وأن استعماله محطة لاسلكية هو ما أبقاه، وهي رواية شائعة تحتاج تفاصيلها إلى تدقيق في وثائق الامتياز الأصلية.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

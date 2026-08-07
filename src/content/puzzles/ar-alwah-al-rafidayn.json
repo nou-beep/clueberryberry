@@ -1,0 +1,134 @@
+{
+  "slug": "ar-alwah-al-rafidayn",
+  "title": "ألواح الرافدين",
+  "language": "ar",
+  "subject": "mythology",
+  "topic": "mesopotamian-mythology",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "أقدم ما كتبه الناس عن أنفسهم، على طين شوته الشمس بين النهرين.",
+  "completionMessage": "أعيد اللوح إلى رفه.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "انليل",
+      "clue": "إله الريح والعاصفة، وسيد مجمع نيبور",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "من كبار آلهة السومريين، ومركز عبادته مدينة نيبور."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "جلجامش",
+      "clue": "بطل أقدم ملحمة كبرى وصلتنا كاملة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "بطل أطول ملحمة بابلية وصلتنا، ويرد اسمه في قوائم الملوك السومرية أيضا."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "مسمارية",
+      "clue": "كتابة تضغط بقلم قصب في طين لين",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "سميت بذلك لشكل علاماتها، وكتبت بها لغات عدة منها السومرية والأكدية."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "مردوخ",
+      "clue": "إله بابل الأول في نص الخليقة البابلي",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "يصعد إلى رأس المجمع الإلهي في ملحمة إينوما إيليش بعد انتصاره في المعركة الكونية."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "تيامات",
+      "clue": "المياه المالحة الأولى في إينوما إيليش",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "تمثل البحر البدئي، ومن جسدها يصنع النص السماء والأرض."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "انكيدو",
+      "clue": "صنع من طين وعاش مع الوحوش قبل أن يصادق ملكا",
+      "clueStyle": "trivia",
+      "difficultyRating": 4,
+      "explanation": "رفيق بطل الملحمة، خلق ليكون ندا له فصار صاحبه، وموته يدفع البطل للبحث عن الخلود."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "عشتار",
+      "clue": "ربة الحب والحرب في بابل، ولها باب مزجج في المدينة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "بابها المكسو بالآجر المزجج الأزرق نقل جزء منه إلى متحف برلين مطلع القرن العشرين."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 10,
+      "answer": "طوفان",
+      "clue": "ما نجا منه أوتنابشتم بسفينة",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "يروي اللوح الحادي عشر من الملحمة البابلية نجاة أوتنابشتم بسفينة، وقد قارن الباحثون الرواية بنظائرها منذ اكتشاف اللوح سنة 1872."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "زقورة",
+      "clue": "برج مدرج بمعبد في أعلاه",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "بناء ديني متدرج الطبقات، أشهر بقاياه في أور جنوب العراق."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 7,
+      "answer": "اوروك",
+      "clue": "مدينة سومرية يعدها الأثريون من أوائل المدن الكبرى",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "موقعها في جنوب العراق، وأعطت اسمها لطور أثري كامل في الألف الرابع قبل الميلاد."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "قرأ جورج سميث سنة 1872 لوحا من ملحمة جلجامش يروي قصة طوفان، وأعلن ذلك في الجمعية الآثارية التوراتية بلندن، فأثار نقاشا واسعا حول علاقة الروايات القديمة بعضها ببعض.",
+      "sourceTitle": "المتحف البريطاني — لوح الطوفان",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أعيد بناء واجهة باب عشتار البابلي من الآجر المزجج الأصلي في متحف بيرغامون ببرلين، بعد تنقيبات ألمانية جرت بين 1899 و1917.",
+      "sourceTitle": "متاحف الدولة في برلين — باب عشتار",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "توصف أوروك في كثير من المراجع بأنها من أوائل المدن الكبرى في العالم، وهو حكم يتوقف على تعريف المدينة نفسه، ويظل محل نقاش بين الأثريين.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

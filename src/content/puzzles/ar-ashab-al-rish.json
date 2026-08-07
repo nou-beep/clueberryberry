@@ -1,0 +1,132 @@
+{
+  "slug": "ar-ashab-al-rish",
+  "title": "أصحاب الريش",
+  "language": "ar",
+  "subject": "animals",
+  "topic": "birds",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "عشرة من الطيور، بعضها يطير وبعضها فضل الجري أو السباحة.",
+  "completionMessage": "حط السرب.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 6,
+      "answer": "نورس",
+      "clue": "يتبع السفن ولا يركبها",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "نعامة",
+      "clue": "أكبر الطيور، وتركض ولا تطير",
+      "clueStyle": "definition",
+      "difficultyRating": 1,
+      "explanation": "أضخم الطيور الحية، وتبلغ سرعتها في العدو نحو سبعين كيلومترا في الساعة."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 5,
+      "answer": "طاووس",
+      "clue": "يفرد مروحة فيها عيون لا ترى",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2,
+      "explanation": "الذكر وحده هو الذي يفرد الريش، والبقع الدائرية عليه تسمى عيونا."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 1,
+      "answer": "غراب",
+      "clue": "أسود يعرف وجوه الناس ويتذكر من أساء إليه",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "أظهرت تجارب جامعة واشنطن أن غربان المدن تميز وجوه البشر وتتذكرها سنوات."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "بومة",
+      "clue": "تدير رأسها ولا تدير عينيها",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "عيناها مثبتتان في محجريهما فلا تتحركان، ويعوض عن ذلك دوران الرقبة الواسع."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "بطريق",
+      "clue": "جناحان صارا مجدافين",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "طائر لا يطير، تحولت أجنحته إلى زعانف تدفعه في الماء."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "حبارى",
+      "clue": "طائر صحراوي كبير طورد حتى صار مهددا",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الحبارى الآسيوية مصنفة مهددة بالانقراض على القائمة الحمراء للاتحاد الدولي لصون الطبيعة."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 5,
+      "answer": "صقر",
+      "clue": "يدرب في الخليج ويطلق على الطريدة",
+      "clueStyle": "cultural",
+      "difficultyRating": 1,
+      "explanation": "أدرجت اليونسكو البيزرة في قائمة التراث الثقافي غير المادي سنة 2010 بمشاركة دول عربية عدة."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "لقلق",
+      "clue": "يعشش على المآذن وأسطح المدن القديمة",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "يبني أعشاشه العالية على الأبراج والمداخن، ويهاجر بين أوروبا وأفريقيا."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 5,
+      "answer": "ريش",
+      "clue": "يقي البرد ويصنع الطيران",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    }
+  ],
+  "factCards": [
+    {
+      "text": "عينا البومة مثبتتان في محجريهما ولا تدوران، ولذلك تعوض بدوران رقبتها الذي يبلغ نحو مئتين وسبعين درجة.",
+      "sourceTitle": "مختبر كورنيل لعلم الطيور — All About Birds",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أدرجت البيزرة، أي الصيد بالطيور الجارحة، في قائمة اليونسكو للتراث الثقافي غير المادي سنة 2010، بترشيح مشترك ضم الإمارات والمغرب وسوريا وقطر وبلدانا أخرى.",
+      "sourceTitle": "اليونسكو — البيزرة، تراث إنساني حي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "تصنف الحبارى الآسيوية مهددة بالانقراض على القائمة الحمراء للاتحاد الدولي لصون الطبيعة، ويتغير التصنيف بتغير تقديرات أعدادها بين دورات المراجعة.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

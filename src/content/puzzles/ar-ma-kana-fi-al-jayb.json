@@ -1,0 +1,130 @@
+{
+  "slug": "ar-ma-kana-fi-al-jayb",
+  "title": "ما كان في الجيب",
+  "language": "ar",
+  "subject": "the-2000s",
+  "topic": "2000s-tech",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "عشرة أشياء كانت في جيوب الناس بين سنة ألفين وسنة ألفين وعشر.",
+  "completionMessage": "فرغت البطارية.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "شاحن",
+      "clue": "لكل جهاز واحد خاص به، قبل توحيد المقابس",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 2,
+      "answer": "سكايب",
+      "clue": "مكالمة مصورة مجانا، وكانت مفاجأة سنة 2003",
+      "clueStyle": "historical",
+      "difficultyRating": 2,
+      "explanation": "أطلق سنة 2003، واشترته مايكروسوفت سنة 2011."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "كاميرا",
+      "clue": "صارت في الهاتف فأنهت عهد الأفلام",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "نوكيا",
+      "clue": "شركة فنلندية صنعت هاتف الجميع",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "بدأت مصنعا للورق سنة 1865 قبل أن تتحول إلى الاتصالات."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "قرص",
+      "clue": "يحمل ألبوما ويخدش بسهولة",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 4,
+      "answer": "ماسنجر",
+      "clue": "برنامج محادثة كان الاهتزاز فيه ينبه المشغول",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "برنامج مايكروسوفت للمحادثة، أغلق نهائيا سنة 2013 بعد أن نقل مستخدموه إلى سكايب."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "رسالة",
+      "clue": "مئة وستون حرفا لا أكثر",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "الحد الأقصى للرسالة القصيرة الواحدة مئة وستون حرفا لاتينيا، وينخفض إلى سبعين حرفا عند استعمال الترميز الموحد."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "ايبود",
+      "clue": "مشغل أبيض بعجلة تدار بالإبهام",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "أعلنت آبل عنه سنة 2001، وميزته عجلة التمرير التي تدار بالإبهام."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 3,
+      "answer": "فلاش",
+      "clue": "ذاكرة صغيرة حلت محل القرص المرن",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "بلوتوث",
+      "clue": "اسمه لملك دنماركي، ووظيفته نقل الملفات بلا سلك",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "سميت التقنية على اسم هارالد الملقب بالسن الزرقاء، ورمزها من حرفين بالرونية."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "حدد معيار الرسائل القصيرة طول الرسالة الواحدة بمئة وستين حرفا في الترميز السباعي، أو سبعين حرفا في ترميز يونيكود، ولذلك تقصر الرسائل العربية عن الإنجليزية.",
+      "sourceTitle": "المعهد الأوروبي لمعايير الاتصالات — مواصفة GSM 03.38",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "أنشئت نوكيا سنة 1865 مصنعا لعجينة الورق على ضفة نهر في فنلندا، ولم تدخل صناعة الهواتف المحمولة إلا بعد قرن.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Nokia Corporation",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يقال إن اسم بلوتوث اختير تيمنا بالملك الدنماركي هارالد الأول الملقب بالسن الزرقاء، وأن رمز التقنية يجمع حرفين رونيين من اسمه، وهي رواية تنقلها الشركات المؤسسة للمعيار نفسها.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

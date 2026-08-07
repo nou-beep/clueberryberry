@@ -1,0 +1,131 @@
+{
+  "slug": "ar-min-kull-bustan-zahra",
+  "title": "من كل بستان زهرة",
+  "language": "ar",
+  "subject": "general-knowledge",
+  "topic": "gk-mixed-bag",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "عشر كلمات لا يجمعها جامع: طبقة من الجو، وجلد يتغير لونه، وسباق طويل.",
+  "completionMessage": "عاد كل شيء إلى بستانه.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "جاز",
+      "clue": "خرج من نيو أورلينز ولم يستقر في مكان",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "نشأ في مطلع القرن العشرين في نيو أورلينز من التقاء تقاليد موسيقية أفريقية أمريكية وأوروبية."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "اسمنت",
+      "clue": "مسحوق ينتظر الماء ليقسو",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 3,
+      "answer": "نيبال",
+      "clue": "بلد لا بحر له وفيه أعلى قمة",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2,
+      "explanation": "تقع قمة إيفرست على الحدود بينه وبين الصين، وليس له منفذ بحري."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 7,
+      "answer": "مرصد",
+      "clue": "بناء يفضل أن يكون بعيدا عن أضواء المدن",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "يبنى على المرتفعات في مناطق قليلة الرطوبة والتلوث الضوئي."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "ماراثون",
+      "clue": "اثنان وأربعون كيلومترا ومئتا متر",
+      "clueStyle": "trivia",
+      "difficultyRating": 2,
+      "explanation": "ثبتت المسافة الرسمية عند 42.195 كيلومترا في أولمبياد لندن سنة 1908."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 2,
+      "answer": "بلازما",
+      "clue": "الحالة الرابعة، وأكثر ما في الكون منها",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "غاز متأين، والنجوم كلها منه، ولذلك يقال إنه أشيع حالات المادة المرئية في الكون."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 5,
+      "answer": "زرافة",
+      "clue": "عنق طويل بسبع فقرات لا أكثر",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "لها سبع فقرات عنقية كسائر الثدييات تقريبا، لكن كل فقرة منها طويلة جدا."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "تندرا",
+      "clue": "سهل متجمد لا تنمو فيه أشجار",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "نطاق حيوي في أقصى الشمال، تربته متجمدة تحت السطح فتمنع نمو الجذور العميقة."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 7,
+      "answer": "نوتة",
+      "clue": "ورقة تقرأ بالعين وتسمع بالأذن",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 2,
+      "answer": "طبلة",
+      "clue": "إيقاعية مصرية تشد على جانب واحد",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "ثبتت مسافة الماراثون الرسمية عند 42.195 كيلومترا بعد سباق أولمبياد لندن سنة 1908، واعتمدت رسميا سنة 1921.",
+      "sourceTitle": "الاتحاد الدولي لألعاب القوى — تاريخ الماراثون",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "للزرافة سبع فقرات عنقية، وهو العدد نفسه عند معظم الثدييات بما فيها الإنسان، غير أن فقراتها بالغة الطول.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Giraffe",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يقال عادة إن البلازما أشيع حالات المادة في الكون المرئي، وهو تقدير يقوم على أن النجوم تشكل معظم المادة العادية المرصودة.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

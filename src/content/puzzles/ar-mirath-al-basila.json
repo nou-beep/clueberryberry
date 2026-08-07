@@ -1,0 +1,140 @@
+{
+  "slug": "ar-mirath-al-basila",
+  "title": "ميراث البازلاء",
+  "language": "ar",
+  "subject": "biology",
+  "topic": "genetics",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "من حديقة دير في مورافيا إلى مختبرات اليوم، هذه شبكة عن ما ينتقل بين الأجيال.",
+  "completionMessage": "انتهت السلسلة، وعادت كل صفة إلى أصلها.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "طفرة",
+      "clue": "خطأ في النسخ قد يصير ميزة",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "شفرة",
+      "clue": "أربعة أحرف تكتب بها الحياة",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3,
+      "explanation": "قواعد الحمض النووي الأربع: أدينين وثايمين وسيتوزين وغوانين."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 1,
+      "answer": "توأم",
+      "clue": "شريك في الميلاد والرحم",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "استنساخ",
+      "clue": "ما أنتج النعجة دوللي",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "ولدت النعجة دوللي سنة 1996 في معهد روزلن باسكتلندا من خلية جسدية بالغة.",
+      "sourceNotes": "معهد روزلن، جامعة إدنبرة — ملف دوللي."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "بويضة",
+      "clue": "نصف البداية، تنتظر النصف الآخر",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 7,
+      "answer": "سائد",
+      "clue": "يغلب شريكه في الزوج الواحد",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "جينوم",
+      "clue": "مجموع الشفرة في كائن واحد",
+      "clueStyle": "scientific",
+      "difficultyRating": 3,
+      "explanation": "الجينوم هو كامل المادة الوراثية للكائن الحي."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 1,
+      "answer": "متنحي",
+      "clue": "ينتظر نسخة ثانية كي يظهر",
+      "clueStyle": "scientific",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "نسل",
+      "clue": "ما يخلف الأسلاف",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "مندل",
+      "clue": "راهب البازلاء",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "غريغور مندل، راهب نمساوي وضع قوانين انتقال الصفات من تجاربه على نبات البازلاء.",
+      "sourceNotes": "نشر مندل بحثه عن تهجين النباتات سنة 1866."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 5,
+      "answer": "وراثة",
+      "clue": "ما ينتقل دون وصية",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "نشر غريغور مندل نتائج تجاربه على البازلاء سنة 1866، ولم تلق اهتماما يذكر إلا بعد وفاته بعقود.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة غريغور مندل",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "ولدت النعجة دوللي في معهد روزلن سنة 1996، وكانت أول ثديي يستنسخ من خلية جسدية بالغة.",
+      "sourceTitle": "معهد روزلن، جامعة إدنبرة",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يقدر عدد الجينات المرمزة للبروتين في الجينوم البشري بنحو عشرين ألفا، والرقم ما زال يراجع مع تحسن الأدوات.",
+      "sourceTitle": "المعهد الوطني الأميركي لأبحاث الجينوم البشري",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

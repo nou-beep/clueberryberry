@@ -1,0 +1,134 @@
+{
+  "slug": "ar-nusus-wa-nussakh",
+  "title": "نصوص ونساخ",
+  "language": "ar",
+  "subject": "world-religions",
+  "topic": "rel-sacred-texts",
+  "difficulty": "hard",
+  "width": 11,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 720,
+  "introduction": "عشرة نصوص من تقاليد مختلفة، واللغات التي حملتها والطرق التي حفظتها بها.",
+  "completionMessage": "اكتمل الجرد.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "اوستا",
+      "clue": "مجموعة الزرادشتيين، بلغة إيرانية قديمة لا تكتب اليوم إلا فيها",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "نصوص الزرادشتية، ولغتها الأفستية من أقدم اللغات الإيرانية المدونة."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 2,
+      "answer": "سوترا",
+      "clue": "خيط بالسنسكريتية، ويسمي نصا موجزا عند البوذيين والهندوس",
+      "clueStyle": "cross_language",
+      "difficultyRating": 4,
+      "explanation": "الكلمة تعني الخيط، ومنها اسم النصوص القصيرة التي تنظم التعاليم كما ينظم الخيط حبات."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "انجيل",
+      "clue": "بشارة في أصلها الإغريقي، وأربعة منها في العهد الجديد",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3,
+      "explanation": "من الإغريقية eu-angelion أي الخبر السار، ويطلق على أسفار متى ومرقس ولوقا ويوحنا."
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "غورو",
+      "clue": "لقب المعلم عند السيخ، ويطلقونه على كتابهم أيضا",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "يعامل السيخ كتابهم غورو غرانث صاحب بوصفه المعلم الدائم بعد المعلمين العشرة."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "فيدا",
+      "clue": "أقدم طبقات الأدب الديني الهندي، حفظت مشافهة قرونا قبل التدوين",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "أربع مجموعات بالسنسكريتية الفيدية، نقلها البراهمة بالحفظ الدقيق قبل كتابتها."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "تلمود",
+      "clue": "شروح الحاخامات، وله رواية بابلية وأخرى مقدسية",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "نص يهودي يجمع المشناة والجمارا، وله نسختان: البابلية والأورشليمية."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "مزامير",
+      "clue": "سفر من مئة وخمسين ترنيمة، يرتل في الكنيس والكنيسة معا",
+      "clueStyle": "trivia",
+      "difficultyRating": 3,
+      "explanation": "سفر عبري يقرأ في العبادة اليهودية والمسيحية على السواء."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "مشناة",
+      "clue": "أقدم طبقات الشريعة الشفوية اليهودية، دونت نحو سنة مئتين للميلاد",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "جمعها الحاخام يهوذا الناسي في فلسطين الرومانية مطلع القرن الثالث."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 4,
+      "answer": "مصحف",
+      "clue": "اسم النسخة المكتوبة المجموعة بين دفتين",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "الكلمة من الصحف، وتطلق على النسخة المادية المكتوبة من الكتاب في التقليد الإسلامي."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 6,
+      "answer": "ترتيل",
+      "clue": "أداء القراءة على مهل، بأحكام نطق مضبوطة",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "طريقة أداء متمهلة لقراءة النص في التقليد الإسلامي، لها أحكام مدروسة."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "جمعت المشناة نحو سنة مئتين للميلاد في فلسطين الرومانية، ثم بنيت عليها الجمارا فتكون منهما التلمود في نسختيه البابلية والأورشليمية.",
+      "sourceTitle": "موسوعة بريتانيكا — مادة Mishnah",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "نقلت النصوص الفيدية شفاهة عبر أجيال من الحفظة قبل تدوينها، بطرائق إنشاد وضعت خصيصا لضبط الحروف والنبر.",
+      "sourceTitle": "اليونسكو — تلاوة الفيدا، قائمة التراث الثقافي غير المادي",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "لغة الأفستا، وهي لغة إيرانية شرقية قديمة، لا تعرف اليوم إلا من النصوص الزرادشتية نفسها، ولذلك يقدر تاريخ تدوينها تقديرا لا تحديدا.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "slug": "ar-sawt-al-ittisal",
+  "title": "صوت الاتصال",
+  "language": "ar",
+  "subject": "internet-culture",
+  "topic": "early-web",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "أيام كانت الصفحة تنزل سطرا سطرا، والخط يشغل الهاتف.",
+  "completionMessage": "قطع الخط.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "صفحة",
+      "clue": "قيد الإنشاء، كما كانت تقول لافتتها",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "كانت صورة الرجل الحافر ولافتة قيد الإنشاء من أشهر عناصر مواقع التسعينيات."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "نتسكيب",
+      "clue": "خسر حرب التسعينيات أمام إنترنت إكسبلورر",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "صدر سنة 1994 وساد الشبكة قبل أن تزيحه منافسة إنترنت إكسبلورر في أواخر التسعينيات."
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 7,
+      "answer": "متصفح",
+      "clue": "برنامج مهمته أن يعرض ما كتبه غيره",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 4,
+      "answer": "منتدى",
+      "clue": "ساحة نقاش بأقسام ومشرفين وتوقيعات",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "كانت المنتديات العربية أوسع فضاء للنقاش على الشبكة قبل انتشار مواقع التواصل."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 4,
+      "answer": "مدونة",
+      "clue": "يوميات مرتبة من الأحدث إلى الأقدم",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 8,
+      "answer": "بريد",
+      "clue": "لا طوابع فيه ولا ساعي",
+      "clueStyle": "misdirection",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 0,
+      "answer": "مودم",
+      "clue": "صرير معدني كان يسبق الدخول",
+      "clueStyle": "everyday",
+      "difficultyRating": 2,
+      "explanation": "جهاز يحول الإشارة الرقمية إلى صوتية على خط الهاتف، ومنه ذلك الصرير المميز."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 2,
+      "answer": "خادم",
+      "clue": "حاسوب لا ينام لأن غيره يسأله",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "وصلة",
+      "clue": "كلمة زرقاء تحتها خط",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "الترجمة العربية للرابط التشعبي، وكان يعرض تقليديا بلون أزرق مسطر."
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "دردشة",
+      "clue": "غرفة لا جدران لها ولا كراسي",
+      "clueStyle": "misdirection",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "أتاح تيم بيرنرز لي أول موقع ويب في العالم على خادم في المنظمة الأوروبية للأبحاث النووية سيرن سنة 1991، وأعلن سيرن سنة 1993 وضع تقنية الويب في الملك العام.",
+      "sourceTitle": "سيرن — تاريخ الويب",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "صدر متصفح نتسكيب نافيغيتور سنة 1994، وفتحت شركته شفرة المتصفح سنة 1998 فكانت أساس مشروع موزيلا.",
+      "sourceTitle": "مؤسسة موزيلا — تاريخ المشروع",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "يوصف صرير المودم الهاتفي بأنه مصافحة بين جهازين يتفقان على سرعة الإرسال، وتفاصيل ما يسمع في كل مرحلة منه تختلف باختلاف معايير المودم المستعملة.",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}
