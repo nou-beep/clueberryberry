@@ -310,6 +310,16 @@ const MOTIFS: Record<SubjectTheme, React.ReactNode> = {
       <path d="M18.8 7.2h3.6l-.6 4.4h-2.4z" />
     </>
   ),
+  // A hanging lamp: an object many traditions share and none owns. No charm —
+  // this subject is archival.
+  religion: (
+    <>
+      <path d="M12 2.4v3.2" />
+      <path d="M7.6 20.4c0-3.4 1.6-5.4 1.6-8a2.8 2.8 0 0 1 5.6 0c0 2.6 1.6 4.6 1.6 8z" />
+      <path d="M9.2 12.4h5.6" />
+      <path d="M6.4 20.4h11.2" />
+    </>
+  ),
   // A croissant on a café saucer.
   frenchculture: (
     <>
@@ -411,6 +421,8 @@ const FIELD_PATHS: Record<SubjectTheme, string> = {
     "<path d='M24 8l3.4 5.6 5.6-3.4-3.4 5.6 5.6 3.4-5.6 3.4 3.4 5.6-5.6-3.4L24 30l-3.4-5.6-5.6 3.4 3.4-5.6-5.6-3.4 5.6-3.4-3.4-5.6 5.6 3.4z'/><path d='M78 74h10l-1.6 14h-6.8z'/><path d='M79 80h8'/>",
   arabworld:
     "<path d='M14 38V24a8 8 0 0 1 16 0v14z'/><path d='M22 24v14'/><path d='M11 38h22'/><path d='M82 74h8l-1.4 10h-5.2z'/><path d='M84 71h4'/>",
+  religion:
+    "<path d='M24 8v6'/><path d='M16 40c0-7 3-11 3-16a5 5 0 0 1 10 0c0 5 3 9 3 16z'/><path d='M19 24h10'/><path d='M14 40h20'/><path d='M78 74v22'/><path d='M72 96h12'/>",
   frenchculture:
     "<path d='M11 26c2.4-8 9-12.4 15.6-11.4 4.6.7 7.4 4.4 6.7 8-.7 3.7-4.4 5.4-7.4 4'/><path d='M16 22l2.6 4M22 19l2.4 4.4M27 18l1.4 4.4'/><path d='M9 33h30'/><circle cx='86' cy='82' r='4'/>",
 };

@@ -45,6 +45,7 @@ export const SUBJECT_THEMES = [
   "morocco",
   "arabworld",
   "frenchculture",
+  "religion",
 ] as const;
 
 export type SubjectTheme = (typeof SUBJECT_THEMES)[number];

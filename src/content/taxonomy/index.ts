@@ -2,6 +2,7 @@ import { CULTURE } from "./culture";
 import { FANDOM } from "./fandom";
 import { KNOW } from "./know";
 import { MORE } from "./more";
+import { RELIGION } from "./religion";
 import { LEARN } from "./learn";
 import type { Section, SubjectDef } from "./types";
 
@@ -13,6 +14,7 @@ export const TAXONOMY: SubjectDef[] = [
   ...KNOW,
   ...CULTURE,
   ...MORE,
+  ...RELIGION,
   ...FANDOM,
 ];
 

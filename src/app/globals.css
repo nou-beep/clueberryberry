@@ -209,6 +209,9 @@
 [data-subject="arabworld"] { --accent: #1f6f5f; --accent-soft: #1f6f5f26; }    /* 5.21 teal green */
 [data-subject="frenchculture"] { --accent: #3b5bbf; --accent-soft: #3b5bbf26; }/* 5.63 french blue */
 
+/* Archival: a neutral slate, deliberately not any tradition's colour. */
+[data-subject="religion"] { --accent: #4a5b7a; --accent-soft: #4a5b7a26; }     /* 6.31 slate */
+
 [data-theme="lamp"] [data-subject="biology"] { --accent: #9fd3a3; }      /* 8.15 */
 [data-theme="lamp"] [data-subject="psychology"] { --accent: #ff9ec1; }   /* 7.22 */
 [data-theme="lamp"] [data-subject="chemistry"] { --accent: #eeb367; }    /* 7.46 */
@@ -243,6 +246,7 @@
 [data-theme="lamp"] [data-subject="morocco"] { --accent: #eda07f; }
 [data-theme="lamp"] [data-subject="arabworld"] { --accent: #86cfbe; }
 [data-theme="lamp"] [data-subject="frenchculture"] { --accent: #a8bcf2; }
+[data-theme="lamp"] [data-subject="religion"] { --accent: #a9b8d4; }
 
 /* --------------------------------------------------------------------------
    Archival tone. A *reduction* of decoration for subjects where cheerfulness

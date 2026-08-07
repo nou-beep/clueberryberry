@@ -25,6 +25,19 @@ export const KNOW: SubjectDef[] = [
     },
     collections: [
       {
+        slug: "gk-mixed-bag",
+        names: {
+          en: "A bit of everything",
+          fr: "Un peu de tout",
+          ar: "من كل بستان زهرة",
+        },
+        descriptions: {
+          en: "Grids that refuse to stay on one subject. Science next to pop songs next to rivers.",
+          fr: "Des grilles qui refusent de s'en tenir à un sujet. La science, la chanson et les fleuves côte à côte.",
+          ar: "شبكات لا تلتزم موضوعًا واحدًا. العلم إلى جانب الأغاني إلى جانب الأنهار.",
+        },
+      },
+      {
         slug: "gk-science",
         names: { en: "Science", fr: "Sciences", ar: "العلوم" },
         descriptions: {
