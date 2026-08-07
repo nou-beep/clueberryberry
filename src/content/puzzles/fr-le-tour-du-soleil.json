@@ -1,0 +1,116 @@
+{
+  "slug": "fr-le-tour-du-soleil",
+  "title": "Le tour du Soleil",
+  "language": "fr",
+  "subject": "space",
+  "topic": "the-solar-system",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Neuf pas dans le voisinage, anneaux et cailloux compris.",
+  "completionMessage": "Retour sur Terre.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "JUPITER",
+      "clue": "Sa tache rouge tient depuis des siècles",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "ECLIPSE",
+      "clue": "Quand l’un passe pile devant l’autre",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "PHOBOS",
+      "clue": "Petit satellite pressé de la planète rouge",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "LUNE",
+      "clue": "Elle nous montre toujours le même côté",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "ORBITE",
+      "clue": "Chemin fermé, ou creux de l’œil",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 6,
+      "answer": "COMETE",
+      "clue": "Sa queue montre toujours la direction opposée au Soleil",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 6,
+      "answer": "MARS",
+      "clue": "Quatrième en partant du centre, et rouillée",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "SATURNE",
+      "clue": "Ses anneaux se voient à la lunette",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 3,
+      "answer": "CERES",
+      "clue": "Naine coincée dans la ceinture d’astéroïdes",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Cérès, découverte par Giuseppe Piazzi le 1er janvier 1801, a d’abord été comptée parmi les planètes, puis parmi les astéroïdes. L’Union astronomique internationale l’a classée parmi les planètes naines en 2006.",
+      "sourceTitle": "Union astronomique internationale — résolution B5 (2006)",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Lune présente toujours la même face à la Terre : sa période de rotation égale sa période de révolution, un état dit de rotation synchrone.",
+      "sourceTitle": "NASA — Earth’s Moon, in depth",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Phobos boucle son tour de Mars en un peu moins de huit heures, plus vite que la planète ne tourne sur elle-même, et s’en rapproche lentement.",
+      "sourceTitle": "NASA — Mars Moons: Phobos",
+      "reviewStatus": "verified"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "fr-a-tire-d-aile",
+  "title": "À tire-d’aile",
+  "language": "fr",
+  "subject": "animals",
+  "topic": "birds",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Neuf oiseaux, du fond du jardin jusqu’aux banquises.",
+  "completionMessage": "La mangeoire est vide.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "COUCOU",
+      "clue": "Il fait couver ses œufs par les voisins",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "CIGOGNE",
+      "clue": "Elle bâtit sur les cheminées d’Alsace",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "MESANGE",
+      "clue": "Petite habituée des mangeoires d’hiver",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 2,
+      "answer": "MANCHOT",
+      "clue": "Il nage bien mieux qu’il ne marche",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "HUPPE",
+      "clue": "Crête en éventail, cri en trois notes",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 11,
+      "answer": "PIVERT",
+      "clue": "Il tambourine sur les troncs",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "HIBOU",
+      "clue": "Deux aigrettes sur la tête, et un pluriel en x",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "NICHOIR",
+      "clue": "Caisse à trou rond, clouée au tronc",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "ROITELET",
+      "clue": "Boule de plumes de six grammes",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le coucou gris est un parasite de couvée : la femelle dépose son œuf dans le nid d’une autre espèce, et le jeune évince ensuite la ponte de ses hôtes.",
+      "sourceTitle": "Muséum national d’Histoire naturelle — INPN, Cuculus canorus",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le roitelet huppé pèse environ cinq à sept grammes, ce qui le place parmi les plus légers des oiseaux d’Europe.",
+      "sourceTitle": "Muséum national d’Histoire naturelle — INPN, Regulus regulus",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La population alsacienne de cigognes blanches, tombée très bas dans les années 1970, s’est reconstituée à la suite de programmes de réintroduction ; la part respective de ces programmes et du retour spontané reste débattue.",
+      "sourceTitle": "LPO Alsace — programme cigogne blanche",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "slug": "fr-lumiere-sur-l-ecran",
+  "title": "Lumière sur l’écran",
+  "language": "fr",
+  "subject": "movies-and-tv",
+  "topic": "french-cinema",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Du Grand Café à la Croisette, dix repères du cinéma français.",
+  "completionMessage": "Générique de fin.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "GODARD",
+      "clue": "« À bout de souffle », 1960",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "CLAP",
+      "clue": "Ardoise à barres noires et blanches",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "AMELIE",
+      "clue": "Poulain, à Montmartre, en 2001",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "SCENARIO",
+      "clue": "On l’écrit avant de tourner",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "CANNES",
+      "clue": "Croisette, marches et palmiers",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "PALME",
+      "clue": "___ d’or, décernée à la fin du festival",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "MELIES",
+      "clue": "Il envoie une fusée dans l’œil de la Lune en 1902",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Le Voyage dans la Lune, environ quinze minutes de trucages.",
+      "sourceNotes": "Cinémathèque française — Georges Méliès."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 2,
+      "answer": "VARDA",
+      "clue": "« Cléo de 5 à 7 », puis des glaneurs",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 1,
+      "answer": "TATI",
+      "clue": "Il a inventé Monsieur Hulot",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 4,
+      "answer": "CESAR",
+      "clue": "Récompense dessinée par un sculpteur de compressions",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "« Le Voyage dans la Lune » de Georges Méliès, sorti en 1902, dure une quinzaine de minutes et compte parmi les premières fictions à reposer entièrement sur des trucages.",
+      "sourceTitle": "Cinémathèque française — Georges Méliès",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les César du cinéma sont remis depuis 1976. La statuette est une compression signée du sculpteur César Baldaccini, qui a donné son prénom à la récompense.",
+      "sourceTitle": "Académie des César",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Agnès Varda, dont « Cléo de 5 à 7 » sort en 1962, a reçu un Oscar d’honneur en novembre 2017 ; elle est souvent présentée comme la première réalisatrice distinguée à ce titre.",
+      "sourceTitle": "Academy of Motion Picture Arts and Sciences — Governors Awards 2017",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

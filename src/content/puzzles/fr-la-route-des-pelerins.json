@@ -1,0 +1,128 @@
+{
+  "slug": "fr-la-route-des-pelerins",
+  "title": "La route des pèlerins",
+  "language": "fr",
+  "subject": "world-religions",
+  "topic": "rel-pilgrimage",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Des villes, des gestes et des étoffes : ce que l’on emporte en chemin.",
+  "completionMessage": "Le parcours est complet.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "AMRITSAR",
+      "clue": "Cité du Pendjab où l’on vient au Harmandir Sahib",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "KUMBH",
+      "clue": "___ Mela, rassemblement périodique au bord du Gange",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "BODHGAYA",
+      "clue": "Au Bihar, au pied du figuier de l’Éveil",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "RELIQUE",
+      "clue": "Ce que le voyageur dévot fait des kilomètres pour approcher",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 3,
+      "answer": "IHRAM",
+      "clue": "Deux pièces d’étoffe non cousue, et l’état qu’elles marquent",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "VARANASI",
+      "clue": "Ville aux longs escaliers de pierre descendant vers le fleuve",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 4,
+      "explanation": "Les ghats bordent la rive gauche sur plusieurs kilomètres."
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 2,
+      "answer": "TAWAF",
+      "clue": "Sept tours accomplis dans le sens inverse des aiguilles",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 10,
+      "answer": "LOURDES",
+      "clue": "Sanctuaire des Hautes-Pyrénées fréquenté depuis 1858",
+      "clueStyle": "historical",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 4,
+      "answer": "KAABA",
+      "clue": "Édifice cubique au centre de la Grande Mosquée",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "COMPOSTELLE",
+      "clue": "Terme galicien d’un chemin balisé de coquilles",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3,
+      "explanation": "Les chemins français vers ce sanctuaire sont inscrits au patrimoine mondial depuis 1998.",
+      "sourceNotes": "UNESCO — Chemins de Saint-Jacques-de-Compostelle en France."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Les chemins de Saint-Jacques-de-Compostelle en France sont inscrits sur la liste du patrimoine mondial depuis 1998 ; la route espagnole, dite camino francés, l’avait été en 1993.",
+      "sourceTitle": "UNESCO — Chemins de Saint-Jacques-de-Compostelle en France",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le hajj se déroule chaque année du 8 au 13 du mois de dhou al-hijja. Il comprend le tawaf, sept circumambulations autour de la Kaaba, et la station à Arafat.",
+      "sourceTitle": "Encyclopædia Britannica — hajj",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Kumbh Mela réunit des pèlerins à Prayagraj, Haridwar, Nashik et Ujjain selon un cycle établi. Elle est inscrite depuis 2017 sur la liste représentative du patrimoine culturel immatériel de l’humanité.",
+      "sourceTitle": "UNESCO — Kumbh Mela",
+      "reviewStatus": "verified"
+    }
+  ]
+}

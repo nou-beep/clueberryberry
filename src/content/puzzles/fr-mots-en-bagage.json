@@ -1,0 +1,126 @@
+{
+  "slug": "fr-mots-en-bagage",
+  "title": "Mots en bagage",
+  "language": "fr",
+  "subject": "language",
+  "topic": "etymology",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Dix mots français qui ont voyagé avant d’arriver ici.",
+  "completionMessage": "Bagages posés.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "ALGEBRE",
+      "clue": "Elle vient de l’arabe al-jabr, « la remise en place »",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "AVATAR",
+      "clue": "Descente divine en sanskrit, vignette de profil aujourd’hui",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "BISTRO",
+      "clue": "Origine russe souvent racontée, jamais démontrée",
+      "clueStyle": "trivia",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "BOUGIE",
+      "clue": "Ville d’Algérie devenue objet de cire",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4,
+      "explanation": "Béjaïa, port d’où l’on importait la cire au Moyen Âge."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "TABOU",
+      "clue": "Rapporté du Pacifique par les navigateurs du XVIIIe siècle",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 3,
+      "answer": "ORANGE",
+      "clue": "Le n de départ est passé du côté de l’article",
+      "clueStyle": "wordplay",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 2,
+      "answer": "CAUCHEMAR",
+      "clue": "Le presseur de nuit, venu du picard",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 6,
+      "answer": "HASARD",
+      "clue": "Un jeu de dés arabe devenu synonyme d’imprévu",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 8,
+      "answer": "SABIR",
+      "clue": "Parler de contact des ports de Méditerranée",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 5,
+      "answer": "SALAIRE",
+      "clue": "On l’a longtemps rattaché au sel des légionnaires",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "« Orange » a été emprunté à l’arabe nāranj par l’intermédiaire de l’italien. L’initiale n a disparu par mécoupure de l’article — une narange devenant une orange —, le même mécanisme qui a produit « lierre » à partir de « l’ierre ».",
+      "sourceTitle": "CNRTL — Trésor de la langue française, article « orange »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’étymologie qui fait venir « bistro » du russe bystro, « vite », lancé par des soldats de passage à Paris en 1814, est très répandue mais non attestée : le mot n’apparaît en français qu’à la fin du XIXe siècle.",
+      "sourceTitle": "CNRTL — Trésor de la langue française, article « bistro »",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "« Salaire » descend du latin salarium, dérivé de sal, le sel. L’idée d’une solde effectivement versée en sel aux légionnaires est traditionnelle, et discutée par les historiens.",
+      "sourceTitle": "CNRTL — Trésor de la langue française, article « salaire »",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

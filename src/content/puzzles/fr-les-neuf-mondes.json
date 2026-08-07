@@ -1,0 +1,120 @@
+{
+  "slug": "fr-les-neuf-mondes",
+  "title": "Les neuf mondes",
+  "language": "fr",
+  "subject": "mythology",
+  "topic": "norse-mythology",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Un arbre, un loup, un marteau raté : la matière du Nord.",
+  "completionMessage": "Les mondes sont recousus.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "MIDGARD",
+      "clue": "L’enclos du milieu, celui des humains",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "MJOLNIR",
+      "clue": "Marteau sorti de la forge avec un manche trop court",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "Le récit attribue le défaut à une mouche envoyée par Loki pendant le travail des nains."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "LOKI",
+      "clue": "Il change de forme, et de camp",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 10,
+      "answer": "RAGNAROK",
+      "clue": "Fin annoncée de longue date, et déjà racontée",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 3,
+      "answer": "EDDA",
+      "clue": "Recueil islandais qui existe en vers et en prose",
+      "clueStyle": "cultural",
+      "difficultyRating": 3,
+      "explanation": "La version en prose est composée vers 1220 par Snorri Sturluson.",
+      "sourceNotes": "Encyclopædia Britannica, article « Edda »."
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 0,
+      "answer": "YGGDRASIL",
+      "clue": "Frêne dont les racines tiennent tout en place",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 5,
+      "answer": "FENRIR",
+      "clue": "Loup retenu par un lien tissé de choses qui n’existent pas",
+      "clueStyle": "cultural",
+      "difficultyRating": 4,
+      "explanation": "Gleipnir, fait entre autres du bruit du pas d’un chat et de la barbe d’une femme."
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 8,
+      "answer": "RUNE",
+      "clue": "Signe gravé plutôt que tracé",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 1,
+      "answer": "VALKYRIE",
+      "clue": "Elle désigne qui tombera au combat",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "On distingue l’Edda poétique, recueil anonyme conservé dans le Codex Regius, et l’Edda en prose, composée vers 1220 par l’Islandais Snorri Sturluson.",
+      "sourceTitle": "Encyclopædia Britannica — Edda",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le futhark ancien, le plus ancien alphabet runique attesté, compte vingt-quatre signes. Les datations proposées pour les inscriptions les plus anciennes restent discutées.",
+      "sourceTitle": "Encyclopædia Britannica — runic alphabet",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Les récits scandinaves nous sont surtout parvenus par des textes islandais rédigés au XIIIe siècle, soit deux siècles après la christianisation de l’île.",
+      "sourceTitle": "Encyclopædia Britannica — Germanic religion and mythology",
+      "reviewStatus": "verified"
+    }
+  ]
+}

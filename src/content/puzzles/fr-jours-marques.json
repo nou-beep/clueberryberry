@@ -1,0 +1,123 @@
+{
+  "slug": "fr-jours-marques",
+  "title": "Jours marqués",
+  "language": "fr",
+  "subject": "world-religions",
+  "topic": "rel-festivals",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "Neuf dates que l’on tient, et ce que l’on y fait.",
+  "completionMessage": "Le calendrier est parcouru.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "CAREME",
+      "clue": "Les quarante jours qui précèdent Pâques",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "NOWRUZ",
+      "clue": "Nouvelle année ouverte à l’équinoxe de printemps",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "Observée de l’Iran à l’Asie centrale et dans les Balkans.",
+      "sourceNotes": "UNESCO — Nowrouz, patrimoine culturel immatériel."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 5,
+      "answer": "VESAK",
+      "clue": "Pleine lune du printemps, dans une grande part du bouddhisme",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 9,
+      "answer": "CHABBAT",
+      "clue": "Repos hebdomadaire du vendredi soir au samedi soir",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Comme les autres jours du calendrier hébraïque, il commence le soir.",
+      "acceptedAlternatives": [
+        "SHABBAT"
+      ]
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "PESSAH",
+      "clue": "Huit jours de printemps sans pain levé",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Le repas d’ouverture, le séder, suit un ordre fixé."
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 11,
+      "answer": "HOLI",
+      "clue": "Poudres de couleur lancées au printemps",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 0,
+      "answer": "RAMADAN",
+      "clue": "Neuvième mois du calendrier musulman, celui du jeûne",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 7,
+      "answer": "AID",
+      "clue": "___ el-Fitr, au lendemain du mois de jeûne",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 6,
+      "answer": "DIWALI",
+      "clue": "Rangées de lampes allumées à l’automne, en Inde et ailleurs",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Nowrouz marque le début de l’année à l’équinoxe de printemps. Il figure depuis 2009 sur la liste représentative du patrimoine culturel immatériel de l’humanité.",
+      "sourceTitle": "UNESCO — Nowrouz",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Vesak réunit en un seul jour de pleine lune la naissance, l’Éveil et la mort du Bouddha dans une grande partie du bouddhisme theravada ; d’autres écoles répartissent ces commémorations sur plusieurs dates.",
+      "sourceTitle": "Encyclopædia Britannica — Vesak",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Dans le calendrier hébraïque, le jour se compte d’un coucher de soleil au suivant. Le chabbat commence donc le vendredi au crépuscule et s’achève le samedi à la tombée de la nuit.",
+      "sourceTitle": "Encyclopædia Britannica — Sabbath",
+      "reviewStatus": "verified"
+    }
+  ]
+}

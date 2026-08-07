@@ -1,0 +1,128 @@
+{
+  "slug": "fr-avant-l-ecran",
+  "title": "Avant l’écran",
+  "language": "fr",
+  "subject": "technology",
+  "topic": "computing-history",
+  "difficulty": "medium",
+  "width": 9,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Des salles climatisées aux terminaux à écran vert.",
+  "completionMessage": "Session close.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 2,
+      "answer": "SOURIS",
+      "clue": "Présentée en 1968 avec deux roues sous le ventre",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 3,
+      "answer": "OCTET",
+      "clue": "Huit bits, ou huit musiciens",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "FORTRAN",
+      "clue": "Langage de 1957 taillé pour le calcul scientifique",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 8,
+      "answer": "BOGUE",
+      "clue": "Défaut logiciel, et le nom d’une enveloppe de châtaigne",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "TURING",
+      "clue": "Machine imaginaire, et un test resté célèbre",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 0,
+      "answer": "ADA",
+      "clue": "Lovelace, ou le langage qui reprend son prénom",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "DISQUETTE",
+      "clue": "Devenue l’icône de la sauvegarde longtemps après sa disparition",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 5,
+      "answer": "ENIAC",
+      "clue": "Calculateur américain dévoilé en 1946",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Programmé en recâblant, par une équipe très majoritairement féminine."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "MINITEL",
+      "clue": "Terminal loué avec l’annuaire, débranché en 2012",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Déployé en France à partir de 1982.",
+      "sourceNotes": "Arcep — fermeture du service Minitel, 30 juin 2012."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 1,
+      "answer": "SILICIUM",
+      "clue": "Élément qui a donné son nom à une vallée",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le Minitel, terminal vidéotex déployé en France à partir de 1982, a été mis hors service le 30 juin 2012.",
+      "sourceTitle": "Arcep — fermeture du service Minitel",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le 9 décembre 1968, à San Francisco, Douglas Engelbart présente en une seule démonstration le pointeur à deux roues, l’hypertexte, la visioconférence et l’édition partagée.",
+      "sourceTitle": "Encyclopædia Britannica — Douglas Engelbart",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Un papillon de nuit retiré d’un relais du Harvard Mark II en 1947 a bien été collé dans un carnet de laboratoire, mais l’emploi de « bug » pour un défaut technique lui est antérieur de plusieurs décennies.",
+      "sourceTitle": "Smithsonian National Museum of American History — the first computer bug",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "fr-la-langue-bien-pendue",
+  "title": "La langue bien pendue",
+  "language": "fr",
+  "subject": "french-culture",
+  "topic": "french-expressions",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Dix expressions dont on a oublié le décor d’origine.",
+  "completionMessage": "Voilà, on n’en fera pas tout un fromage.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "CARAFE",
+      "clue": "Rester en panne, en langage familier",
+      "clueStyle": "phrase",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "CHOCOLAT",
+      "clue": "Privé au dernier moment de ce qu’on espérait",
+      "clueStyle": "phrase",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "CHANDELLE",
+      "clue": "Le jeu n’en vaut pas la ___",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "PENDABLE",
+      "clue": "Se dit d’un tour digne de la corde",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "PLATRE",
+      "clue": "Essuyer les ___",
+      "clueStyle": "fill_in_blank",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 7,
+      "answer": "MOUTONS",
+      "clue": "On y revient une fois la digression finie",
+      "clueStyle": "phrase",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 2,
+      "answer": "QUENOUILLE",
+      "clue": "Bâton de fileuse ; y tomber, c’est s’éteindre faute d’héritier",
+      "clueStyle": "definition",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 8,
+      "column": 5,
+      "answer": "MIDI",
+      "clue": "On le cherche à quatorze heures",
+      "clueStyle": "phrase",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "VESSIES",
+      "clue": "On les fait prendre pour des lanternes",
+      "clueStyle": "phrase",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 3,
+      "answer": "POIREAU",
+      "clue": "Attendre debout et longtemps, c’est le faire",
+      "clueStyle": "phrase",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "« Chercher midi à quatorze heures », attesté dès le XVIe siècle, signifie compliquer à plaisir une chose simple.",
+      "sourceTitle": "CNRTL — Trésor de la langue française, article « midi »",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "« Tomber en quenouille » vient du droit successoral d’Ancien Régime : la quenouille, attribut du travail féminin, désignait par métonymie la transmission d’un fief à une femme. Le glissement vers le sens de déclin est plus tardif et sa datation reste discutée.",
+      "sourceTitle": "CNRTL — Trésor de la langue française, article « quenouille »",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "« Prendre des vessies pour des lanternes » est relevé en français dès le Moyen Âge. Des vessies séchées et gonflées ont bien servi d’abat-jour translucides, mais le lien direct entre cet usage et l’expression n’est pas établi.",
+      "sourceTitle": "CNRTL — Trésor de la langue française, article « vessie »",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

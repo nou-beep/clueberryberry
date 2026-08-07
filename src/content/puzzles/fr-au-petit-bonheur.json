@@ -1,0 +1,127 @@
+{
+  "slug": "fr-au-petit-bonheur",
+  "title": "Au petit bonheur",
+  "language": "fr",
+  "subject": "general-knowledge",
+  "topic": "gk-mixed-bag",
+  "difficulty": "medium",
+  "width": 11,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 450,
+  "introduction": "Dix questions tirées au hasard : chimie, chanson, vents et petits pays.",
+  "completionMessage": "Le tirage est épuisé.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "BAOBAB",
+      "clue": "Arbre du Sahel au tronc de citerne",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "OCRE",
+      "clue": "Terre du Luberon, du jaune au rouge",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "ANDORRE",
+      "clue": "Principauté gouvernée par deux coprinces",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "QUINOA",
+      "clue": "Graine des Andes que l’on cuit comme une céréale",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 6,
+      "answer": "CATALYSE",
+      "clue": "Elle accélère la réaction sans y laisser de plumes",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "SEXTANT",
+      "clue": "Il mesure la hauteur d’un astre au-dessus de l’horizon",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 0,
+      "answer": "ORIGAMI",
+      "clue": "Pliage sans ciseaux ni colle",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 6,
+      "answer": "ALIZE",
+      "clue": "Vent régulier qui souffle des tropiques vers l’équateur",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 3,
+      "answer": "BREL",
+      "clue": "« Ne me quitte pas » est de lui",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Enregistrée en 1959 par ce chanteur belge.",
+      "sourceNotes": "Bibliothèque nationale de France — fonds Jacques Brel."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "ISOTOPE",
+      "clue": "Même élément, nombre de neutrons différent",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "L’Andorre a pour chefs d’État deux coprinces : le président de la République française et l’évêque d’Urgell, en Catalogne.",
+      "sourceTitle": "Encyclopædia Britannica — Andorra",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les alizés soufflent des zones subtropicales de haute pression vers l’équateur. Leur déviation vers l’ouest s’explique par la rotation terrestre, décrite par la force de Coriolis.",
+      "sourceTitle": "Encyclopædia Britannica — trade wind",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les ocres du Luberon, exploités notamment autour de Roussillon et de Rustrel, doivent leur gamme de teintes à des oxydes de fer présents dans les sables. L’étendue exacte des anciennes carrières est mal établie.",
+      "sourceTitle": "Parc naturel régional du Luberon — les ocres",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

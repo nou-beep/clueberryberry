@@ -1,0 +1,127 @@
+{
+  "slug": "fr-batterie-faible",
+  "title": "Batterie faible",
+  "language": "fr",
+  "subject": "the-2000s",
+  "topic": "2000s-tech",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 420,
+  "introduction": "Une décennie d’appareils qu’on rechargeait tous les trois jours.",
+  "completionMessage": "Extinction de l’écran.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "GRAVEUR",
+      "clue": "Il brûlait les galettes à la maison",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 0,
+      "answer": "BALADEUR",
+      "clue": "Équivalent français officiel de walkman",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 9,
+      "answer": "MSN",
+      "clue": "Messagerie où l’on faisait trembler la fenêtre d’en face",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 10,
+      "answer": "SKYBLOG",
+      "clue": "Journal en ligne hébergé par une radio française",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 3,
+      "answer": "WIKIPEDIA",
+      "clue": "Encyclopédie ouverte à tous, lancée en 2001",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 0,
+      "answer": "USB",
+      "clue": "Port rectangulaire qu’on présente rarement du bon côté",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 5,
+      "answer": "FIREFOX",
+      "clue": "Renard roux sorti du nid en 2004",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "IPOD",
+      "clue": "Mille chansons dans la poche, dit l’annonce de 2001",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "5 Go, connexion FireWire, et Macintosh uniquement au départ.",
+      "sourceNotes": "Apple — communiqué du 23 octobre 2001."
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 0,
+      "answer": "BLUETOOTH",
+      "clue": "Un roi danois du Xe siècle a prêté son surnom à cette norme",
+      "clueStyle": "trivia",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 1,
+      "answer": "CLAPET",
+      "clue": "On raccrochait en le refermant d’un coup sec",
+      "clueStyle": "everyday",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le premier iPod, présenté le 23 octobre 2001, offrait 5 Go, se raccordait en FireWire et ne fonctionnait au départ qu’avec le Macintosh.",
+      "sourceTitle": "Apple — communiqué de presse du 23 octobre 2001",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le nom Bluetooth reprend le surnom du roi danois Harald Blåtand ; le logo superpose les runes Hagall et Bjarkan, initiales de ce nom.",
+      "sourceTitle": "Bluetooth SIG — origin of the name",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "« Baladeur » a été retenu comme équivalent français de walkman par la commission de terminologie compétente et publié au Journal officiel en 1982 ; l’usage courant est resté longtemps partagé.",
+      "sourceTitle": "Journal officiel de la République française — vocabulaire de l’audiovisuel",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

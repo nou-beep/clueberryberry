@@ -1,0 +1,116 @@
+{
+  "slug": "fr-capitales-en-chemin",
+  "title": "Capitales en chemin",
+  "language": "fr",
+  "subject": "arab-world",
+  "topic": "arab-capitals",
+  "difficulty": "easy",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 360,
+  "introduction": "Neuf capitales, de l’Atlantique au golfe Persique.",
+  "completionMessage": "Itinéraire bouclé.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 2,
+      "answer": "DOHA",
+      "clue": "Elle a accueilli la Coupe du monde de football en 2022",
+      "clueStyle": "trivia",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 5,
+      "answer": "ALGER",
+      "clue": "Surnommée la Blanche, en gradins sur sa baie",
+      "clueStyle": "cultural",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 5,
+      "answer": "AMMAN",
+      "clue": "Capitale jordanienne bâtie sur des collines",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 7,
+      "answer": "BEYROUTH",
+      "clue": "Corniche d’un côté, montagne de l’autre",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 9,
+      "answer": "KHARTOUM",
+      "clue": "Là où le Nil Blanc et le Nil Bleu se rejoignent",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 1,
+      "answer": "MASCATE",
+      "clue": "Siège du gouvernement omanais, serré entre mer et rochers",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 0,
+      "answer": "MANAMA",
+      "clue": "Capitale insulaire de Bahreïn",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 2,
+      "answer": "TUNIS",
+      "clue": "Sa médina voisine avec les ruines de Carthage",
+      "clueStyle": "proper_noun",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "NOUAKCHOTT",
+      "clue": "Petit bourg côtier promu capitale à l’indépendance",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Khartoum se trouve au confluent du Nil Blanc et du Nil Bleu, qui forment ensuite le Nil. La ville a été fondée en 1821.",
+      "sourceTitle": "Encyclopædia Britannica — Khartoum",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Nouakchott n’était qu’une petite localité côtière lorsqu’elle a été choisie comme capitale, peu avant l’indépendance de la Mauritanie en 1960.",
+      "sourceTitle": "Encyclopædia Britannica — Nouakchott",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Coupe du monde de football de 2022 s’est tenue au Qatar, la plupart des rencontres se jouant à Doha et dans son agglomération ; elle est généralement présentée comme la première édition organisée dans un pays arabe.",
+      "sourceTitle": "FIFA — Coupe du monde de la FIFA, Qatar 2022",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

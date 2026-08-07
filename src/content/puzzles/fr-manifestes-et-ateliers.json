@@ -1,0 +1,127 @@
+{
+  "slug": "fr-manifestes-et-ateliers",
+  "title": "Manifestes et ateliers",
+  "language": "fr",
+  "subject": "art",
+  "topic": "art-movements",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Des écoles, des surnoms de critiques, et un chevalet pour tenir le tout.",
+  "completionMessage": "Le vernissage peut commencer.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "CHEVALET",
+      "clue": "Trois pieds pour tenir la toile",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 1,
+      "answer": "ROCOCO",
+      "clue": "Coquilles et volutes, après le Grand Siècle",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 5,
+      "answer": "NABIS",
+      "clue": "Groupe des années 1890 qui s’est nommé « les prophètes »",
+      "clueStyle": "historical",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "FAUVISME",
+      "clue": "Baptisé par une pique de critique au Salon d’automne de 1905",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 8,
+      "answer": "DADA",
+      "clue": "Zurich, 1916, au Cabaret Voltaire",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 1,
+      "answer": "CUBISME",
+      "clue": "Plusieurs points de vue tenus sur la même toile",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 3,
+      "answer": "BAUHAUS",
+      "clue": "École allemande ouverte en 1919, fermée en 1933",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Weimar, puis Dessau à partir de 1925, puis Berlin.",
+      "sourceNotes": "UNESCO — Le Bauhaus et ses sites à Weimar, Dessau et Bernau."
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 6,
+      "answer": "SEURAT",
+      "clue": "La Grande Jatte, point par point",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "ESTAMPE",
+      "clue": "Image tirée d’une planche gravée",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 3,
+      "answer": "SFUMATO",
+      "clue": "Contours dissous dans la vapeur, à la manière de Vinci",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le Bauhaus, fondé par Walter Gropius à Weimar en 1919, s’installe à Dessau en 1925, puis à Berlin, et ferme en 1933.",
+      "sourceTitle": "UNESCO — Le Bauhaus et ses sites à Weimar, Dessau et Bernau",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le groupe des Nabis, formé vers 1889 autour de Paul Sérusier, Maurice Denis et Pierre Bonnard, tire son nom de l’hébreu nevi’im, « les prophètes ».",
+      "sourceTitle": "Musée d’Orsay — les Nabis",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le mot « fauves » est rapporté à une formule du critique Louis Vauxcelles devant une salle du Salon d’automne de 1905 ; la citation exacte et les circonstances varient selon les récits.",
+      "sourceTitle": "Musée d’Orsay — le fauvisme",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

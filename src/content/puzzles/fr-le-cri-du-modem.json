@@ -1,0 +1,118 @@
+{
+  "slug": "fr-le-cri-du-modem",
+  "title": "Le cri du modem",
+  "language": "fr",
+  "subject": "internet-culture",
+  "topic": "early-web",
+  "difficulty": "hard",
+  "width": 9,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "Le web d’avant les applications : pages personnelles, anneaux et bandeaux clignotants.",
+  "completionMessage": "Déconnexion.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 0,
+      "answer": "NETSCAPE",
+      "clue": "Navigateur au grand N, lancé en 1994",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "GEOCITIES",
+      "clue": "Pages personnelles rangées par quartiers, éteintes en 2009",
+      "clueStyle": "historical",
+      "difficultyRating": 4,
+      "explanation": "Le service américain ferme le 26 octobre 2009 ; la version japonaise durera jusqu’en 2019.",
+      "sourceNotes": "Internet Archive — GeoCities."
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "USENET",
+      "clue": "Forums en arborescence, antérieurs au web",
+      "clueStyle": "historical",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 6,
+      "answer": "ICQ",
+      "clue": "Messagerie israélienne au « uh-oh » caractéristique",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "BANNIERE",
+      "clue": "Bandeau publicitaire de 468 pixels sur 60",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 5,
+      "answer": "GIF",
+      "clue": "Format de 1987, animé depuis 1989",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 5,
+      "column": 0,
+      "answer": "ALTAVISTA",
+      "clue": "Moteur de recherche des années d’avant Google",
+      "clueStyle": "historical",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "MODEM",
+      "clue": "Il module, puis il fait l’inverse",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 11,
+      "column": 2,
+      "answer": "WEBRING",
+      "clue": "Anneau de sites qui se renvoyaient les visiteurs",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "GeoCities, lancé en 1994 et racheté par Yahoo! en 1999, classait les pages personnelles en « quartiers » thématiques. Le service américain a fermé le 26 octobre 2009.",
+      "sourceTitle": "Internet Archive — GeoCities collection",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "CompuServe publie le format GIF en 1987 ; la révision 89a, en 1989, y ajoute l’animation par images successives et la transparence.",
+      "sourceTitle": "CompuServe — Graphics Interchange Format, version 89a",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le bandeau de 468 × 60 pixels figure parmi les premiers formats publicitaires normalisés du web, recommandés par l’Internet Advertising Bureau à partir de 1996 ; les listes de formats ont ensuite été révisées plusieurs fois.",
+      "sourceTitle": "Interactive Advertising Bureau — standard ad units",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

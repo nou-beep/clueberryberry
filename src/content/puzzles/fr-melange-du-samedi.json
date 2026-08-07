@@ -1,0 +1,119 @@
+{
+  "slug": "fr-melange-du-samedi",
+  "title": "Mélange du samedi",
+  "language": "fr",
+  "subject": "general-knowledge",
+  "topic": "gk-mixed-bag",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Un peu de laboratoire, un peu de salle de concert, et un détour par la carte.",
+  "completionMessage": "Voilà, on a fait le tour.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "PIANO",
+      "clue": "Doux, quand c’est écrit sur la partition",
+      "clueStyle": "cross_language",
+      "difficultyRating": 2,
+      "explanation": "L’instrument doit son nom à l’italien : il jouait doux et fort, contrairement au clavecin."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "HORLOGE",
+      "clue": "Elle sonne les heures depuis le clocher",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 6,
+      "answer": "ZEBRE",
+      "clue": "Rayé, et cousin du cheval",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 3,
+      "answer": "BOLERO",
+      "clue": "Ravel a étiré ce rythme espagnol sur un quart d’heure",
+      "clueStyle": "cultural",
+      "difficultyRating": 2,
+      "explanation": "Créé à l’Opéra de Paris en 1928 : un thème répété, seule l’orchestration change.",
+      "sourceNotes": "Encyclopædia Britannica, article « Boléro »."
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 8,
+      "answer": "ORAGE",
+      "clue": "L’éclair et le tonnerre, en un seul mot",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 1,
+      "answer": "OSMOSE",
+      "clue": "L’eau traverse la membrane, le sel reste derrière",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 2,
+      "answer": "SEISME",
+      "clue": "Secousse dont on mesure la magnitude",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "LOIRE",
+      "clue": "Le plus long fleuve entièrement français",
+      "clueStyle": "trivia",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 0,
+      "answer": "BRETON",
+      "clue": "Langue celtique cousine du gallois",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le Boléro de Maurice Ravel, créé à l’Opéra de Paris en 1928, répète le même thème sur un rythme invariable ; seule l’orchestration évolue, du solo de flûte au tutti final.",
+      "sourceTitle": "Encyclopædia Britannica — Boléro",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La Loire est couramment donnée pour le plus long fleuve dont le cours se situe entièrement en France, avec environ 1 006 km ; les longueurs publiées varient selon la méthode de mesure de l’estuaire.",
+      "sourceTitle": "Encyclopædia Britannica — Loire River",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Le breton appartient au groupe brittonique des langues celtiques, aux côtés du gallois et du cornique. On le rattache à des migrations venues de Grande-Bretagne vers l’Armorique, dont la chronologie reste discutée.",
+      "sourceTitle": "Encyclopædia Britannica — Breton language",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

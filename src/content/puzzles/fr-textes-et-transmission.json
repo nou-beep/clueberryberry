@@ -1,0 +1,133 @@
+{
+  "slug": "fr-textes-et-transmission",
+  "title": "Textes et transmission",
+  "language": "fr",
+  "subject": "world-religions",
+  "topic": "rel-sacred-texts",
+  "difficulty": "medium",
+  "width": 12,
+  "height": 11,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 480,
+  "introduction": "Dix mots sur les écritures et sur les mains qui les ont recopiées.",
+  "completionMessage": "Relevé terminé.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "VULGATE",
+      "clue": "Version latine de la Bible due pour l’essentiel à Jérôme",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Travail mené à la fin du IVe siècle, à partir de l’hébreu pour l’Ancien Testament.",
+      "sourceNotes": "Encyclopædia Britannica, article « Vulgate »."
+    },
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 4,
+      "answer": "SOURATE",
+      "clue": "Chapitre du Coran, cent quatorze en tout",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Le classement suit pour l’essentiel la longueur décroissante, non l’ordre de la révélation."
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "SUTRA",
+      "clue": "Fil, en sanskrit ; discours mis par écrit dans le bouddhisme",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 4,
+      "answer": "TORAH",
+      "clue": "Rouleau manuscrit conservé dans l’arche de la synagogue",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Le rouleau est copié à la main sur parchemin par un scribe, le sofer."
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "PARCHEMIN",
+      "clue": "Peau raclée, poncée, tendue, puis écrite",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 3,
+      "answer": "PSAUME",
+      "clue": "Poème chanté du recueil attribué en partie à David",
+      "clueStyle": "definition",
+      "difficultyRating": 2,
+      "explanation": "Cent cinquante pièces, lues dans le judaïsme comme dans le christianisme."
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 7,
+      "answer": "HAFIZ",
+      "clue": "Celui ou celle qui a mémorisé le Coran en entier",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 4,
+      "column": 9,
+      "answer": "MASSORE",
+      "clue": "Appareil de notes qui fixe la lecture du texte hébreu",
+      "clueStyle": "definition",
+      "difficultyRating": 5,
+      "explanation": "Vocalisation, accents et comptages de lettres, établis par des érudits dits massorètes."
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "VEDA",
+      "clue": "Corpus sanskrit longtemps confié à la seule mémoire",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "La récitation védique emploie des procédés redondants qui verrouillent l’ordre des mots."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 6,
+      "answer": "CODEX",
+      "clue": "Cahiers cousus qui ont peu à peu remplacé le rouleau",
+      "clueStyle": "historical",
+      "difficultyRating": 3,
+      "explanation": "Le format s’impose dans le monde méditerranéen entre le IIe et le IVe siècle."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "La Vulgate, version latine de la Bible due pour l’essentiel à Jérôme de Stridon à la fin du IVe siècle, est restée la référence de l’Église latine pendant plus d’un millénaire.",
+      "sourceTitle": "Encyclopædia Britannica — Vulgate",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le Coran compte 114 sourates. Elles sont rangées pour l’essentiel de la plus longue à la plus courte, et non dans l’ordre où la tradition situe leur révélation.",
+      "sourceTitle": "Encyclopædia Britannica — Qurʾān",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Les Veda ont d’abord circulé oralement, au moyen de techniques de récitation redondantes destinées à conserver le texte mot à mot ; les datations proposées pour leur mise par écrit varient largement selon les spécialistes.",
+      "sourceTitle": "Encyclopædia Britannica — Veda",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

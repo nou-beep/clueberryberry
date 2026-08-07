@@ -1,0 +1,116 @@
+{
+  "slug": "fr-a-la-table-marocaine",
+  "title": "À la table marocaine",
+  "language": "fr",
+  "subject": "morocco",
+  "topic": "moroccan-cuisine",
+  "difficulty": "easy",
+  "width": 12,
+  "height": 9,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Neuf plats et ingrédients, du petit-déjeuner au verre de thé.",
+  "completionMessage": "On dessert.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "PASTILLA",
+      "clue": "Feuilleté sucré-salé aux amandes et à la cannelle",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "MSEMEN",
+      "clue": "Crêpe feuilletée pliée en carré",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 0,
+      "answer": "COUSCOUS",
+      "clue": "Semoule roulée à la main, passée trois fois à la vapeur",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 1,
+      "column": 4,
+      "answer": "MENTHE",
+      "clue": "Elle nage dans le verre, en bouquet",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "down",
+      "row": 3,
+      "column": 2,
+      "answer": "HARIRA",
+      "clue": "Soupe de tomate et de légumineuses servie à la rupture du jeûne",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 4,
+      "answer": "TAJINE",
+      "clue": "Plat au couvercle conique qui renvoie la vapeur",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "OLIVE",
+      "clue": "Verte ou noire, dans la coupelle d’entrée",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 7,
+      "answer": "AMLOU",
+      "clue": "Pâte d’amandes, de miel et d’huile du Sud",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 2,
+      "answer": "ARGAN",
+      "clue": "Huile pressée à partir des fruits d’un arbre du Souss",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Les savoirs et pratiques liés à la production et à la consommation du couscous ont été inscrits en 2020 au patrimoine culturel immatériel de l’humanité, à la demande conjointe de l’Algérie, de la Mauritanie, du Maroc et de la Tunisie.",
+      "sourceTitle": "UNESCO — Les savoirs, savoir-faire et pratiques liés à la production et à la consommation du couscous",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "L’arganier pousse principalement dans le sud-ouest du Maroc. L’arganeraie est classée réserve de biosphère par l’UNESCO depuis 1998.",
+      "sourceTitle": "UNESCO — Réserve de biosphère de l’arganeraie",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "La harira, à base de tomate, de légumineuses et d’herbes, est couramment servie au moment de la rupture du jeûne pendant le ramadan ; ses versions régionales diffèrent nettement.",
+      "sourceTitle": "Institut du monde arabe — cuisines du Maghreb",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

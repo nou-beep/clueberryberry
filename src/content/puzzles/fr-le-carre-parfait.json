@@ -1,0 +1,116 @@
+{
+  "slug": "fr-le-carre-parfait",
+  "title": "Le carré parfait",
+  "language": "fr",
+  "subject": "the-2010s",
+  "topic": "2010s-internet",
+  "difficulty": "hard",
+  "width": 10,
+  "height": 10,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 540,
+  "introduction": "Dix ans de fils, de boucles et de mots-dièse.",
+  "completionMessage": "Fil épuisé.",
+  "entries": [
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 1,
+      "answer": "STORY",
+      "clue": "Elle s’efface au bout de vingt-quatre heures",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "ALGORITHME",
+      "clue": "On l’accuse dès que le fil déraille",
+      "clueStyle": "misdirection",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 7,
+      "answer": "GAFAM",
+      "clue": "Cinq géants réunis sous un sigle surtout francophone",
+      "clueStyle": "abbreviation",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 9,
+      "answer": "INSTAGRAM",
+      "clue": "Ses photos ont été carrées jusqu’en 2015",
+      "clueStyle": "cultural",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 1,
+      "column": 1,
+      "answer": "TROLL",
+      "clue": "Il pêche à la ligne dans les commentaires",
+      "clueStyle": "wordplay",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 3,
+      "column": 3,
+      "answer": "PODCAST",
+      "clue": "Baladodiffusion, disent les Québécois",
+      "clueStyle": "cross_language",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "HASHTAG",
+      "clue": "Mot précédé d’un croisillon",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "MEME",
+      "clue": "Image légendée, mot emprunté à un biologiste",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 9,
+      "column": 1,
+      "answer": "VINE",
+      "clue": "Six secondes en boucle, jusqu’en 2017",
+      "clueStyle": "cultural",
+      "difficultyRating": 4
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Instagram, lancé en octobre 2010, n’a accepté que des images carrées jusqu’en août 2015. Facebook en avait fait l’acquisition en 2012.",
+      "sourceTitle": "Meta — Instagram press milestones",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le mot « mème » a été forgé par le biologiste Richard Dawkins dans « Le Gène égoïste » (1976) pour désigner une unité culturelle transmise par imitation, bien avant tout usage en ligne.",
+      "sourceTitle": "Richard Dawkins, The Selfish Gene, Oxford University Press, 1976",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Le sigle GAFAM — Google, Apple, Facebook, Amazon, Microsoft — s’est diffusé surtout dans le débat public francophone ; l’anglais emploie plus volontiers « Big Tech », et la composition de la liste varie.",
+      "sourceTitle": "Vie publique — régulation des grandes plateformes numériques",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

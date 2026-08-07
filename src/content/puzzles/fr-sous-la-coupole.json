@@ -1,0 +1,130 @@
+{
+  "slug": "fr-sous-la-coupole",
+  "title": "Sous la coupole",
+  "language": "fr",
+  "subject": "world-religions",
+  "topic": "rel-architecture",
+  "difficulty": "hard",
+  "width": 12,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 600,
+  "introduction": "Le vocabulaire du bâti sacré, d’une tradition à l’autre.",
+  "completionMessage": "Relevé achevé.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 6,
+      "answer": "TYMPAN",
+      "clue": "Demi-lune sculptée au-dessus d’un portail",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 8,
+      "answer": "MIHRAB",
+      "clue": "Niche creusée dans le mur qui indique la direction de La Mecque",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 11,
+      "answer": "NARTHEX",
+      "clue": "Vestibule qui précède la nef, dans l’église byzantine",
+      "clueStyle": "definition",
+      "difficultyRating": 4
+    },
+    {
+      "direction": "down",
+      "row": 2,
+      "column": 4,
+      "answer": "CLOITRE",
+      "clue": "Galerie couverte autour du jardin d’un monastère",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "GOPURAM",
+      "clue": "Tour-porche des temples dravidiens du sud de l’Inde",
+      "clueStyle": "definition",
+      "difficultyRating": 5
+    },
+    {
+      "direction": "down",
+      "row": 5,
+      "column": 1,
+      "answer": "STUPA",
+      "clue": "Masse pleine, en dôme, élevée sur des reliques bouddhiques",
+      "clueStyle": "definition",
+      "difficultyRating": 3,
+      "explanation": "On en fait le tour par la droite plutôt que d’y entrer."
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 6,
+      "answer": "PAGODE",
+      "clue": "Toits étagés qui vont se rétrécissant, en Asie orientale",
+      "clueStyle": "definition",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 7,
+      "column": 0,
+      "answer": "MUQARNAS",
+      "clue": "Alvéoles emboîtées qui font passer du mur droit à la voûte",
+      "clueStyle": "definition",
+      "difficultyRating": 5,
+      "explanation": "Grenade, Ispahan et Fès en offrent des ensembles très travaillés.",
+      "sourceNotes": "UNESCO — Alhambra, Generalife et Albaicín, Grenade."
+    },
+    {
+      "direction": "down",
+      "row": 7,
+      "column": 10,
+      "answer": "BIMA",
+      "clue": "Estrade d’où l’on fait la lecture, à la synagogue",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "L’usage ashkénaze dit plutôt « almemor » dans certaines communautés."
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 3,
+      "answer": "GURDWARA",
+      "clue": "Édifice sikh où le livre est installé et le repas servi à tous",
+      "clueStyle": "definition",
+      "difficultyRating": 4,
+      "explanation": "Le langar, cuisine commune, en fait partie intégrante."
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Les muqarnas, alvéoles taillées ou moulées et assemblées en encorbellement, assurent la transition entre un support droit et une coupole. L’Alhambra de Grenade en conserve des ensembles du XIVe siècle.",
+      "sourceTitle": "UNESCO — Alhambra, Generalife et Albaicín, Grenade",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Un gurdwara abrite le Guru Granth Sahib et comporte un langar, cuisine commune où le repas est préparé et servi sans distinction de statut, d’origine ou de religion.",
+      "sourceTitle": "Encyclopædia Britannica — gurdwara",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "Dans les grands temples du sud de l’Inde, les tours-porches ont pris au fil des reconstructions des dimensions que l’on décrit souvent comme supérieures à celles du sanctuaire lui-même ; la comparaison varie d’un site à l’autre.",
+      "sourceTitle": "Encyclopædia Britannica — gopura",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}

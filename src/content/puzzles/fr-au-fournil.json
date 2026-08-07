@@ -1,0 +1,116 @@
+{
+  "slug": "fr-au-fournil",
+  "title": "Au fournil",
+  "language": "fr",
+  "subject": "food",
+  "topic": "baking",
+  "difficulty": "easy",
+  "width": 9,
+  "height": 12,
+  "author": "Clueberry Desk",
+  "editor": "Clueberry Desk",
+  "status": "published",
+  "estimatedSolveTime": 330,
+  "introduction": "Farine, beurre et chaleur : ce qu’il faut savoir avant d’enfourner.",
+  "completionMessage": "C’est cuit.",
+  "entries": [
+    {
+      "direction": "across",
+      "row": 0,
+      "column": 0,
+      "answer": "BRIOCHE",
+      "clue": "Pâte gorgée de beurre, souvent coiffée d’une tête",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 0,
+      "column": 4,
+      "answer": "CANNELE",
+      "clue": "Spécialité bordelaise cuite dans un moule de cuivre",
+      "clueStyle": "cultural",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "across",
+      "row": 2,
+      "column": 0,
+      "answer": "MERINGUE",
+      "clue": "Des blancs montés, puis séchés plus que cuits",
+      "clueStyle": "definition",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 4,
+      "column": 3,
+      "answer": "PETRIR",
+      "clue": "Travailler la pâte à pleines mains",
+      "clueStyle": "definition",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 6,
+      "column": 0,
+      "answer": "GLUTEN",
+      "clue": "Réseau élastique qui retient les bulles",
+      "clueStyle": "scientific",
+      "difficultyRating": 3
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 1,
+      "answer": "LEVURE",
+      "clue": "Elle mange le sucre et rend du gaz",
+      "clueStyle": "scientific",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "down",
+      "row": 6,
+      "column": 7,
+      "answer": "FARINE",
+      "clue": "T45, T65, T110",
+      "clueStyle": "everyday",
+      "difficultyRating": 1
+    },
+    {
+      "direction": "across",
+      "row": 8,
+      "column": 4,
+      "answer": "FOUR",
+      "clue": "Il chauffe, sauf quand c’est un échec",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    },
+    {
+      "direction": "across",
+      "row": 10,
+      "column": 0,
+      "answer": "CROISSANT",
+      "clue": "Feuilleté du matin, ou phase de la Lune",
+      "clueStyle": "wordplay",
+      "difficultyRating": 2
+    }
+  ],
+  "factCards": [
+    {
+      "text": "Le gluten se forme quand deux protéines du blé, la gliadine et la gluténine, s’associent en présence d’eau sous l’effet du travail mécanique. C’est ce réseau qui retient le gaz de la fermentation.",
+      "sourceTitle": "INRAE — blé, farine et panification",
+      "reviewStatus": "verified"
+    },
+    {
+      "text": "En France, le type d’une farine — T45, T65, T110… — indique son taux de cendres, c’est-à-dire la part de matière minérale subsistant après incinération : plus le chiffre est élevé, plus la farine est complète.",
+      "sourceTitle": "Code des usages de la meunerie française",
+      "reviewStatus": "needs_review"
+    },
+    {
+      "text": "Le cannelé de Bordeaux se cuit à très haute température dans un moule de cuivre étamé, d’où sa croûte caramélisée et son cœur moelleux. Les récits sur son origine conventuelle ne reposent pas sur des sources anciennes.",
+      "sourceTitle": "Confrérie du Cannelé de Bordeaux",
+      "reviewStatus": "needs_review"
+    }
+  ]
+}
